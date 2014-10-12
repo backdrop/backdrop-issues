@@ -1,4 +1,9 @@
 Backdrop Issue Tracker
 ======================
 
-This repository holds no code. It's specifically for accessing the [Backdrop Issue Tracker](https://github.com/backdrop/issues/issues). Please use this tracker when filing bug reports or features.
+Welcome to the [Backdrop Issue Tracker](https://github.com/backdrop/issues/issues).
+
+This repository contains no code. It exists specifically for reporting and working on issues. Please use this tracker for any of the following:
+* filing bug reports
+* requesting new features
+
