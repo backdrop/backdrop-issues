@@ -1,6 +1,8 @@
 Backdrop Issue Tracker
 ======================
 
+[![Join the chat at https://gitter.im/backdrop/backdrop-issues](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/backdrop/backdrop-issues?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Welcome to the [Backdrop Issue Tracker](https://github.com/backdrop/issues/issues).
 
 This repository contains no code. It exists specifically for reporting and working on issues. Please use this tracker for:
