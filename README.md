@@ -32,7 +32,7 @@ If you encounter a security issue with *any* of these projects, please contact [
 Online Chat
 -----------
 
-We have been using the Gitter.im chat service to chat real-time about Backdrop.
-Have questions or just want to say hello? Please join us!
+Backdrop has an official public Gitter channel that pairs nicely with the GitHub
+issue queue. Have questions or just want to say hello? Please join us!
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/backdrop/backdrop-issues?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
