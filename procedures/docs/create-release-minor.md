@@ -2,21 +2,44 @@ Steps to create a MINOR release
 =================================
 
 
+Accompanying Bug-Fix Release Checklist
+---------------------------------------
+
+
 ## Pre-release tasks
 
-- [ ] Merge commits @quicksketch, @serundeputy
+- [ ] Merge commits @quicksketch, @serundeputy, @docwilmot
+- [ ] Create a new bugfix release @quicksketch, @serundeputy
+- [ ] Move all unfinished issues to the next bugfix release milestone @quicksketch, @serundeputy
+- [ ] Draft Release notes @quicksketch, @serundeputy
+
+## Release tasks
+
+- [ ] Update bootstrap.inc with version number @quicksketch, @serundeputy
+- [ ] Tag for release, push to GitHub @quicksketch, @serundeputy
+- [ ] Create release notes on GitHub @quicksketch, @serundeputy
+- [ ] Revert version number back @quicksketch, @serundeputy
+
+
+Minor Release Checklist
+------------------------
+
+
+## Pre-release tasks
+
+- [ ] Merge commits @quicksketch, @serundeputy, @docwilmot
 - [ ] Create a new minor release to follow the current version
-- [ ] Move all unfinished issues to the next minor release
-- [ ] Draft Release notes @serundeputy, @quicksketch, @jenlampton
+- [ ] Move all unfinished issues to the next minor release milestone @quicksketch, @serundeputy
+- [ ] Draft Release notes @quicksketch, @serundeputy
 - [ ] Draft blog post @tomgrandy, @klonos, @jenlampton
 
 ## Release tasks
 
 - [ ] Update bootstrap.inc with version number @quicksketch, @serundeputy
 - [ ] Tag for release, push to GitHub @quicksketch, @serundeputy
-- [ ] Create release notes on GitHub @serundeputy, @quicksketch, @jenlampton
+- [ ] Create release notes on GitHub @serundeputy, @quicksketch
 - [ ] Revert version number back @quicksketch, @serundeputy
-- [ ] Update the front page download link on b.org. @quicksketch
+- [ ] Update the front page download link on b.org. @quicksketch, @serundeputy
 - [ ] Tweet that a new release is out @quicksketch, @jenlampton, @thejimbirch
 - [ ] Publish blog post @tomgrandy, @klonos, @jenlampton
 
