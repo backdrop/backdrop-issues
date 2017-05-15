@@ -1,7 +1,9 @@
-### Steps to reproduce
+## Describe your issue or idea
 
-### Actual behavior
+### Steps to reproduce (if reporting a bug)
 
-### Expected behavior
+### Actual behavior (if reporting a bug)
 
-### Any additional version/system information
+### Expected behavior (if reporting a bug)
+
+### Relevantt version/system information (if applicable)
