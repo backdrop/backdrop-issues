@@ -32,13 +32,14 @@ Minor Release Checklist
 - [ ] Move all unfinished issues to the next minor release milestone @quicksketch, @serundeputy
 - [ ] Draft Release notes @quicksketch, @serundeputy
 - [ ] Draft blog post @tomgrandy, @klonos, @jenlampton
+- [ ] Draft a newsletter via MailChimp
 
 ## Release tasks
 
 - [ ] Update bootstrap.inc with version number @quicksketch, @serundeputy
 - [ ] Tag for release, push to GitHub @quicksketch, @serundeputy
-- [ ] Create release notes on GitHub @serundeputy, @quicksketch
 - [ ] Revert version number back @quicksketch, @serundeputy
+- [ ] Create release notes on GitHub @serundeputy, @quicksketch
 - [ ] Update the front page download link on b.org. @quicksketch, @serundeputy
 - [ ] Tweet that a new release is out @quicksketch, @jenlampton, @thejimbirch
 - [ ] Publish blog post @tomgrandy, @klonos, @jenlampton
@@ -52,5 +53,5 @@ Minor Release Checklist
 
 ## Post-release tasks (after first bug-fix release)
 
-- [ ] Push the minor release to the Pantheon repository (two weeks after release) @serundeputy
-- [ ] Send a newsletter via MailChimp (two weeks after release) @jenlampton
+- [ ] Push the minor release to the Pantheon repository @serundeputy
+- [ ] Send a newsletter via MailChimp @jenlampton

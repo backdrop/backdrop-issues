@@ -14,8 +14,8 @@ Steps to create a BUG-FIX release
 
 - [ ] Update bootstrap.inc with version number @quicksketch, @serundeputy
 - [ ] Tag for release, push to GitHub @quicksketch, @serundeputy
-- [ ] Create release notes on GitHub @serundeputy, @quicksketch, @jenlampton
 - [ ] Revert version number back @quicksketch, @serundeputy
+- [ ] Create release notes on GitHub @serundeputy, @quicksketch, @jenlampton
 - [ ] Update the front page download link on b.org.
 - [ ] Tweet that a new release is out @quicksketch, @jenlampton, @thejimbirch
 - [ ] Publish Security Advisory on b.org (if necessary)
