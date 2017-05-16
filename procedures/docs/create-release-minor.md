@@ -40,6 +40,7 @@ Minor Release Checklist
 - [ ] Tag for release, push to GitHub @quicksketch, @serundeputy
 - [ ] Revert version number back @quicksketch, @serundeputy
 - [ ] Create release notes on GitHub @serundeputy, @quicksketch
+- [ ] Unpublish preview release on backdropcms.org @quicksketch, @serundeputy
 - [ ] Update the front page download link on b.org. @quicksketch, @serundeputy
 - [ ] Tweet that a new release is out @quicksketch, @jenlampton, @thejimbirch
 - [ ] Publish blog post @tomgrandy, @klonos, @jenlampton
