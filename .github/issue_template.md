@@ -6,4 +6,4 @@
 
 ### Expected behavior (if reporting a bug)
 
-### Relevantt version/system information (if applicable)
+### Relevant version/system information (if applicable)
