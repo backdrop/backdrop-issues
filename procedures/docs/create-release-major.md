@@ -21,6 +21,7 @@ Steps to create a MAJOR release
 - [ ] Update the front page download link on b.org. @quicksketch, @serundeputy
 - [ ] Tweet that a new version is out @quicksketch, @jenlampton, @thejimbirch
 - [ ] Publish blog post @tomgrandy, @klonos, @jenlampton
+- [ ] email katie@phpweekly.com for a note in the PHP Weekly Newsletter @jenlampton, ??
 
 ## Post-release tasks
 
