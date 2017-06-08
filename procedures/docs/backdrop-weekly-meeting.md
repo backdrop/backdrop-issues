@@ -35,21 +35,21 @@ If you said yes to both of these questions, then yes, you are qualified to run a
 
 1. Visit the [YouTube meeting list](https://www.youtube.com/my_live_events)
 
-1. Start the meeting by clicking the “Start hangout on air” button
+1. Start the meeting by clicking the “Start hangout on air” button for the appropriate meeting.
 
 1. Post a link to join the meeting into the backdrop channels for [Gitter.im](https://gitter.im/backdrop/backdrop-issues)
    * Copy the URL for the hangout
    * Remove the ?eid=whatever from the end of the URL
-   * Use [BitLy]https://bitly.com) to shorten the URL
+   * Use [BitLy](https://bitly.com) to shorten the URL
    * Paste the shortened URL into the google doc where it says @todo
 
-1. Start the livestream!
+1. Start the livestream.
 
 1. Talk through the agenda one item at a time.
    * Ask if anyone else has additional updates or questions as you go
    * At the end of the meeting, ask if anyone has anything else to add
 
-1. Stop the livestream
+1. Stop the livestream.
 
 1. Update the YouTube event title
    * Choose the most memorable thing about the meeting, and add it to the meeting title.
