@@ -26,12 +26,12 @@ If you said yes to both of these questions, then yes, you are qualified to run a
 ## Steps required for running a weekly meeting:
 
 1. Locate the meeting agenda
-  - it's located in our [Agendas folder on Google Drive](http://bit.ly/2sZbS8l)
-  - it's also usually been [tweeted](https://twitter.com/backdropcms) in advance of the meeting
+   * it's located in our [Agendas folder on Google Drive](http://bit.ly/2sZbS8l)
+   * it's also usually been [tweeted](https://twitter.com/backdropcms) in advance of the meeting
 
 1. (Optional) Update the meeting agenda
-  * add anything new & exciting
-  * remove anything you are not comfortable talking about
+   * add anything new & exciting
+   * remove anything you are not comfortable talking about
 
 1. Visit the [YouTube meeting list](https://www.youtube.com/my_live_events)
 
@@ -49,7 +49,9 @@ If you said yes to both of these questions, then yes, you are qualified to run a
    * Ask if anyone else has additional updates or questions as you go
    * At the end of the meeting, ask if anyone has anything else to add
 
-1. Update the YouTube event title at the end of the meeting
+1. Stop the livestream
+
+1. Update the YouTube event title
    * Choose the most memorable thing about the meeting, and add it to the meeting title.
    * For example: “Backdrop weekly 3/13” becomes  “Backdrop Weekly 3/31 (redirect + project browser are near completion!)”
 
