@@ -18,7 +18,9 @@ Steps to create a BUG-FIX release
 - [ ] Create release notes on GitHub @serundeputy, @quicksketch, @jenlampton
 - [ ] Update the front page download link on b.org.
 - [ ] Tweet that a new release is out @quicksketch, @jenlampton, @thejimbirch
-- [ ] Publish Security Advisory on b.org (if necessary)
+- If this is a security release:
+  - [ ] Publish Security Advisory on b.org
+  - [ ] Mark the release node on b.org as a security release (tick the checkbox)
 
 ## Post-release tasks (asap)
 
