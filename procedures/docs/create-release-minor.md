@@ -49,6 +49,17 @@ Minor Release Checklist
 ## Post-release tasks (asap)
 
 - [ ] Update the docker image to the latest @serundeputy
+- [ ] Update the [Roadmap](https://backdropcms.org/roadmap) page on b.org, @klonos:
+  - "Project History and Future" section:
+    - [ ] Add a new entry for the next minor release in the list of releases
+    - [ ] Move the "(current release)" pointer to the current release entry
+  - Add a section for the next-to-next release in the main text:
+    - [ ] Copy-paste the "New features planned for ..." section
+  - In the section for the current release:
+    - [ ] Change the "New features planned for" to "Key features in" in the section title
+    - [ ] Change the star icon to a checkbox icon (`class="fa fa-star-o"` to `class="fa fa-check-square-o"`)
+    - [ ] Add a "([release notes]()" link
+    - [ ] Update the list of features as necessary, according to release notes 
 - [ ] Update the Wikipedia articles to at least show the proper version number and date for latest release @klonos
   - [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
   - [ ] https://en.wikipedia.org/wiki/List_of_content_management_systems
