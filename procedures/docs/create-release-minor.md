@@ -60,7 +60,8 @@ Minor Release Checklist
     - [ ] Change the star icon to a checkbox icon (`class="fa fa-star-o"` to `class="fa fa-check-square-o"`)
     - [ ] Add a "([release notes]())" link
     - [ ] Add an [announcement]() link (when respective blog post is published)
-    - [ ] Update the list of features as necessary, according to release notes 
+    - [ ] Update the list of features as necessary, according to release notes
+    - [ ] Remove the "See the Github issue tracker..." item
 - [ ] Update the Wikipedia articles to at least show the proper version number and date for latest release @klonos
   - [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
   - [ ] https://en.wikipedia.org/wiki/List_of_content_management_systems
