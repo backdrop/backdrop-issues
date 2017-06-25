@@ -54,11 +54,12 @@ Minor Release Checklist
     - [ ] Add a new entry for the next minor release in the list of releases
     - [ ] Move the "(current release)" pointer to the current release entry
   - Add a section for the next-to-next release in the main text:
-    - [ ] Copy-paste the "New features planned for ..." section
+    - [ ] Copy-paste the "New features planned for ..." section and change the version number, release date and GitHub issue tracker link
   - In the section for the current release:
     - [ ] Change the "New features planned for" to "Key features in" in the section title
     - [ ] Change the star icon to a checkbox icon (`class="fa fa-star-o"` to `class="fa fa-check-square-o"`)
-    - [ ] Add a "([release notes]()" link
+    - [ ] Add a "([release notes]())" link
+    - [ ] Add an [announcement]() link (when respective blog post is published)
     - [ ] Update the list of features as necessary, according to release notes 
 - [ ] Update the Wikipedia articles to at least show the proper version number and date for latest release @klonos
   - [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
