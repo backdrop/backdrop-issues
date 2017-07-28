@@ -15,5 +15,6 @@ Fix Up the Markdown File with links to issues
 Open the `my_tmp_markdown_file.md` and do a find replace with the folling regex:
 
 ```
-@TODO: Get regex out of Nate's Head and into docs.
+REGEX: Find: (Issue #)(\w\w+)(.*?)(node\/)
+Replace: $1$2$3$4$2
 ```
