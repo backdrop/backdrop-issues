@@ -9,7 +9,6 @@ Accompanying Bug-Fix Release Checklist
 ## Pre-release tasks
 
 - [ ] Merge commits @quicksketch, @serundeputy, @docwilmot
-- [ ] Create a new bugfix release @quicksketch, @serundeputy
 - [ ] Move all unfinished issues to the next bugfix release milestone @quicksketch, @serundeputy
 - [ ] Draft Release notes @quicksketch, @serundeputy
 
@@ -44,7 +43,7 @@ Minor Release Checklist
 - [ ] Update the front page download link on b.org. @quicksketch, @serundeputy
 - [ ] Tweet that a new release is out @quicksketch, @jenlampton, @thejimbirch
 - [ ] Publish blog post @tomgrandy, @klonos, @jenlampton
-- [ ] email katie@phpweekly.com for a note in the PHP Weekly Newsletter @jenlampton, ??
+- [ ] email katie@phpweekly.com for a note in the PHP Weekly Newsletter @jenlampton
 
 ## Post-release tasks (asap)
 
