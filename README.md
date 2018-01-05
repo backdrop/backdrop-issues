@@ -24,15 +24,18 @@ modules, please see these other repositories:
 
 - [backdropcms.org issues](https://github.com/backdrop-ops/backdropcms.org/issues)
 - [api.backdropcms.org issues](https://github.com/backdrop-ops/api.backdropcms.org/issues)
+- [forum.backdropcms.org issues](https://github.com/backdrop-ops/forum.backdropcms.org/issues)
 - [contributed modules](https://github.com/backdrop-contrib/)
 - [apply to join the contributor module team](https://github.com/backdrop-ops/contrib/issues)
 
 If you encounter a security issue with *any* of these projects, please contact [security@backdropcms.org](mailto:security@backdropcms.org).
 
-Online Chat
------------
+Online Chat and Support
+-----------------------
 
 Backdrop has an official public Gitter channel that pairs nicely with the GitHub
 issue queue. Have questions or just want to say hello? Please join us!
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/backdrop/backdrop-issues?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+We also have a [forum](https://forum.backdropcms.org/) where you can post questions and answers.
