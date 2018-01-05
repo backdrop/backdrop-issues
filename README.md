@@ -38,4 +38,6 @@ issue queue. Have questions or just want to say hello? Please join us!
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/backdrop/backdrop-issues?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-We also have a [forum](https://forum.backdropcms.org/) where you can post questions and answers.
+Backdrop also has a [forum](https://forum.backdropcms.org/) where you can post
+questions, find similar questions asked by others, and help those with less 
+experience by providing answers of your own. Come join the community!
