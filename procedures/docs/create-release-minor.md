@@ -67,5 +67,6 @@ Minor Release Checklist
 
 ## Post-release tasks (after first bug-fix release)
 
-- [ ] Push the minor release to the Pantheon repository @serundeputy
+- [ ] Push the bug-fix release to the Pantheon [repository](https://github.com/backdrop-ops/backdrop-pantheon) @quicksketch, @serundeputy
+- [ ] Push the bug-fix release to the Platform.sh [repository](https://github.com/platformsh/platformsh-example-backdrop) @quicksketch, @serundeputy
 - [ ] Send a newsletter via MailChimp @jenlampton
