@@ -28,10 +28,15 @@ Steps to create a MAJOR release
 
 ## Post-release tasks (after first bug-fix release or 14 days (whichever comes sooner)
 
-- [ ] Push the minor release to the Pantheon repository (assign to quicksketch / serundeputy)
+- [ ] Push the minor release to the [Pantheon repository](https://github.com/backdrop-ops/backdrop-pantheon) (assign to quicksketch / serundeputy)
+- [ ] Push the minor release to the [Platform.sh repository](https://github.com/platformsh/platformsh-example-backdrop) (assign to quicksketch / serundeputy)
 - [ ] Publish blog post (assign to tomgrandy / klonos / jenlampton / quicksketch)
 - [ ] Send a newsletter via MailChimp (assign to facetinteractive / tomgrandy / jenlampton)
 - [ ] email katie@phpweekly.com for a note in the PHP Weekly Newsletter (assign to tomgrandy / klonos / jenlampton)
 - [ ] Update the Wikipedia articles (assign to klonos / jenlampton)
   - [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
   - [ ] https://en.wikipedia.org/wiki/List_of_content_management_systems
+
+
+See the Accompanying Bug-Fix Release Checklist
+----------------------------------------------
