@@ -9,7 +9,10 @@ Steps to create a MAJOR release
 - [ ] Create the next minor milestone (assign to quicksketch / serundeputy / jenlampton)
 - [ ] Move all unfinished issues to the next major release milestone (assign to quicksketch / serundeputy / jenlampton)
 - [ ] Draft Release notes (assign to serundeputy / quicksketch / jenlampton)
+  - [ ] Short, descriptive summary of the release
   - [ ] Note if any changes were made to files outside the `core` directory
+  - [ ] Note if updates (update.php) needs to be run
+  - [ ] Include changelog since last version (generated with drush rn)
 - [ ] Draft blog post (assign to tomgrandy / klonos / jenlampton / quicksketch)
 - [ ] Draft a newsletter via MailChimp (assign to facetinteractive / tomgrandy / jenlampton)
 

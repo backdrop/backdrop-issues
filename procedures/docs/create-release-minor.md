@@ -7,7 +7,10 @@ DRAFT Steps to create a MINOR release
 - [ ] Merge commits (assign to quicksketch / serundeputy / docwilmot)
 - [ ] Move all unfinished issues to the next bugfix release milestone @quicksketch, @serundeputy
 - [ ] Draft Release notes (assign to serundeputy / quicksketch / jenlampton)
+  - [ ] Short, descriptive summary of the release
   - [ ] Note if any changes were made to files outside the `core` directory
+  - [ ] Note if updates (update.php) needs to be run
+  - [ ] Include changelog since last version (generated with drush rn)
 
 
 ## Release tasks
