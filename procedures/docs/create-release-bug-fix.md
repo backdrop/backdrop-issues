@@ -9,7 +9,10 @@ Steps to create a BUG-FIX release
 - [ ] Create the next bugfix milestone (assign to quicksketch / serundeputy / jenlampton)
 - [ ] Move all unfinished issues to the next bugfix release milestone (assign to quicksketch / serundeputy / jenlampton)
 - [ ] Draft Release notes (assign to serundeputy / quicksketch / jenlampton)
+  - [ ] Short, descriptive summary of the release
   - [ ] Note if any changes were made to files outside the `core` directory
+  - [ ] Note if updates (update.php) needs to be run
+  - [ ] Include changelog since last version (generated with drush rn)
 - If this is a security release:
   - [ ] Draft Security Advisory (assign to serundeputy / quicksketch / jenlampton)
 
