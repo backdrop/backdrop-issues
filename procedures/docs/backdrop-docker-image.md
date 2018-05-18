@@ -4,10 +4,10 @@ Update Official Backdrop CMS Docker Image
 
 ##### 1. Update the backdrop-ops/docker image https://github.com/backdrop-ops/backdrop-docker
 
-  * Update  `ENVVAR` for` BACKDROP_VERSION` to the new release tag
+  * Update  `ENV` for `BACKDROP_VERSION` to the new release tag
     * Update Dockerfiles (apache) with the new version string
     * Update Dockerfiles (fpm) with the new version string
-  * Update the MD5 checksum
+  * Update `ENV` for `BACKDROP_MD5` to the new md5 hash
     * Download the release in question
     * Run `md5 {filename}.tar.gz`
       * This will output the new md5 hash
