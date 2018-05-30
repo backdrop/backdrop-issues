@@ -32,7 +32,8 @@ Steps to create a BUG-FIX release
 ## Post-release tasks
 
 - [ ] Push the bug-fix release to the [Pantheon repository](https://github.com/backdrop-ops/backdrop-pantheon) (assign to serundeputy / quicksketch)
-- [ ] Push the bug-fix release to the [Platform.sh repository](https://github.com/platformsh/platformsh-example-backdrop) (assign to serundeputy / quicksketch)
+- [ ] Push the bug-fix release to the [Platform.sh repository](https://github.com/platformsh/platformsh-example-backdrop) (@serundeputy)
+- [ ] Push the bug-fix release to the [Docker repository](https://github.com/docker-library/official-images/blob/master/library/backdrop) (@jenlampton)
 - [ ] Update the Wikipedia articles (assign to klonos / jenlampton)
   - [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
   - [ ] https://en.wikipedia.org/wiki/List_of_content_management_systems
