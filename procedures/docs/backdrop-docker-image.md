@@ -2,7 +2,7 @@
 Update Official Backdrop CMS Docker Image
 ---
 
-### 1. Update the backdrop-ops/docker image https://github.com/backdrop-ops/backdrop-docker
+##### 1. Update the backdrop-ops/docker image https://github.com/backdrop-ops/backdrop-docker
 
   * Update  `ENV` for `BACKDROP_VERSION` to the new release tag
     * Update Dockerfiles (apache) with the new version string
@@ -19,7 +19,7 @@ Update Official Backdrop CMS Docker Image
     * Get merge commit hash for official docker-library
 
 
-### 2. Tell the Docker official images to build against the latest source
+##### 2. Tell the Docker official images to build against the latest source
 
 * A PR needs to be submitted against the official docker-images repo
 https://github.com/docker-library/official-images/blob/master/library/backdrop
