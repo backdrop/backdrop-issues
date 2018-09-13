@@ -11,8 +11,8 @@ DRAFT Steps to create a MINOR release
   - [ ] Note if any changes were made to files outside the `core` directory
   - [ ] Note if updates (update.php) needs to be run
   - [ ] Include changelog since last version (generated with drush rn)
-- [ ] Draft blog post (assign to stpaultim or tomgrandy)
-- [ ] Draft roadmap updates for backdropcms.org @stpaultim (assign to stpaultim or klonos)
+- [ ] Draft blog post (assign to stpaultim / tomgrandy)
+- [ ] Draft roadmap updates for backdropcms.org @stpaultim (assign to stpaultim / klonos / jenlampton)
 
 
 ## Release tasks
@@ -35,8 +35,8 @@ DRAFT Steps to create a MINOR release
 - [ ] Publish blog post (assign to tomgrandy / klonos / jenlampton)
 - [ ] Send a newsletter via MailChimp (assign to facetinteractive / tomgrandy / jenlampton)
 - [ ] email katie@phpweekly.com for a note in the PHP Weekly Newsletter (assign to tomgrandy / klonos / jenlampton)
-- [ ] Publish roadmap updates for backdropcms.org (assign to stpaultim or klonos)
-- [ ] Update the Wikipedia articles (assign to klonos / jenlampton)
+- [ ] Publish roadmap updates for backdropcms.org (assign to stpaultim / klonos / jenlampton)
+- [ ] Update the Wikipedia articles (assign to stpaultim / klonos / jenlampton)
   - [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
   - [ ] https://en.wikipedia.org/wiki/List_of_content_management_systems
 
