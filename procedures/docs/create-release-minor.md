@@ -1,11 +1,11 @@
 DRAFT Steps to create a MINOR release
 =====================================
-
+Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 
 ## Pre-release tasks
 
 - [ ] Merge commits (assign to quicksketch / serundeputy / docwilmot)
-- [ ] Move all unfinished issues to the next bugfix release milestone @quicksketch, @serundeputy
+- [ ] Move all unfinished issues to the next bugfix release milestone (assign to quicksketch / serundeputy)
 - [ ] Draft Release notes (assign to serundeputy / quicksketch / jenlampton)
   - [ ] Short, descriptive summary of the release
   - [ ] Note if any changes were made to files outside the `core` directory
@@ -19,7 +19,9 @@ DRAFT Steps to create a MINOR release
 
 - [ ] Update bootstrap.inc with version number (assign to quicksketch / serundeputy)
 - [ ] Tag for release, and push tag to GitHub (assign to quicksketch / serundeputy)
-- [ ] Revert version number back (assign to quicksketch / serundeputy)
+- [ ] Branch for new minor number (e.g. `1.10.x`) and push to GitHub (assign to quicksketch / serundeputy)
+- [ ] Revert version number back on 1.x branch with minor number increased (e.g. `1.11.x-dev`) (assign to quicksketch / serundeputy)
+- [ ] Revert version number back on new minor number branch (e.g. `1.10.x-dev`) (assign to quicksketch / serundeputy)
 - [ ] Create release notes on GitHub (assign to serundeputy / quicksketch / jenlampton)
   - [ ] Double check if any changes were made to files outside the `core` directory
 - [ ] Unpublish preview release on backdropcms.org (assign to serundeputy / quicksketch / jenlampton)
