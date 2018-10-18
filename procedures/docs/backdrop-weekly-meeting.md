@@ -12,8 +12,8 @@ If you said yes to both of these questions, then yes, you are qualified to run a
 
 ## What do you need to have access to?
 
-* You will need access to The Backdrop CMS Google Page
-  - You will log in with your own account, and that account will be made a page admin.
+* You will need manager access to [The Backdrop CMS Google Page](https://aboutme.google.com/u/0/b/107335894649589204558/#name)
+  - You will log in to Google with your own account, and that account will be made a page manager.
 * You will need access to Google Drive
   - All agendas are located in our [Agendas folder on Google Drive](http://bit.ly/2sZbS8l)
 * You will need a GitHub account to access [Gitter.im](https://gitter.im/backdrop/backdrop-issues)
