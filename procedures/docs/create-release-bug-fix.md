@@ -13,8 +13,9 @@ Steps to create a BUG-FIX release
   - [ ] Note if any changes were made to files outside the `core` directory
   - [ ] Note if updates (update.php) needs to be run
   - [ ] Include changelog since last version (generated with drush rn)
-- If this is a security release:
-  - [ ] Draft Security Advisory (assign to serundeputy / quicksketch / jenlampton)
+
+If this is a security release:
+- [ ] Draft Security Advisory (assign to serundeputy / quicksketch / jenlampton)
 
 ## Release tasks
 
@@ -25,9 +26,11 @@ Steps to create a BUG-FIX release
   - [ ] Double check if any changes were made to files outside the `core` directory
 - [ ] Update the front page download link on b.org (assign to jenlampton / klonos / stpaultim)
 - [ ] Tweet that a new release is out (assign to quicksketch / jenlampton / jimbirch)
-- If this is a security release:
-  - [ ] Publish Security Advisory on b.org (assign to serundeputy / quicksketch / jenlampton)
-  - [ ] Mark the release node on b.org as a security release (assign to serundeputy / quicksketch / jenlampton)
+
+If this is a security release:
+- [ ] Publish Security Advisory on b.org (assign to serundeputy / quicksketch / jenlampton)
+- [ ] Mark the release node on b.org as a security release (assign to serundeputy / quicksketch / jenlampton)
+- [ ] Request CVE (assign to quicksketch)
 
 ## Post-release tasks
 
@@ -37,3 +40,6 @@ Steps to create a BUG-FIX release
 - [ ] Update the Wikipedia articles (assign to stpaultim / klonos / jenlampton)
   - [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
   - [ ] https://en.wikipedia.org/wiki/List_of_content_management_systems
+
+If this is a security release:
+- [ ] Update the Security Advisory with CVE (assign to quicksketch)
