@@ -12,15 +12,17 @@ If you said yes to both of these questions, then yes, you are qualified to run a
 
 ## What do you need to have access to?
 
-* You will need access to the Backdrop CMS google account
+* You will need access to The Backdrop CMS Google Page
+  - You will log in with your own account, and that account will be made a page admin.
+* You will need access to Google Drive
   - All agendas are located in our [Agendas folder on Google Drive](http://bit.ly/2sZbS8l)
-  - All meetings are managed through [YouTube](https://www.youtube.com)
 * You will need a GitHub account to access [Gitter.im](https://gitter.im/backdrop/backdrop-issues)
 
 
 ## Before you can run a weekly meeting:
 
-* Test that you can log in to [YouTube](https://www.youtube.com) as Backdrop CMS
+* Test that you can log in to [YouTube](https://www.youtube.com) with your own account
+* Test that you can "switch accunts" to the Backdrop CMS Page
 * Test that you see the "Start hangout on air" button on the [YouTube event list](https://www.youtube.com/my_live_events)
 
 ## Steps required for running a weekly meeting:
