@@ -53,7 +53,7 @@ If you said yes to both of these questions, then yes, you are qualified to run a
 
 1. Stop the livestream.
 
-1. Update the YouTube event title
+1. (Optional) Update the YouTube event title
    * Choose the most memorable thing about the meeting, and add it to the meeting title.
    * For example: “Backdrop weekly 3/13” becomes  “Backdrop Weekly 3/31 (redirect + project browser are near completion!)”
 
@@ -63,7 +63,9 @@ That’s it!!! :)
 
 * Creating the meeting agenda
   - It was started the week before, and only needs to be updated
-* Creating the “event” on YouTUbe
+* Creating the “event” on YouTube
   - It was created the week before, and the link should be correct in the agenda
 * Tweeting about the meeting
-  - Tweets have been previously scheduled
+  - Tweets have been previously scheduled, and should go out automatically.
+* Setting things up for next week
+  - We'll handle thos for you too, after your work here is done.
