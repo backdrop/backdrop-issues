@@ -37,7 +37,7 @@ If you said yes to both of these questions, then yes, you are qualified to run a
 1. (Optional) Update the meeting agenda
    * add anything new & exciting
    * remove anything you are not comfortable talking about
-   * see the docs on how to update the agenda
+   * see the [docs on how to update the agenda](http://bit.ly/2yOkeF4)
 
 1. Visit the [YouTube meeting list](https://www.youtube.com/my_live_events)
 
