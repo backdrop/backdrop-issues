@@ -1,7 +1,7 @@
 
 # How to run a Backdrop weekly meeting:
 
-Link to this document: http://bit.ly/1UvUEKY
+Link to this document: http://bit.ly/2SDXTlS
 
 
 ## Are you qualified to run a meeting?
