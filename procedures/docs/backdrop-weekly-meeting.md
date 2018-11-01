@@ -3,10 +3,12 @@
 
 Link to this document: http://bit.ly/1UvUEKY
 
+
 ## Are you qualified to run a meeting?
 
+* Are you even a little bit passionate about Backdrop CMS?
 * Are you comfortable guiding your friends and colleagues through an agenda?
-* Are you at least a  little bit passionate about Backdrop CMS?
+
 
 If you said yes to both of these questions, then yes, you are qualified to run a meeting!
 
@@ -25,6 +27,7 @@ If you said yes to both of these questions, then yes, you are qualified to run a
 * Test that you can "switch accunts" to the Backdrop CMS Page
 * Test that you see the "Start hangout on air" button on the [YouTube event list](https://www.youtube.com/my_live_events)
 
+
 ## Steps required for running a weekly meeting:
 
 1. Locate the meeting agenda
@@ -34,6 +37,7 @@ If you said yes to both of these questions, then yes, you are qualified to run a
 1. (Optional) Update the meeting agenda
    * add anything new & exciting
    * remove anything you are not comfortable talking about
+   * see the docs on how to update the agenda
 
 1. Visit the [YouTube meeting list](https://www.youtube.com/my_live_events)
 
@@ -58,6 +62,7 @@ If you said yes to both of these questions, then yes, you are qualified to run a
    * For example: “Backdrop weekly 3/13” becomes  “Backdrop Weekly 3/31 (redirect + project browser are near completion!)”
 
 That’s it!!! :)
+
 
 ## Things you don’t have to worry about:
 
