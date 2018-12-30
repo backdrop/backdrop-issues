@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-Feel free to post your question here, but you might want to consider posting your question in the Backdrop public forum at: https://forum.backdropcms.org/
+Feel free to post your question here, but you might want to consider posting your question in the Backdrop public forum at: https://forum.backdropcms.org
