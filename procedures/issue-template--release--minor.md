@@ -4,39 +4,40 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 
 ## Pre-release tasks
 
-- [ ] Merge commits (assign to quicksketch / serundeputy / docwilmot)
-- [ ] Move all unfinished issues to the next bugfix release milestone (assign to quicksketch / serundeputy)
-- [ ] Draft Release notes (assign to serundeputy / quicksketch / jenlampton)
+- [ ] Merge commits (assign to quicksketch / serundeputy / herbdool)
+- [ ] Move all unfinished issues to the next bugfix release milestone (assign to quicksketch / serundeputy / herbdool)
+- [ ] Draft Release notes (assign to jenlampton / serundeputy / quicksketch)
   - [ ] Short, descriptive summary of the release
   - [ ] Note if any changes were made to files outside the `core` directory
   - [ ] Note if updates (update.php) needs to be run
   - [ ] Include changelog since last version (generated with drush rn)
-- [ ] Draft blog post (assign to stpaultim / tomgrandy)
-- [ ] Draft roadmap updates for backdropcms.org @stpaultim (assign to stpaultim / klonos / jenlampton)
+- [ ] Draft blog post (assign to stpaultim / tomgrandy / klonos / jenlampton)
+- [ ] Draft roadmap updates for backdropcms.org (assign to stpaultim / klonos / jenlampton)
 
 
 ## Release tasks
 
-- [ ] Update bootstrap.inc with version number (assign to quicksketch / serundeputy)
-- [ ] Tag for release, and push tag to GitHub (assign to quicksketch / serundeputy)
-- [ ] Branch for new minor number (e.g. `1.10.x`) and push to GitHub (assign to quicksketch / serundeputy)
-- [ ] Revert version number back on 1.x branch with minor number increased (e.g. `1.11.x-dev`) (assign to quicksketch / serundeputy)
-- [ ] Revert version number back on new minor number branch (e.g. `1.10.x-dev`) (assign to quicksketch / serundeputy)
-- [ ] Create release notes on GitHub (assign to serundeputy / quicksketch / jenlampton)
+- [ ] Update bootstrap.inc with version number (assign to quicksketch / serundeputy / herbdool)
+- [ ] Tag for release, and push tag to GitHub (assign to quicksketch / serundeputy / herbdool)
+- [ ] Branch for new minor number (e.g. `1.10.x`) and push to GitHub (assign to quicksketch / serundeputy / herbdool)
+- [ ] Revert version number back on 1.x branch with minor number increased (e.g. `1.11.x-dev`) (assign to quicksketch / serundeputy / herbdool)
+- [ ] Revert version number back on new minor number branch (e.g. `1.10.x-dev`) (assign to quicksketch / serundeputy / herbdool)
+- [ ] Create release notes on GitHub (assign to serundeputy / herbdool / quicksketch / jenlampton)
   - [ ] Double check if any changes were made to files outside the `core` directory
-- [ ] Unpublish preview release on backdropcms.org (assign to serundeputy / quicksketch / jenlampton)
-- [ ] Update the front page download link on b.org (assign to serundeputy / quicksketch / jenlampton / klonos)
+- [ ] Unpublish preview release on backdropcms.org (assign to serundeputy / herbdool / quicksketch / jenlampton)
+- [ ] Update the front page download link on b.org (assign to serundeputy / herbdool / quicksketch / jenlampton / klonos)
 - [ ] Tweet that a new release is out (assign to quicksketch / jenlampton / jimbirch)
 
 
 ## Post-release tasks
 
-- [ ] Push the minor release to the [Pantheon repository](https://github.com/backdrop-ops/backdrop-pantheon) (assign to quicksketch / serundeputy)
+- [ ] Push the minor release to the [Pantheon repository](https://github.com/backdrop-ops/backdrop-pantheon) (assign to quicksketch / serundeputy / herbdool)
 - [ ] Push the minor release to the [Platform.sh repository](https://github.com/platformsh/platformsh-example-backdrop) (@serundeputy)
 - [ ] Push the minor release to the [Docker repository](https://github.com/docker-library/official-images/blob/master/library/backdrop) (@jenlampton)
-- [ ] Publish blog post (assign to tomgrandy / klonos / jenlampton)
-- [ ] Send a newsletter via MailChimp (assign to facetinteractive / tomgrandy / jenlampton)
-- [ ] email katie@phpweekly.com for a note in the PHP Weekly Newsletter (assign to tomgrandy / klonos / jenlampton)
+- [ ] Push the minor release to the [TugBoat Backdrop repository](https://github.com/backdrop-ops/backdrop-tugboat) (assign to serundeputy / herbdool / quicksketch / jenlampton)
+- [ ] Publish blog post (assign to stpaultim / tomgrandy / klonos / jenlampton)
+- [ ] Send a newsletter via MailChimp (assign to facetinteractive / stpaultim / tomgrandy / jenlampton)
+- [ ] email katie@phpweekly.com for a note in the PHP Weekly Newsletter (assign to stpaultim / tomgrandy / klonos / jenlampton)
 - [ ] Publish roadmap updates for backdropcms.org (assign to stpaultim / klonos / jenlampton)
 - [ ] Update the Wikipedia articles (assign to stpaultim / klonos / jenlampton)
   - [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
