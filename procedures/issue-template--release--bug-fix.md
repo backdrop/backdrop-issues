@@ -35,6 +35,8 @@ If this is a security release:
 
 - [ ] Push the bug-fix release to the [Pantheon Backdrop repository](https://github.com/backdrop-ops/backdrop-pantheon) (assign to serundeputy / quicksketch / herbdool)
 - [ ] Push the bug-fix release to the [Platform.sh Backdrop repository](https://github.com/platformsh/platformsh-example-backdrop) (@serundeputy)
+
+If this release does not accompany a minor release:
 - [ ] Push the bug-fix release to the [Docker Backdrop repository](https://github.com/docker-library/official-images/blob/master/library/backdrop) (assgign to @jenlampton)
 - [ ] Push the bug-fix release to the [TugBoat Backdrop repository](https://github.com/backdrop-ops/backdrop-tugboat) (assign to serundeputy / quicksketch / jenlampton)
 - [ ] Update the Wikipedia articles (assign to stpaultim / klonos / jenlampton)
