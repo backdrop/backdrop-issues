@@ -15,7 +15,7 @@ Steps to create a BUG-FIX release
   - [ ] Include changelog since last version (generated with drush rn)
 
 If this is a security release:
-- [ ] Draft Security Advisory (assign to serundeputy / herbdool / quicksketch / jenlampton)
+- [ ] Draft Security Advisories (assign to serundeputy / herbdool / quicksketch / jenlampton)
 
 ## Release tasks
 
@@ -27,7 +27,7 @@ If this is a security release:
 - [ ] Tweet that a new release is out (assign to jenlampton / stpaultim / quicksketch)
 
 If this is a security release:
-- [ ] Publish Security Advisory on b.org (assign to jenlampton / serundeputy / herbdool / quicksketch)
+- [ ] Publish Security Advisories on b.org (assign to jenlampton / serundeputy / herbdool / quicksketch)
 - [ ] Mark the release node on b.org as a security release (assign to jenlampton / serundeputy / herbdool / quicksketch )
 - [ ] Request CVE (assign to quicksketch)
 
