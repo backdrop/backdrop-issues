@@ -23,7 +23,6 @@ Steps to create a MAJOR release
 - [ ] Tag for release, and push tag to GitHub (assign to quicksketch / serundeputy)
 - [ ] Revert version number back (assign to quicksketch / serundeputy)
 - [ ] Create release notes on GitHub (assign to serundeputy / quicksketch / jenlampton)
-  - [ ] Double check if any changes were made to files outside the `core` directory
 - [ ] Unpublish preview release on backdropcms.org (assign to serundeputy / quicksketch / jenlampton)
 - [ ] Update the front page download link on b.org (assign to serundeputy / quicksketch / jenlampton / klonos)
 - [ ] Tweet that a new release is out (assign to quicksketch / jenlampton / jimbirch)
@@ -31,8 +30,10 @@ Steps to create a MAJOR release
 
 ## Post-release tasks (after first bug-fix release or 14 days (whichever comes sooner)
 
-- [ ] Push the minor release to the [Pantheon repository](https://github.com/backdrop-ops/backdrop-pantheon) (assign to quicksketch / serundeputy)
-- [ ] Push the minor release to the [Platform.sh repository](https://github.com/platformsh/platformsh-example-backdrop) (assign to quicksketch / serundeputy)
+- [ ] Push the major release to the [Pantheon repository](https://github.com/backdrop-ops/backdrop-pantheon) (assign to quicksketch / serundeputy)
+- [ ] Push the major release to the [Platform.sh Backdrop repository](https://github.com/platformsh/platformsh-example-backdrop) (assign to serundeputy or jenlampton)
+- [ ] Push the major release to the [Docker repository](https://github.com/docker-library/official-images/blob/master/library/backdrop) (@jenlampton)
+- [ ] Push the major release to the [TugBoat Backdrop repository](https://github.com/backdrop-ops/backdrop-tugboat) (assign to serundeputy / herbdool / quicksketch / jenlampton)
 - [ ] Publish blog post (assign to tomgrandy / klonos / jenlampton / quicksketch)
 - [ ] Send a newsletter via MailChimp (assign to facetinteractive / tomgrandy / jenlampton)
 - [ ] email katie@phpweekly.com for a note in the PHP Weekly Newsletter (assign to tomgrandy / klonos / jenlampton)

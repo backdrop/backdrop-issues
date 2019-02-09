@@ -34,7 +34,7 @@ If this is a security release:
 ## Post-release tasks
 
 - [ ] Push the bug-fix release to the [Pantheon Backdrop repository](https://github.com/backdrop-ops/backdrop-pantheon) (assign to serundeputy / quicksketch / herbdool)
-- [ ] Push the bug-fix release to the [Platform.sh Backdrop repository](https://github.com/platformsh/platformsh-example-backdrop) (@serundeputy)
+- [ ] Push the bug-fix release to the [Platform.sh Backdrop repository](https://github.com/platformsh/platformsh-example-backdrop) (assign to serundeputy or jenlampton)
 
 If this release does not accompany a minor release:
 - [ ] Push the bug-fix release to the [Docker Backdrop repository](https://github.com/docker-library/official-images/blob/master/library/backdrop) (assgign to @jenlampton)

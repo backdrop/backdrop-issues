@@ -23,7 +23,6 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 - [ ] Revert version number back on 1.x branch with minor number increased (e.g. `1.11.x-dev`) (assign to quicksketch / serundeputy / herbdool)
 - [ ] Revert version number back on new minor number branch (e.g. `1.10.x-dev`) (assign to quicksketch / serundeputy / herbdool)
 - [ ] Create release notes on GitHub (assign to serundeputy / herbdool / quicksketch / jenlampton)
-  - [ ] Double check if any changes were made to files outside the `core` directory
 - [ ] Unpublish preview release on backdropcms.org (assign to serundeputy / herbdool / quicksketch / jenlampton)
 - [ ] Update the front page download link on b.org (assign to serundeputy / herbdool / quicksketch / jenlampton / klonos)
 - [ ] Tweet that a new release is out (assign to quicksketch / jenlampton / jimbirch)
@@ -32,7 +31,7 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 ## Post-release tasks
 
 - [ ] Push the minor release to the [Pantheon repository](https://github.com/backdrop-ops/backdrop-pantheon) (assign to quicksketch / serundeputy / herbdool)
-- [ ] Push the minor release to the [Platform.sh repository](https://github.com/platformsh/platformsh-example-backdrop) (@serundeputy)
+- [ ] Push the minor release to the [Platform.sh Backdrop repository](https://github.com/platformsh/platformsh-example-backdrop) (assign to serundeputy or jenlampton)
 - [ ] Push the minor release to the [Docker repository](https://github.com/docker-library/official-images/blob/master/library/backdrop) (@jenlampton)
 - [ ] Push the minor release to the [TugBoat Backdrop repository](https://github.com/backdrop-ops/backdrop-tugboat) (assign to serundeputy / herbdool / quicksketch / jenlampton)
 - [ ] Publish blog post (assign to stpaultim / tomgrandy / klonos / jenlampton)
