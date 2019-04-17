@@ -4,19 +4,19 @@ Update Official Backdrop CMS Docker Image
 
 ##### 1. Update the backdrop-ops/docker image https://github.com/backdrop-ops/backdrop-docker
 
+* [ ] File an [issue](https://github.com/backdrop-ops/backdrop-docker/issues)
 * Update  `ENV` for `BACKDROP_VERSION` to the new release tag
   * [ ] Update `1/apache/Dockerfile` with the new version string
   * [ ] Update `1/fpm/Dockerfile` with the new version string
 * Update `ENV` for `BACKDROP_MD5` to the new md5 hash
-  * [ ] Download the "Source code" instead of the official release
+  * [ ] Download the "Source code".tar.gz instead of the official [release](https://github.com/backdrop/backdrop/releases)
   * [ ] Run `md5 {filename}.tar.gz`
-    * This will output the new md5 hash
-  * [ ] Update `1/apache/Dockerfile` with the new MD5 hash
-  * [ ] Update `1/fpm/Dockerfile` with the new MD5 hash
-* [ ] File an issue + PR against https://github.com/backdrop-ops/backdrop-docker
-  * Travis tests must pass!
-* [ ] Merge `PR`
-* [ ] Note merge commit hash for official docker-library
+  * [ ] Note the new md5 hash
+    * [ ] Update `1/apache/Dockerfile` with the new md5 hash
+    * [ ] Update `1/fpm/Dockerfile` with the new md5 hash
+* [ ] Create a Pull Request against https://github.com/backdrop-ops/backdrop-docker
+  * [ ] If Travis tests pass -- Merge `PR`
+  * [ ] Note merge commit hash for official docker-library
 
 
 ##### 2. Tell the Docker official images to build against the latest source
