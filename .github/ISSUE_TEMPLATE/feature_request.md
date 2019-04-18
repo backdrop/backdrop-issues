@@ -7,15 +7,15 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always
+**Description of the need**
+A clear and concise description of what the need or problem is. Ex. I'm always
 frustrated when [...]
 
-**Describe the solution you'd like**
+**Proposed solution**
 Description how you would expect things to work ideally.
 
-**Describe alternatives you've considered**
-Have you seen this work in a better way in another CMS?
+**Alternatives that have been considered**
+Describe alternatives you've considered. Have you seen this work in a better way in another CMS?
 
 Is there a contributed module that accomplishes this? ...if so, then has this
 been ported to Backdrop?: https://github.com/backdrop-contrib
