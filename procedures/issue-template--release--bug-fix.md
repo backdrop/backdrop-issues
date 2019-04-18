@@ -29,7 +29,7 @@ If this is a security release:
 If this is a security release:
 - [ ] Publish Security Advisories on b.org (assign to jenlampton / serundeputy / herbdool / quicksketch)
 - [ ] Mark the release node on b.org as a security release (assign to jenlampton / serundeputy / herbdool / quicksketch )
-- [ ] Request CVE (assign to quicksketch)
+- [ ] We should [Request a CVE](https://github.com/backdrop/backdrop-issues/blob/master/procedures/security--request-cve.md) - (assign to quicksketch or jenlampton or ?)
 
 ## Post-release tasks
 
