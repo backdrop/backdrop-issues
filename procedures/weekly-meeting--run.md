@@ -41,7 +41,7 @@ If you said yes to both of these questions, then yes, you are qualified to run a
 
 1. Visit the [YouTube meeting list](https://www.youtube.com/my_live_events)
 
-1. Start the meeting by clicking the “Start hangout on air” button for the appropriate meeting.
+1. Start the meeting by clicking the “New Live Event” button for the appropriate meeting.
 
 1. Post a link to join the meeting into the backdrop channels for [Gitter.im](https://gitter.im/backdrop/backdrop-issues)
    * Copy the URL for the hangout
