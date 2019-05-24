@@ -12,7 +12,7 @@ Steps to create a BUG-FIX release
   - [ ] Short, descriptive summary of the release
   - [ ] Note if any changes were made to files outside the `core` directory
   - [ ] Note if updates (update.php) needs to be run
-    - Use the text "The database update script does need to be run."
+    - Use the text "The database update script does **not** need to be run."
     - or "It will be necessary to run the update script (located at /update.php) for this release."
   - [ ] Include changelog since last version (generated with drush rn)
 
