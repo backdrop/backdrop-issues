@@ -1,3 +1,5 @@
+https://www.codetriage.com/backdrop/backdrop-issues/badges/users.svg
+
 Backdrop Issue Tracker
 ======================
 
