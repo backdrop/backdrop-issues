@@ -1,4 +1,4 @@
-https://www.codetriage.com/backdrop/backdrop-issues/badges/users.svg
+[![Open Source Helpers](https://www.codetriage.com/backdrop/backdrop-issues/badges/users.svg)](https://www.codetriage.com/backdrop/backdrop-issues)
 
 Backdrop Issue Tracker
 ======================
