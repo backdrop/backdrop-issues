@@ -30,7 +30,8 @@ Task Lists included
 
 - How to update the Docker image
 - How to update the Pantheon upstream
-- @todo How to update the Platform.sh template
+- How to update the Platform.sh template
+- How to update the TugBoat repo
 
 ### Weekly Meetings
 
