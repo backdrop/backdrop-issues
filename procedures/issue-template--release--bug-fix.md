@@ -1,16 +1,16 @@
 Steps to create a BUG-FIX release
 ==================================
-
 (assignments below are in order of prefernence from left to right)
-
-
+---
 Issue Title:   Backdrop 1.1x.x Release checklist
+---
+
+Scheduled for Month 1st, 2019 10am - 4pm PT
 
 
 ## Pre-release tasks
 
 - [ ] Merge commits (assign to quicksketch / serundeputy / herbdool)
-- [ ] Create a new bugfix release (assign to quicksketch / serundeputy / herbdool)
 - [ ] Create the next bugfix milestone (assign to klonos / jenlampton / herbdool / serundeputy / quicksketch)
 - [ ] Move all unfinished issues to the next bugfix release milestone (assign to klonos / jenlampton / herbdool / serundeputy / quicksketch)
 - [ ] Draft Release notes (assign to jenlampton / herbdool / serundeputy / quicksketch)
@@ -30,8 +30,8 @@ If this is a security release:
 - [ ] Tag for release, and push tag to GitHub (assign to quicksketch / serundeputy / herbdool)
 - [ ] Revert version number back (assign to quicksketch / serundeputy / herbdool)
 - [ ] Create release notes on GitHub (assign to jenlampton / herbdool / serundeputy / quicksketch)
-- [ ] Update the front page download link on b.org (assign to stpaultim / klonos / jenlampton)
-- [ ] Tweet that a new release is out (assign to stpaultim / jenlampton / quicksketch)
+- [ ] Update the front page download link on b.org (assign to stpaultim / klonos / jenlampton / serundeputy / herbdool / quicksketch)
+- [ ] Tweet that a new release is out (assign to stpaultim / jimbirch / jenlampton / quicksketch)
 
 If this is a security release:
 - [ ] Publish Security Advisories on b.org (assign to stpaultim / klonos / jenlampton / herbdool / serundeputy / quicksketch)
@@ -42,8 +42,9 @@ If this is a security release:
 
 - [ ] Push the bug-fix release to the [Pantheon Backdrop repository](https://github.com/backdrop-ops/backdrop-pantheon) (assign to herbdool / serundeputy / quicksketch)
 - [ ] Push the bug-fix release to the [Platform.sh Backdrop repository](https://github.com/platformsh/platformsh-example-backdrop) (assign to serundeputy / jenlampton)
-- [ ] Push the bug-fix release to the [TugBoat Backdrop repository](https://github.com/backdrop-ops/backdrop-tugboat) (assign to serundeputy / quicksketch / jenlampton)
 - [ ] Push the bug-fix release to the [Docker Backdrop repository](https://github.com/docker-library/official-images/blob/master/library/backdrop) (assign to drupol / jenlampton / serundeputy)
+- [ ] Push the bug-fix release to the [TugBoat Backdrop repository](https://github.com/backdrop-ops/backdrop-tugboat) (assign to quicksketch / jenlampton / serundeputy / herbdool)
+- [ ] Update backdropcms.org to use the latest TugBoat (assign to quicksketch)
 - [ ] Update the Wikipedia articles (assign to stpaultim / klonos / jenlampton)
   - [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
   - [ ] https://en.wikipedia.org/wiki/List_of_content_management_systems
