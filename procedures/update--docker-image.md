@@ -1,6 +1,5 @@
 
 ## Update Official Backdrop CMS Docker Image
----
 
 ### 1. Update the backdrop-ops/docker image https://github.com/backdrop-ops/backdrop-docker
 
