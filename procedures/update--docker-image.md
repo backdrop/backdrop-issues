@@ -1,8 +1,8 @@
 
-Update Official Backdrop CMS Docker Image
+## Update Official Backdrop CMS Docker Image
 ---
 
-##### 1. Update the backdrop-ops/docker image https://github.com/backdrop-ops/backdrop-docker
+### 1. Update the backdrop-ops/docker image https://github.com/backdrop-ops/backdrop-docker
 
 * [ ] File an [issue](https://github.com/backdrop-ops/backdrop-docker/issues)
 
@@ -24,11 +24,13 @@ You will need 2 things:
   * [ ] If Travis tests pass -- Merge the PR
   * [ ] Make a note of the merge commit hash, as you will need it for updating the official docker-library (see next section)
 
-* [ ] Update https://github.com/backdrop-ops/backdrop-docker/blob/master/README.md
-  * [ ] The version numbers in the "Supported tags and respective Dockerfile links" section at the top
+#### Update the README in https://github.com/backdrop-ops/backdrop-docker
+
+* Edit https://github.com/backdrop-ops/backdrop-docker/blob/master/README.md
+  * [ ] Update the version numbers in the "Supported tags and respective Dockerfile links" section at the top
   * [ ] more???
 
-##### 2. Tell the Docker official images to build against the latest source
+### 2. Tell the Docker official images to build against the latest source
 
 * A PR needs to be submitted against the [official docker-images repo](https://github.com/docker-library/official-images/blob/master/library/backdrop)
 
