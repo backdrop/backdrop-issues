@@ -42,6 +42,7 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 - [ ] Push the minor release to the [Platform.sh Backdrop repository](https://github.com/platformsh/platformsh-example-backdrop) (assign to serundeputy / jenlampton)
 - [ ] Push the minor release to the [Docker repository](https://github.com/docker-library/official-images/blob/master/library/backdrop) (assign to drupol / jenlampton / serundeputy)
 - [ ] Push the minor release to the [TugBoat Backdrop repository](https://github.com/backdrop-ops/backdrop-tugboat) (assign to serundeputy / herbdool / quicksketch / jenlampton)
+- [ ] Push the minor release to the [Backdrop Composer repository](https://github.com/backdrop-ops/backdrop-composer) (assign to quicksketch / serundeputy / herbdool)
 - [ ] Update backdropcms.org to use the latest TugBoat (assign to quicksketch)
 - [ ] Publish blog post (assign to stpaultim / tomgrandy / klonos / jenlampton)
 - [ ] Send a newsletter via MailChimp (assign to facetinteractive / stpaultim / tomgrandy / jenlampton)
