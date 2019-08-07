@@ -19,6 +19,6 @@
   * Suggested description of the vulnerability for use in the CVE: Copy the `body` from our SA
   * Discoverer(s)/Credits: copy from the `Reported By` field on our SA
   * Reference(s): Link to our SA, Link to drupal.org SA, other links as appropriate
-  * Additional information: `Backdrop CMS is the Drupal fork. Please expect to see CVE requests for Backdrop that will match each CVE request for Drupal.`
+  * Additional information: other info as appropriate
 
 For an overview, visit the [information page](https://cve.mitre.org/cve/request_id.html)
