@@ -34,6 +34,7 @@ If this is a security release:
 - [ ] Create release notes on GitHub (assign to jenlampton / herbdool / serundeputy / quicksketch)
 - [ ] Update the front page download link on b.org (assign to stpaultim / klonos / jenlampton / serundeputy / herbdool / quicksketch)
 - [ ] Tweet that a new release is out (assign to stpaultim / jimbirch / jenlampton / quicksketch)
+  - Use text ""
 
 If this is a security release:
 - [ ] Publish Security Advisories on b.org (assign to stpaultim / klonos / jenlampton / herbdool / serundeputy / quicksketch)
@@ -53,3 +54,9 @@ If this is a security release:
 
 If this is a security release:
 - [ ] Update the Security Advisory with CVE (assign to jenlampton / quicksketch)
+
+## Backdrop Website updates
+
+- [ ] backdropcms.org
+- [ ] api.backdropcms.org
+- [ ] forum.backdropcms.org
