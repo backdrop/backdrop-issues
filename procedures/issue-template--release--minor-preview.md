@@ -16,16 +16,12 @@ Scheduled for January/September/May 1st, 20xx 10am - 4pm PT
 - [ ] Move all unfinished issues to the next minor release milestone (assign to klonos / jenlampton / herbdool / serundeputy / quicksketch)
 - [ ] Draft Release notes (assign to jenlampton / herbdool / serundeputy / quicksketch)
   - [ ] Short, descriptive summary of the release
-  - [ ] Note if any changes were made to files outside the `core` directory
-  - [ ] Note if updates (update.php) needs to be run
-    - Use the text "The database update script does **not** need to be run."
-    - or "It will be necessary to run the update script (located at /update.php) for this release."
-  - [ ] Include changelog since last version (generated with drush rn)
+  - [ ] Include list of major new features
 
 
 ## Pre-release Publicity + documentation tasks
 
-- [ ] Draft blog post (assign to stpaultim / tomgrandy / klonos / jenlampton)
+- [ ] Draft blog post for release on the 15th (assign to stpaultim / tomgrandy / klonos / jenlampton)
 - [ ] Draft roadmap updates for backdropcms.org (assign to stpaultim / klonos / jenlampton)
 
 
