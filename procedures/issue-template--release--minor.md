@@ -16,7 +16,9 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 - [ ] Draft Release notes (assign to jenlampton / herbdool / serundeputy / quicksketch)
   - [ ] Copy Preview release release notes, update as follows (in BOLD)
     - [ ] NEW Short, descriptive summary of the release
+      - The Backdrop community is proud to release version 1.xx of Backdrop CMS, following our 4-month release cycle.
     - [ ] Note if any changes were made to files outside the `core` directory
+      - No changes have been made to the `.htaccess`, `robots.txt` or default `settings.php` files in this release. Updating custom versions of those files is not necessary.
     - [ ] Note if updates (update.php) needs to be run
       - Use the text "The database update script does **not** need to be run."
       - or "It will be necessary to run the update script (located at /update.php) for this release."
@@ -36,12 +38,12 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 
 ## Post-release tasks
 
-- [ ] Push the minor release to the [Pantheon repository](https://github.com/backdrop-ops/backdrop-pantheon) (assign to herbdool / serundeputy / quicksketch)
-- [ ] Push the minor release to the [Platform.sh Backdrop repository](https://github.com/platformsh/template-builder/blob/master/project/backdrop.py) (assign to serundeputy / jenlampton)
-- [ ] Push the minor release to the [Docker repository](https://github.com/docker-library/official-images/blob/master/library/backdrop) (assign to drupol / jenlampton / serundeputy)
-- [ ] Push the minor release to the [TugBoat Backdrop repository](https://github.com/backdrop-ops/backdrop-tugboat) (assign to serundeputy / herbdool / quicksketch / jenlampton)
-- [ ] Push the minor release to the [Backdrop Composer repository](https://github.com/backdrop-ops/backdrop-composer) (assign to quicksketch / serundeputy / herbdool)
-- [ ] Update backdropcms.org to use the latest TugBoat (assign to quicksketch)
+- [ ] Push the minor release to the [Pantheon repository](https://github.com/backdrop-ops/backdrop-pantheon) @quicksketch
+- [ ] Push the minor release to the [TugBoat Backdrop repository](https://github.com/backdrop-ops/backdrop-tugboat) @quicksketch
+- [ ] Create a PR to update the [Platform.sh Backdrop repository](https://github.com/platformsh/template-builder/blob/master/project/backdrop.py) @jenlampton
+- [ ] Push the minor release to the [Backdrop Composer repository](https://github.com/backdrop-ops/backdrop-composer) @serundeputy
+- [ ] Push the minor release to the [Docker repository](https://github.com/docker-library/official-images/blob/master/library/backdrop) ???
+- [ ] Update backdropcms.org to use the latest TugBoat @quicksketch
 
 
 ## Post-release Publicity + documentation tasks
@@ -54,6 +56,13 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 - [ ] Update the Wikipedia articles (assign to stpaultim / klonos / jenlampton)
   - [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
   - [ ] https://en.wikipedia.org/wiki/List_of_content_management_systems
+
+
+## Backdrop Website updates
+
+- [ ] backdropcms.org
+- [ ] api.backdropcms.org
+- [ ] forum.backdropcms.org
 
 
 See the Accompanying Bug-Fix Release Checklist
