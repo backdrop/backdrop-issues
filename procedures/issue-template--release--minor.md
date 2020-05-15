@@ -1,28 +1,31 @@
 DRAFT Steps to create a MINOR release
 =====================================
-
-(assignments below are in order of prefernence from left to right)
+(assignments below are in order of preference from left to right)
 
 ---
-Issue Title:   Backdrop 1.1x.x Release checklist
+Issue Title:   Backdrop 1.x.x Release checklist
 ---
 
 Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 
 ## Pre-release tasks
 
-- [ ] Merge bug-fix commits (assign to quicksketch / serundeputy / herbdool)
+- [ ] Merge minor release commits (assign to quicksketch / serundeputy / herbdool)
 - [ ] Move all unfinished issues to the next bug-fix release milestone (assign to klonos / jenlampton / herbdool / serundeputy / quicksketch)
 - [ ] Draft Release notes (assign to jenlampton / herbdool / serundeputy / quicksketch)
-  - [ ] Copy Preview release release notes, update as follows (in BOLD)
-    - [ ] NEW Short, descriptive summary of the release
-      - The Backdrop community is proud to release version 1.xx of Backdrop CMS, following our 4-month release cycle.
-    - [ ] Note if any changes were made to files outside the `core` directory
-      - No changes have been made to the `.htaccess`, `robots.txt` or default `settings.php` files in this release. Updating custom versions of those files is not necessary.
-    - [ ] Note if updates (update.php) needs to be run
-      - Use the text "The database update script does **not** need to be run."
-      - or "It will be necessary to run the update script (located at /update.php) for this release."
-  - [ ] Include UPDATED changelog since last version (generated with drush rn)
+  - [ ] Copy Preview release release notes, update as follows
+    1. [ ] Include a short, descriptive summary of the release, for example:
+       - The Backdrop community is proud to release version 1.xx of Backdrop CMS, following our 4-month release cycle.
+    1. [ ] Include a section containing **Notes for updating**
+       - [ ] Note if any changes were made to files outside the `core` directory, for example:
+             - No changes have been made to the `.htaccess`, `robots.txt` or default `settings.php` files in this release. Updating customized versions of those files is not necessary.
+       - [ ] Note if updates (update.php) needs to be run, for example:
+             - Use the text "The database update script does **not** need to be run."
+             - or "It will be necessary to run the update script (located at /update.php) for this release."
+    1. [ ] Include list of major new features
+       - This list can be generated from the list on the preview release, but review closed issuses in the milestone
+       - [ ] Verify the list above matches all changes since the most recent bug-fix release
+
 
 
 ## Release tasks
@@ -32,7 +35,7 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 - [ ] Branch for new minor number (e.g. `1.10.x`) and push to GitHub (assign to quicksketch / serundeputy / herbdool)
 - [ ] Revert version number back on 1.x branch with minor number increased (e.g. `1.11.x-dev`) (assign to quicksketch / serundeputy / herbdool)
 - [ ] Revert version number back on new minor number branch (e.g. `1.10.x-dev`) (assign to quicksketch / serundeputy / herbdool)
-- [ ] Create release notes on GitHub (assign to jenlampton / herbdool / serundeputy / quicksketch)
+- [ ] Create release notes on GitHub, and publish release (assign to jenlampton / herbdool / serundeputy / quicksketch)
 - [ ] Unpublish preview release on backdropcms.org (assign to stpaultim / klonos / jenlampton / serundeputy / herbdool / quicksketch)
 
 
@@ -51,7 +54,7 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 - [ ] Update the front page download link on b.org (assign to stpaultim / klonos / jenlampton / serundeputy / herbdool / quicksketch)
 - [ ] Tweet that a new release is out (assign to stpaultim / jimbirch / jenlampton / quicksketch)
 - [ ] Publish blog post (assign to stpaultim / tomgrandy / klonos / jenlampton)
-- [ ] Send a newsletter via MailChimp (assign to facetinteractive / stpaultim / tomgrandy / jenlampton)
+- [ ] Send a newsletter to subscribers (assign to facetinteractive / stpaultim / tomgrandy / jenlampton)
 - [ ] email katie@phpweekly.com for a note in the PHP Weekly Newsletter (assign to stpaultim / tomgrandy / klonos / jenlampton)
 - [ ] Update the Wikipedia articles (assign to stpaultim / klonos / jenlampton)
   - [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
@@ -65,5 +68,7 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 - [ ] forum.backdropcms.org
 
 
-See the Accompanying Bug-Fix Release Checklist
-----------------------------------------------
+See Also
+---------
+* (Bug-Fix Release Checklist)[]
+* (Preview Release Checklist)[]
