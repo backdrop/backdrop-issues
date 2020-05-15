@@ -13,18 +13,18 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 - [ ] Merge minor release commits (assign to quicksketch / serundeputy / herbdool / bwpanda)
 - [ ] Move all unfinished issues to the next bug-fix release milestone (assign to klonos / jenlampton / herbdool / serundeputy / quicksketch)
 - [ ] Draft Release notes (assign to jenlampton / herbdool / serundeputy / quicksketch)
-      - [ ] Copy Preview release release notes, update as follows
-        - [ ] Include a short, descriptive summary of the release, for example:
-              - The Backdrop community is proud to release version 1.xx of Backdrop CMS, following our 4-month release cycle.
-        - [ ] Include a section containing **Notes for updating**
-              - [ ] Note if any changes were made to files outside the `core` directory, for example:
-                    - No changes have been made to the `.htaccess`, `robots.txt` or default `settings.php` files in this release. Updating customized versions of those files is not necessary.
-              - [ ] Note if updates (update.php) needs to be run, for example:
-                    - Use the text "The database update script does **not** need to be run."
-                    - or "It will be necessary to run the update script (located at /update.php) for this release."
-        - [ ] Include list of major new features
-               - This list can be generated from the list on the preview release, but review closed issuses in the milestone
-               - [ ] Verify the list above matches all changes since the most recent bug-fix release
+  - [ ] Copy Preview release release notes, update as follows
+    - [ ] Include a short, descriptive summary of the release, for example:
+      - The Backdrop community is proud to release version 1.xx of Backdrop CMS, following our 4-month release cycle.
+    - [ ] Include a section containing **Notes for updating**
+      - [ ] Note if any changes were made to files outside the `core` directory, for example:
+        - No changes have been made to the `.htaccess`, `robots.txt` or default `settings.php` files in this release. Updating customized versions of those files is not necessary.
+      - [ ] Note if updates (update.php) needs to be run, for example:
+        - Use the text "The database update script does **not** need to be run."
+        - or "It will be necessary to run the update script (located at /update.php) for this release."
+    - [ ] Include list of major new features
+      - This list can be generated from the list on the preview release, but review closed issuses in the milestone
+      - [ ] Verify the list above matches all changes since the most recent bug-fix release
 
 
 
