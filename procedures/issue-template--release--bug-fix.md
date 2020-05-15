@@ -46,7 +46,7 @@ If this is a security release:
 
 ## Post-release tasks
 
-
+If this release does NOT accompany a minor release:
 - [ ] Push the bug-fix release to the [Pantheon Backdrop repository](https://github.com/backdrop-ops/backdrop-pantheon) (assign to herbdool / serundeputy / quicksketch)
 - [ ] Push the bug-fix release to the [TugBoat Backdrop repository](https://github.com/backdrop-ops/backdrop-tugboat) (assign to quicksketch / jenlampton / serundeputy / herbdool)
 - [ ] Create a PR to update the [Platform.sh Backdrop repository](https://github.com/platformsh/template-builder/blob/master/project/backdrop.py) (assign to serundeputy / jenlampton)
@@ -64,3 +64,8 @@ If this is a security release:
 - [ ] backdropcms.org
 - [ ] api.backdropcms.org
 - [ ] forum.backdropcms.org
+
+
+See Also
+---------
+* (Minor Release Checklist)[]

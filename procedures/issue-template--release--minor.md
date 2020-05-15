@@ -37,6 +37,8 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 - [ ] Revert version number back on new minor number branch (e.g. `1.10.x-dev`) (assign to quicksketch / serundeputy / herbdool / bwpanda)
 - [ ] Create release notes on GitHub, and publish release (assign to jenlampton / herbdool / serundeputy / quicksketch)
 - [ ] Unpublish preview release on backdropcms.org (assign to stpaultim / klonos / jenlampton / serundeputy / herbdool / quicksketch)
+- [ ] Update the front page download link on b.org (assign to stpaultim / klonos / jenlampton)
+- [ ] Update the roadmap page on b.org (assign to stpaultim / klonos / jenlampton)
 
 
 ## Post-release tasks
@@ -49,9 +51,8 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 - [ ] Update backdropcms.org to use the latest TugBoat @quicksketch
 
 
-## Post-release Publicity + documentation tasks
+## Post-release Publicity tasks
 
-- [ ] Update the front page download link on b.org (assign to stpaultim / klonos / jenlampton / serundeputy / herbdool / quicksketch)
 - [ ] Tweet that a new release is out (assign to stpaultim / jimbirch / jenlampton / quicksketch)
 - [ ] Publish blog post (assign to stpaultim / tomgrandy / klonos / jenlampton)
 - [ ] Send a newsletter to subscribers (assign to facetinteractive / stpaultim / tomgrandy / jenlampton)
