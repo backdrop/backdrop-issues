@@ -26,8 +26,6 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
       - This list can be generated from the list on the preview release, but review closed issuses in the milestone
       - [ ] Verify the list above matches all changes since the most recent bug-fix release
 
-
-
 ## Release tasks
 
 - [ ] Update bootstrap.inc with version number (assign to quicksketch / serundeputy / herbdool / bwpanda)
@@ -38,16 +36,15 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 - [ ] Create release notes on GitHub, and publish release (assign to jenlampton / herbdool / serundeputy / quicksketch)
 - [ ] Unpublish preview release on backdropcms.org (assign to stpaultim / klonos / jenlampton / serundeputy / herbdool / quicksketch)
 
-
 ## Post-release tasks
 
 - [ ] Push the minor release to the [Pantheon repository](https://github.com/backdrop-ops/backdrop-pantheon) @quicksketch
-- [ ] Push the minor release to the [TugBoat Backdrop repository](https://github.com/backdrop-ops/backdrop-tugboat) @quicksketch
 - [ ] Create a PR to update the [Platform.sh Backdrop repository](https://github.com/platformsh/template-builder/blob/master/project/backdrop.py) @jenlampton
 - [ ] Push the minor release to the [Backdrop Composer repository](https://github.com/backdrop-ops/backdrop-composer) @serundeputy
-- [ ] Push the minor release to the [Docker repository](https://github.com/docker-library/official-images/blob/master/library/backdrop) ???
-- [ ] Update backdropcms.org to use the latest TugBoat @quicksketch
-
+- [ ] Push the minor release to the [TugBoat Backdrop repository](https://github.com/backdrop-ops/backdrop-tugboat) @quicksketch
+  - [ ] Update backdropcms.org to use the latest TugBoat @quicksketch
+- [ ] Update the [Backdrop Docker repository](https://github.com/backdrop-ops/backdrop-docker) ???
+    - [ ] Create a PR to update the [Docker repository](https://github.com/docker-library/official-images/blob/master/library/backdrop) ???
 
 ## Post-release Publicity + documentation tasks
 
@@ -60,15 +57,13 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
   - [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
   - [ ] https://en.wikipedia.org/wiki/List_of_content_management_systems
 
-
 ## Backdrop Website updates
 
 - [ ] backdropcms.org
 - [ ] api.backdropcms.org
 - [ ] forum.backdropcms.org
 
-
 See Also
 ---------
-* (Bug-Fix Release Checklist)[]
-* (Preview Release Checklist)[]
+* [Bug-Fix Release Checklist]()
+* [Preview Release Checklist]()
