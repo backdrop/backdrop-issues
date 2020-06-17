@@ -24,7 +24,7 @@ Release scheduled for MM DD, 20xx 10am - 4pm PT
       - Use the text "The database update script does **not** need to be run."
       - or "It will be necessary to run the update script (located at /update.php) for this release."
   - [ ] Include changelog since last version
-    - This changelong can be generated with `drush rn [oldtag] [newtag]`, but you need to be on the minor version branch, for example, 1.15.1
+    - This changelog can be generated with `drush rn [oldtag] [newtag]`, but you need to be on the minor version branch, for example, 1.15.x
 
 If this is a security release:
 - [ ] Draft Security Advisories (assign to stpaultim / klonos / jenlampton / serundeputy / herbdool / quicksketch)
@@ -61,11 +61,13 @@ If this is a security release:
 
 ## Backdrop Website updates
 
+If this release does NOT accompany a minor release:
 - [ ] backdropcms.org
 - [ ] api.backdropcms.org
 - [ ] forum.backdropcms.org
 
 
-See Also
----------
-* (Minor Release Checklist)[]
+## See Also
+
+If this release DOES accompany a minor release:
+- [Minor Release Checklist]()

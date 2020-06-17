@@ -71,5 +71,5 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 
 See Also
 ---------
-* (Bug-Fix Release Checklist)[]
-* (Preview Release Checklist)[]
+* [Bug-Fix Release Checklist]()
+* [Preview Release Checklist]()
