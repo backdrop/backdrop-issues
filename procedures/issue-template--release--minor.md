@@ -40,29 +40,31 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 
 ## Post-release tasks
 
-- [ ] Push the minor release to the [Pantheon repository](https://github.com/backdrop-ops/backdrop-pantheon) @quicksketch
-- [ ] Create a PR to update the [Platform.sh Backdrop repository](https://github.com/platformsh/template-builder/blob/master/project/backdrop.py) @jenlampton
-- [ ] Push the minor release to the [Backdrop Composer repository](https://github.com/backdrop-ops/backdrop-composer) @serundeputy
+### Code tasks
+
 - [ ] Push the minor release to the [TugBoat Backdrop repository](https://github.com/backdrop-ops/backdrop-tugboat) @quicksketch
   - [ ] Update backdropcms.org to use the latest TugBoat @quicksketch
+- [ ] Create a PR to update the [Platform.sh Backdrop repository](https://github.com/platformsh/template-builder/blob/master/project/backdrop.py) @jenlampton
+- [ ] Push the minor release to the [Backdrop Composer repository](https://github.com/backdrop-ops/backdrop-composer) @serundeputy
 - [ ] Update the [Backdrop Docker repository](https://github.com/backdrop-ops/backdrop-docker) ???
     - [ ] Create a PR to update the [Docker repository](https://github.com/docker-library/official-images/blob/master/library/backdrop) ???
+- [ ] update api.backdropcms.org to latest version @jenlampton
 
-## Post-release Publicity tasks
+### Publicity tasks
 
 - [ ] Tweet that a new release is out (assign to stpaultim / jimbirch / jenlampton / quicksketch)
 - [ ] Publish blog post (assign to stpaultim / tomgrandy / klonos / jenlampton)
-- [ ] Send a newsletter to subscribers (assign to facetinteractive / stpaultim / tomgrandy / jenlampton)
 - [ ] email katie@phpweekly.com for a note in the PHP Weekly Newsletter (assign to stpaultim / tomgrandy / klonos / jenlampton)
 - [ ] Update the Wikipedia articles (assign to stpaultim / klonos / jenlampton)
   - [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
   - [ ] https://en.wikipedia.org/wiki/List_of_content_management_systems
 
-## Backdrop Website updates
+## 2 weeks Post-release tasks
 
-- [ ] backdropcms.org
-- [ ] api.backdropcms.org
-- [ ] forum.backdropcms.org
+- [ ] Push the minor release to the [Pantheon repository](https://github.com/backdrop-ops/backdrop-pantheon) @quicksketch
+- [ ] Send a newsletter to subscribers (assign to facetinteractive / stpaultim / tomgrandy / jenlampton)
+- [ ] update backdropcms.org to latest version @jenlampton
+- [ ] update forum.backdropcms.org to latest version @jenlampton
 
 See Also
 ---------
