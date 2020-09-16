@@ -29,6 +29,7 @@ Scheduled for January/May/September 1st, 20xx 10am - 4pm PT
 
 ## Pre-release Publicity + documentation tasks
 
+- [ ] Create new forum topic for feedback on the release @stpaultim
 - [ ] Draft blog post for release on the 15th (assign to stpaultim / tomgrandy / klonos / jenlampton)
 - [ ] Draft roadmap updates for backdropcms.org (assign to stpaultim / klonos / jenlampton)
 
