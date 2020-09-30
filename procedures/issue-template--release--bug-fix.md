@@ -72,3 +72,5 @@ If this release does NOT accompany a minor release:
 
 If this release DOES accompany a minor release:
 - [Minor Release Checklist]()
+If this IS a security release:
+- [Checklist for previous minor version]()
