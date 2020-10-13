@@ -43,3 +43,8 @@ issue queue. Have questions or just want to say hello? Please join us!
 Backdrop also has a [forum](https://forum.backdropcms.org/) where you can post
 questions, find similar questions asked by others, and help those with less 
 experience by providing answers of your own. Come join the community!
+
+Procedures
+----------
+
+We have a library of internal procedures stored in a [sub-directory within this repository](https://github.com/backdrop/backdrop-issues/tree/master/procedures). 
