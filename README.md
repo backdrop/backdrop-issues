@@ -35,10 +35,10 @@ If you encounter a security issue with *any* of these projects, please contact [
 Online Chat and Support
 -----------------------
 
-Backdrop has an official public Gitter channel that pairs nicely with the GitHub
+Backdrop has an official public Zulip channel that pairs nicely with the GitHub
 issue queue. Have questions or just want to say hello? Please join us!
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/backdrop/backdrop-issues?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Zulip](https://camo.githubusercontent.com/11c063c06dacad518cf3aa987986e97ef2018727/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7a756c69702d6a6f696e5f636861742d627269676874677265656e2e737667)](https://backdrop.zulipchat.com/)
 
 Backdrop also has a [forum](https://forum.backdropcms.org/) where you can post
 questions, find similar questions asked by others, and help those with less 
