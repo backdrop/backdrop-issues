@@ -49,8 +49,10 @@ If this release does NOT accompany a minor release:
 - [ ] Push the bug-fix release to the [Pantheon Backdrop repository](https://github.com/backdrop-ops/backdrop-pantheon) (assign to herbdool / serundeputy / quicksketch)
 - [ ] Create a PR to update the [Platform.sh Backdrop repository](https://github.com/platformsh/template-builder/blob/master/project/backdrop.py) (assign to serundeputy / jenlampton)
 - [ ] Push the bug-fix release to the [Backdrop Composer repository](https://github.com/backdrop-ops/backdrop-composer) (assign to quicksketch / serundeputy / herbdool / bwpanda)
-- [ ] Push the bug-fix release to the [TugBoat Backdrop repository](https://github.com/backdrop-ops/backdrop-tugboat) (assign to quicksketch / jenlampton / serundeputy / herbdool)
-  - [ ] Update backdropcms.org to use the latest TugBoat @quicksketch
+- [ ] Update the [Tugboat repository's](https://github.com/backdrop-ops/tugboat-demos) `config.yml` file to link to the new core release @bwpanda
+  - [ ] Make new matching tag for Tugboat repo @bwpanda
+  - [ ] Update [backdropcms.org](https://backdropcms.org/admin/config/services/tugboat) to use the new Tugboat tag @bwpanda
+  - [ ] Delete [Tugboat base preview](https://dashboard.tugboat.qa/5fa36441d88189e3360cd91b) from two releases ago (i.e. keep last two versions only) @bwpanda
 - [ ] Update the [Backdrop Docker repository](https://github.com/backdrop-ops/backdrop-docker) ???
     - [ ] Create a PR to update the [Docker repository](https://github.com/docker-library/official-images/blob/master/library/backdrop) ???
 - [ ] Update the Wikipedia articles (assign to stpaultim / klonos / jenlampton)
