@@ -2,7 +2,7 @@
 Adding a new Core committer
 ===========================
 
-When a mew core committer is added to the team, there are a number of places
+When a new core committer is added to the team, there are a number of places
 they need to be included, and things that need to be udpated, as follows:
 
 1) Update the leadership page backdropcms.org/leadership so that everybody knows
