@@ -42,8 +42,10 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 
 ### Code tasks
 
-- [ ] Push the minor release to the [TugBoat Backdrop repository](https://github.com/backdrop-ops/backdrop-tugboat) @quicksketch
-  - [ ] Update backdropcms.org to use the latest TugBoat @quicksketch
+- [ ] Update the [Tugboat repository's](https://github.com/backdrop-ops/tugboat-demos) `config.yml` file to link to the new core release @bwpanda
+  - [ ] Make new matching tag for Tugboat repo @bwpanda
+  - [ ] Update [backdropcms.org](https://backdropcms.org/admin/config/services/tugboat) to use the new Tugboat tag @bwpanda
+  - [ ] Delete [Tugboat base preview](https://dashboard.tugboat.qa/5fa36441d88189e3360cd91b) from two releases ago (i.e. keep last two versions only) @bwpanda
 - [ ] Create a PR to update the [Platform.sh Backdrop repository](https://github.com/platformsh/template-builder/blob/master/project/backdrop.py) @jenlampton
 - [ ] Push the minor release to the [Backdrop Composer repository](https://github.com/backdrop-ops/backdrop-composer) @serundeputy
 - [ ] Update the [Backdrop Docker repository](https://github.com/backdrop-ops/backdrop-docker) ???
