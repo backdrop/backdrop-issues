@@ -52,8 +52,8 @@ If this release does NOT accompany a minor release:
 - [ ] Update the [Tugboat repository's](https://github.com/backdrop-ops/tugboat-demos) `config.yml` file to link to the new core release @bwpanda
   - [ ] Make new matching tag for Tugboat repo @bwpanda
   - [ ] Build new [Tugboat preview](https://dashboard.tugboat.qa/5fa46514c62ba02c640d3a67) (with no base) from new tag (then make it a base preview) @bwpanda
+  - [ ] Unset all base previews except the new one, and delete all previews from two releases ago (i.e. keep last two versions only) @bwpanda
   - [ ] Update [backdropcms.org](https://backdropcms.org/admin/config/services/tugboat) to use the new Tugboat tag @bwpanda
-  - [ ] Delete [Tugboat base preview](https://dashboard.tugboat.qa/5fa46514c62ba02c640d3a67) from two releases ago (i.e. keep last two versions only) @bwpanda
 - [ ] Update the [Backdrop Docker repository](https://github.com/backdrop-ops/backdrop-docker) ???
     - [ ] Create a PR to update the [Docker repository](https://github.com/docker-library/official-images/blob/master/library/backdrop) ???
 - [ ] Update the Wikipedia articles (assign to stpaultim / klonos / jenlampton)
