@@ -35,8 +35,9 @@ Steps to create a MAJOR release
 - [ ] Push the major release to the [Docker repository](https://github.com/docker-library/official-images/blob/master/library/backdrop) (@jenlampton)
 - [ ] Update the [Tugboat repository's](https://github.com/backdrop-ops/tugboat-demos) `config.yml` file to link to the new core release @bwpanda
   - [ ] Make new matching tag for Tugboat repo @bwpanda
+  - [ ] Build new [Tugboat preview](https://dashboard.tugboat.qa/5fa46514c62ba02c640d3a67) (with no base) from new tag (then make it a base preview) @bwpanda
   - [ ] Update [backdropcms.org](https://backdropcms.org/admin/config/services/tugboat) to use the new Tugboat tag @bwpanda
-  - [ ] Delete [Tugboat base preview](https://dashboard.tugboat.qa/5fa36441d88189e3360cd91b) from two releases ago (i.e. keep last two versions only) @bwpanda
+  - [ ] Delete [Tugboat base preview](https://dashboard.tugboat.qa/5fa46514c62ba02c640d3a67) from two releases ago (i.e. keep last two versions only) @bwpanda
 - [ ] Push the major release to the [Backdrop Composer repository](https://github.com/backdrop-ops/backdrop-composer) (assign to quicksketch / serundeputy / herbdool)
 - [ ] Publish blog post (assign to tomgrandy / klonos / jenlampton / quicksketch)
 - [ ] Send a newsletter via MailChimp (assign to facetinteractive / tomgrandy / jenlampton)
