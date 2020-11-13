@@ -1,0 +1,17 @@
+name: Mark old issues as stale
+
+on:
+  schedule:
+  - cron: "00 0 * * *"
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/stale@v3
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        days-before-stale: 180
+        days-before-close: -1
+        stale-issue-message: "This issue has not had any activity for 6 months and has been marked as 'stale'. If there is no further activity in the next few months, this issue may be closed."
+        stale-issue-label: stale
