@@ -1,18 +1,14 @@
-# Steps to update Tugboat when a new core release is out:
+# Steps to update Tugboat when a new core release is out
 
-- [ ] Update the Tugboat repository's `config.yml` file to link to the new core release
-- [ ] Make new matching tag for Tugboat repo
-- [ ] Build new Tugboat preview (with no base) from new tag (then make it a base preview)
-- [ ] Unset all base previews except the new one, and delete all previews from two releases ago (i.e. keep last two versions only)
+- Update the [Tugboat repository's](https://github.com/backdrop-ops/tugboat-demos) `config.yml` file to link to the new core release
+- Make new matching tag for Tugboat repo
+- Build new [Tugboat preview](https://dashboard.tugboat.qa/5fa46514c62ba02c640d3a67) (with no base) from new tag (then make it a base preview)
+- Unset all base previews except the new one, and delete all previews from two releases ago (i.e. keep last two versions only)
+- Update [backdropcms.org](https://backdropcms.org/admin/config/services/tugboat) to use the new Tugboat tag
 
-# Update all the things that use Tugboat:
+# Backdrop CMS Tugboat Repository
 
-- [ ] Update backdropcms.org to use the new Tugboat tag
-- [ ] Update issue sandboxes to use the new Tugboat tag
-
-
-Backdrop CMS Tugboat Repository
-----
+**This section is out-of-date and needs updating**
 
 This file contains instructions to deploy a new Backdrop CMS release tag to the
 `/backdrop-ops/backdrop-tugboat` source repository.
