@@ -24,8 +24,7 @@ Release scheduled for MM DD, 20xx 10am - 4pm PT
       - or "It will be necessary to run the update script (located at /update.php) for this release."
   - [ ] Include changelog since last version
     - This changelog can be generated with `drush rn [oldtag] [newtag]`, but you need to be on the minor version branch, for example, 1.15.x
-
-If this is a security release:
+<!-- If this is a security release: -->
 - [ ] Draft Security Advisories (assign to stpaultim / klonos / jenlampton / serundeputy / herbdool / quicksketch)
 
 ## Release tasks
@@ -37,8 +36,7 @@ If this is a security release:
 - [ ] Update the front page download link on b.org (assign to stpaultim / klonos / jenlampton / serundeputy / herbdool / quicksketch)
 - [ ] Tweet that a new release is out (assign to stpaultim / jimbirch / jenlampton / quicksketch)
   - Use text ""
-
-If this is a security release:
+<!-- If this is a security release: -->
 - [ ] Publish Security Advisories on b.org (assign to stpaultim / klonos / jenlampton / herbdool / serundeputy / quicksketch)
 - [ ] Mark the release node on b.org as a security release (assign to stpaultim / klonos / jenlampton / herbdool / serundeputy / quicksketch)
 - [ ] We should [Request a CVE](https://github.com/backdrop/backdrop-issues/blob/master/procedures/security--request-cve.md) - (assign to jenlampton / quicksketch)
@@ -54,13 +52,12 @@ If this release does NOT accompany a minor release:
 - [ ] Update the Wikipedia articles (assign to stpaultim / klonos / jenlampton)
   - [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
   - [ ] https://en.wikipedia.org/wiki/List_of_content_management_systems
-
-If this is a security release:
+<!-- If this is a security release: -->
 - [ ] Update the Security Advisory with CVE (assign to jenlampton / quicksketch)
 
 ## Backdrop Website updates
 
-If this release does NOT accompany a minor release:
+<!-- If this release does NOT accompany a minor release: -->
 - [ ] backdropcms.org
 - [ ] api.backdropcms.org
 - [ ] forum.backdropcms.org
@@ -68,7 +65,9 @@ If this release does NOT accompany a minor release:
 
 ## See Also
 
-If this release DOES accompany a minor release:
+- [Checklist for 1.xx.x release]()
+<!-- If this release DOES accompany a minor release: -->
 - [Minor Release Checklist]()
-If this IS a security release:
+<!-- If this is a security release: -->
 - [Checklist for previous minor version]()
+
