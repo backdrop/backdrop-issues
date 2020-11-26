@@ -58,9 +58,10 @@ If this release does NOT accompany a minor release:
 ## Backdrop Website updates
 
 <!-- If this release does NOT accompany a minor release: -->
-- [ ] backdropcms.org
-- [ ] api.backdropcms.org
-- [ ] forum.backdropcms.org
+- [ ] backdropcms.org (assign to @jenlampton / @bwpanda / ??)
+- [ ] api.backdropcms.org (assign to @jenlampton / @bwpanda / ??)
+- [ ] forum.backdropcms.org (assign to @jenlampton / @bwpanda / ??)
+- [ ] localize.backdropcms.org (assign to @jenlampton / @bwpanda / ??)
 
 
 ## See Also
