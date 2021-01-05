@@ -12,14 +12,15 @@ jobs:
   release-notes:
     runs-on: ubuntu-latest
     steps:
+    - uses: actions/checkout@v2
     - name: Release notes generator
-      uses: Decathlon/release-notes-generator-action@v3.1.0
+      uses: docker://decathlon/release-notes-generator-action:3.0.1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         OUTPUT_FOLDER: temp_release_notes
         USE_MILESTONE_TITLE: true
     - name: Wiki page creator
-      uses: Decathlon/wiki-page-creator-action@v2.0.0
+      uses: docker://decathlon/wiki-page-creator-action:2.0.3
       env:
         ACTION_MAIL: BWPanda@users.noreply.github.com
         ACTION_NAME: BWPanda
