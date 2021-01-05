@@ -1,0 +1,9 @@
+# Configuration of Changelog Generator
+# @see https://github.com/spring-io/github-changelog-generator#customizing-sections
+
+changelog:
+  sections:
+  - title: New features
+    labels: [enhancement]
+  - title: Bug fixes
+    labels: [bug]
