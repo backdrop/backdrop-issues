@@ -1,0 +1,29 @@
+name: Release Notes Generator
+
+on:
+  workflow_dispatch:
+    inputs:
+      milestoneId:
+        description: Milestone ID
+        default: Test
+        required: true
+
+jobs:
+  release-notes:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Release notes generator
+      uses: Decathlon/release-notes-generator-action@v3.1.0
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        OUTPUT_FOLDER: temp_release_notes
+        USE_MILESTONE_TITLE: true
+    - name: Wiki page creator
+      uses: Decathlon/wiki-page-creator-action@v2.0.0
+      env:
+        ACTION_MAIL: BWPanda@users.noreply.github.com
+        ACTION_NAME: BWPanda
+        GH_PAT: ${{ secrets.GH_PAT }}
+        MD_FOLDER: temp_release_notes
+        OWNER: BWPanda
+        REPO_NAME: backdrop-issues
