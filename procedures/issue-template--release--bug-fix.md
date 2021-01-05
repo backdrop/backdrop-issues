@@ -24,8 +24,7 @@ Release scheduled for MM DD, 20xx 10am - 4pm PT
       - or "It will be necessary to run the update script (located at /update.php) for this release."
   - [ ] Include changelog since last version
     - This changelog can be generated with `drush rn [oldtag] [newtag]`, but you need to be on the minor version branch, for example, 1.15.x
-
-If this is a security release:
+<!-- If this is a security release: -->
 - [ ] Draft Security Advisories (assign to stpaultim / klonos / jenlampton / serundeputy / herbdool / quicksketch)
 
 ## Release tasks
@@ -37,8 +36,7 @@ If this is a security release:
 - [ ] Update the front page download link on b.org (assign to stpaultim / klonos / jenlampton / serundeputy / herbdool / quicksketch)
 - [ ] Tweet that a new release is out (assign to stpaultim / jimbirch / jenlampton / quicksketch)
   - Use text ""
-
-If this is a security release:
+<!-- If this is a security release: -->
 - [ ] Publish Security Advisories on b.org (assign to stpaultim / klonos / jenlampton / herbdool / serundeputy / quicksketch)
 - [ ] Mark the release node on b.org as a security release (assign to stpaultim / klonos / jenlampton / herbdool / serundeputy / quicksketch)
 - [ ] We should [Request a CVE](https://github.com/backdrop/backdrop-issues/blob/master/procedures/security--request-cve.md) - (assign to jenlampton / quicksketch)
@@ -46,34 +44,31 @@ If this is a security release:
 ## Post-release tasks
 
 If this release does NOT accompany a minor release:
-- [ ] Push the bug-fix release to the [Pantheon Backdrop repository](https://github.com/backdrop-ops/backdrop-pantheon) (assign to herbdool / serundeputy / quicksketch)
-- [ ] Create a PR to update the [Platform.sh Backdrop repository](https://github.com/platformsh/template-builder/blob/master/project/backdrop.py) (assign to serundeputy / jenlampton)
-- [ ] Push the bug-fix release to the [Backdrop Composer repository](https://github.com/backdrop-ops/backdrop-composer) (assign to quicksketch / serundeputy / herbdool / bwpanda)
-- [ ] Update the [Tugboat repository's](https://github.com/backdrop-ops/tugboat-demos) `config.yml` file to link to the new core release @bwpanda
-  - [ ] Make new matching tag for Tugboat repo @bwpanda
-  - [ ] Build new [Tugboat preview](https://dashboard.tugboat.qa/5fa46514c62ba02c640d3a67) (with no base) from new tag (then make it a base preview) @bwpanda
-  - [ ] Unset all base previews except the new one, and delete all previews from two releases ago (i.e. keep last two versions only) @bwpanda
-  - [ ] Update [backdropcms.org](https://backdropcms.org/admin/config/services/tugboat) to use the new Tugboat tag @bwpanda
-- [ ] Update the [Backdrop Docker repository](https://github.com/backdrop-ops/backdrop-docker) ???
-    - [ ] Create a PR to update the [Docker repository](https://github.com/docker-library/official-images/blob/master/library/backdrop) ???
+- [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/blob/master/procedures/update--tugboat.md) @bwpanda
+- [ ] Update [Pantheon](https://github.com/backdrop/backdrop-issues/blob/master/procedures/update--pantheon-upstream.md) (assign to herbdool / serundeputy / quicksketch)
+- [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/blob/master/procedures/update--platformsh-template.md) (assign to serundeputy / jenlampton)
+- [ ] Update Composer (assign to quicksketch / serundeputy / herbdool / bwpanda)
+- [ ] Update [Docker](https://github.com/backdrop/backdrop-issues/blob/master/procedures/update--docker-image.md) (assign to ??? -- volunteer neeed)
 - [ ] Update the Wikipedia articles (assign to stpaultim / klonos / jenlampton)
   - [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
   - [ ] https://en.wikipedia.org/wiki/List_of_content_management_systems
-
-If this is a security release:
+<!-- If this is a security release: -->
 - [ ] Update the Security Advisory with CVE (assign to jenlampton / quicksketch)
 
 ## Backdrop Website updates
 
-If this release does NOT accompany a minor release:
-- [ ] backdropcms.org
-- [ ] api.backdropcms.org
-- [ ] forum.backdropcms.org
+<!-- If this release does NOT accompany a minor release: -->
+- [ ] backdropcms.org (assign to @jenlampton / @bwpanda / ??)
+- [ ] api.backdropcms.org (assign to @jenlampton / @bwpanda / ??)
+- [ ] forum.backdropcms.org (assign to @jenlampton / @bwpanda / ??)
+- [ ] localize.backdropcms.org (assign to @jenlampton / @bwpanda / ??)
 
 
 ## See Also
 
-If this release DOES accompany a minor release:
+- [Checklist for 1.xx.x release]()
+<!-- If this release DOES accompany a minor release: -->
 - [Minor Release Checklist]()
-If this IS a security release:
+<!-- If this is a security release: -->
 - [Checklist for previous minor version]()
+

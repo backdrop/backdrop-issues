@@ -42,15 +42,12 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 
 ### Code tasks
 
-- [ ] Update the [Tugboat repository's](https://github.com/backdrop-ops/tugboat-demos) `config.yml` file to link to the new core release @bwpanda
-  - [ ] Make new matching tag for Tugboat repo @bwpanda
-  - [ ] Build new [Tugboat preview](https://dashboard.tugboat.qa/5fa46514c62ba02c640d3a67) (with no base) from new tag (then make it a base preview) @bwpanda
-  - [ ] Unset all base previews except the new one, and delete all previews from two releases ago (i.e. keep last two versions only) @bwpanda
-  - [ ] Update [backdropcms.org](https://backdropcms.org/admin/config/services/tugboat) to use the new Tugboat tag @bwpanda
-- [ ] Create a PR to update the [Platform.sh Backdrop repository](https://github.com/platformsh/template-builder/blob/master/project/backdrop.py) @jenlampton
-- [ ] Push the minor release to the [Backdrop Composer repository](https://github.com/backdrop-ops/backdrop-composer) @serundeputy
-- [ ] Update the [Backdrop Docker repository](https://github.com/backdrop-ops/backdrop-docker) ???
-    - [ ] Create a PR to update the [Docker repository](https://github.com/docker-library/official-images/blob/master/library/backdrop) ???
+- [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/blob/master/procedures/update--tugboat.md) @bwpanda
+- [ ] Update Composer (assign to quicksketch / serundeputy / herbdool / bwpanda)
+- [ ] Update [Docker](https://github.com/backdrop/backdrop-issues/blob/master/procedures/update--docker-image.md) (assign to ??? -- volunteer neeed)
+- [ ] Update the Wikipedia articles (assign to stpaultim / klonos / jenlampton)
+  - [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
+  - [ ] https://en.wikipedia.org/wiki/List_of_content_management_systems
 - [ ] update api.backdropcms.org to latest version @jenlampton
 
 ### Publicity tasks
@@ -64,7 +61,8 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 
 ## 2 weeks Post-release tasks
 
-- [ ] Push the minor release to the [Pantheon repository](https://github.com/backdrop-ops/backdrop-pantheon) @quicksketch
+- [ ] Update [Pantheon](https://github.com/backdrop/backdrop-issues/blob/master/procedures/update--pantheon-upstream.md) (assign to herbdool / serundeputy / quicksketch)
+- [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/blob/master/procedures/update--platformsh-template.md) (assign to serundeputy / jenlampton)
 - [ ] Send a newsletter to subscribers (assign to facetinteractive / stpaultim / tomgrandy / jenlampton)
 - [ ] update backdropcms.org to latest version @jenlampton
 - [ ] update forum.backdropcms.org to latest version @jenlampton
