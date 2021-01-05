@@ -1,9 +1,13 @@
-# Configuration of Changelog Generator
+# Changelog Generator configuration.
 # @see https://github.com/spring-io/github-changelog-generator#customizing-sections
 
 changelog:
   sections:
   - title: New features
-    labels: [enhancement]
+    labels: [type - feature request]
   - title: Bug fixes
-    labels: [bug]
+    labels: [type - bug report]
+  - title: Documentation updates
+    labels: [type - documentation]
+  - title: Miscellaneous changes
+    labels: [type - task]
