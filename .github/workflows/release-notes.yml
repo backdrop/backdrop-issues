@@ -1,14 +1,12 @@
+# Generate release notes (in the wiki) when a milestone is closed.
+# @see https://github.com/marketplace/actions/release-notes-generator
+# @see https://github.com/marketplace/actions/wiki-page-creator-action
+
 name: Release Notes Generator
 
 on:
   milestone:
     types: [closed]
-  workflow_dispatch:
-    inputs:
-      milestoneId:
-        description: Milestone ID
-        default: Test
-        required: true
 
 jobs:
   release-notes:
@@ -24,9 +22,9 @@ jobs:
     - name: Wiki page creator
       uses: docker://decathlon/wiki-page-creator-action:2.0.3
       env:
-        ACTION_MAIL: BWPanda@users.noreply.github.com
-        ACTION_NAME: BWPanda
-        GH_PAT: ${{ secrets.GH_PAT }}
+        ACTION_MAIL: 17776673+dragonbot@users.noreply.github.com
+        ACTION_NAME: dragonbot
+        GH_PAT: ${{ secrets.DRAGONBOT_GH_PAT }}
         MD_FOLDER: temp_release_notes
-        OWNER: BWPanda
+        OWNER: backdrop
         REPO_NAME: backdrop-issues
