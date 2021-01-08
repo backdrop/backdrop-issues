@@ -1,5 +1,4 @@
-# Bug-Fix Release notes.
-------------------------
+# Bug-Fix Release notes
 
 1) Git clone repository for backdrop/backdrop (or git pull 1.x branch)  
    Run the command `git pull core 1.x`  
@@ -14,8 +13,7 @@
    (where 1.11.3 is the latest release)
 
 
-# Minor Version Release notes.
-------------------------------
+# Minor Version Release notes
 
 The release notes for minor versions are generated automatically, based on
 issues assigned to the minor version's milestone.
