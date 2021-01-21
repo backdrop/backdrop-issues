@@ -1,4 +1,4 @@
-DRAFT Steps to create a MINOR PREVIEW release
+gDRAFT Steps to create a MINOR PREVIEW release
 =====================================
 
 (assignments below are in order of preference from left to right)
@@ -30,6 +30,7 @@ Scheduled for January/May/September 1st, 20xx 10am - 4pm PT
 ## Pre-release Publicity + documentation tasks
 
 - [ ] Create new forum topic for feedback on the release @stpaultim
+- [ ] Review issues for new features: update title + conclusion (for blog post + release notes)
 - [ ] Draft blog post for release on the 15th (assign to stpaultim / tomgrandy / klonos / jenlampton)
 - [ ] Draft roadmap updates for backdropcms.org (assign to stpaultim / klonos / jenlampton)
 
