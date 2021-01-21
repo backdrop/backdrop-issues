@@ -29,13 +29,13 @@ Scheduled for January/May/September 1st, 20xx 10am - 4pm PT
 
 ## Pre-release Publicity + documentation tasks
 
-- [ ] Create new forum topic for feedback on the release @stpaultim
-- [ ] Review issues for new features:
+- [ ] Review issues for new features (assign to @jenlampton / @klonos / @cellear)
   - [ ] Update the issue title (Bugs should start with `Fixed`, new fearures with `Added`)
   - [ ] Add a conclusion suitable for blog post + release notes
   - [ ] Add `Documentation` label if the feature needs to be documented (or needs docs to be updated)
 - [ ] Draft blog post for release on the 15th (assign to stpaultim / tomgrandy / klonos / jenlampton)
 - [ ] Draft roadmap updates for backdropcms.org (assign to stpaultim / klonos / jenlampton)
+- [ ] Create new forum topic for feedback on the release @stpaultim
 
 
 ## Release tasks
