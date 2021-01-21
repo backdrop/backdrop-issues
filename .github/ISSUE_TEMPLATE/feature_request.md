@@ -29,3 +29,7 @@ Is there a Drupal or Backdrop contributed module that accomplishes this?
 **Additional information**
 
 Add any other information or screenshots that would help.
+
+**Draft of feature description for Press Release (1 paragraph at most)**
+
+Backdrop now includes...
