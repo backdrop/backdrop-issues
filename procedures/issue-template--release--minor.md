@@ -54,6 +54,7 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 ### Publicity tasks
 
 - [ ] Tweet that a new release is out (assign to stpaultim / jimbirch / jenlampton / quicksketch)
+  - Use text like "We're thrilled to announce Backdrop version 1.18.0. This is the 19th new feature release of #BackdropCMS. https://backdropcms.org"
 - [ ] Publish blog post (assign to stpaultim / tomgrandy / klonos / jenlampton)
 - [ ] email katie@phpweekly.com for a note in the PHP Weekly Newsletter (assign to stpaultim / tomgrandy / klonos / jenlampton)
 - [ ] Update the Wikipedia articles (assign to stpaultim / klonos / jenlampton)
