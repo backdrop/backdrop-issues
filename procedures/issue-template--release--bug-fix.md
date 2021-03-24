@@ -19,17 +19,19 @@ Release scheduled for MM DD, 20xx 10am - 4pm PT
     - or, "Security release for Backdrop CMS. This release fixes 1 security vulnerability:"
   - [ ] Include a section containing **Notes for updating**
     - [ ] Note if any changes were made to files outside the `core` directory, for example:
-      - No changes have been made to the `.htaccess`, `robots.txt` or default `settings.php` files in this release. Updating customized versions of those files is not necessary.
+      * No changes have been made to the `.htaccess`, `robots.txt` or default `settings.php` files in this release. Updating customized versions of those files is not necessary.
     - [ ] Note if updates (update.php) needs to be run, for example:
-      - Use the text "The database update script does **not** need to be run."
-      - or "It will be necessary to run the update script (located at /update.php) for this release."
-  - [ ] Include changelog since last version
-    - Before the milestone has been closed, clean up issue titles for fixed issues.
-    - Once the milestone has been closed, navigate to [Actions](https://github.com/backdrop/backdrop-issues/actions)
-    - Select the most recent time "Release Notes Generator" has been run.
-    - Download the `release-notes` artifact attached to the generator.
-    - Unzip the file, and copy/pate contents into release notes draft.
-    - Re-word issue titles to indicate that the problems have been fixed.
+      * Use the text "The database update script does **not** need to be run."
+      * or "It will be necessary to run the update script (located at /update.php) for this release."
+  - [ ] Include changelog since last version:
+    - Before the milestone has been closed:
+      * clean up issue titles for fixed issues.
+    - Once the milestone has been closed:
+      * Navigate to [Actions](https://github.com/backdrop/backdrop-issues/actions)
+      * Select the most recent time "Release Notes Generator" has been run.
+      * Download the `release-notes` artifact attached to the generator.
+      * Unzip the file, and copy/pate contents into release notes draft.
+      * Re-word issue titles to indicate that the problems have been fixed.
 <!-- If this is a security release: -->
 - [ ] Draft Security Advisories (assign to stpaultim / klonos / jenlampton / serundeputy / herbdool / quicksketch)
 

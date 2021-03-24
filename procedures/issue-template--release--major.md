@@ -12,7 +12,7 @@ Steps to create a MAJOR release
   - [ ] Short, descriptive summary of the release
   - [ ] Note if any changes were made to files outside the `core` directory
   - [ ] Note if updates (update.php) needs to be run
-  - [ ] Include changelog since last version (generated with drush rn)
+  - [ ] Include changelog since last version
 - [ ] Draft blog post (assign to tomgrandy / klonos / jenlampton / quicksketch)
 - [ ] Draft a newsletter via MailChimp (assign to facetinteractive / tomgrandy / jenlampton)
 

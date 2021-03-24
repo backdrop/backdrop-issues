@@ -18,13 +18,21 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
       - The Backdrop community is proud to release version 1.xx of Backdrop CMS, following our 4-month release cycle.
     - [ ] Include a section containing **Notes for updating**
       - [ ] Note if any changes were made to files outside the `core` directory, for example:
-        - No changes have been made to the `.htaccess`, `robots.txt` or default `settings.php` files in this release. Updating customized versions of those files is not necessary.
+        * No changes have been made to the `.htaccess`, `robots.txt` or default `settings.php` files in this release. Updating customized versions of those files is not necessary.
       - [ ] Note if updates (update.php) needs to be run, for example:
-        - Use the text "The database update script does **not** need to be run."
-        - or "It will be necessary to run the update script (located at /update.php) for this release."
-    - [ ] Include list of major new features
-      - This list can be generated from the list on the preview release, but review closed issuses in the milestone
-      - [ ] Verify the list above matches all changes since the most recent bug-fix release
+        * Use the text "The database update script does **not** need to be run."
+        * or "It will be necessary to run the update script (located at /update.php) for this release."
+    - [ ] Include changelog since last version:
+      - Before the milestone has been closed:
+        * clean up issue titles for fixed issues.
+      - Once the milestone has been closed:
+        * Navigate to [Actions](https://github.com/backdrop/backdrop-issues/actions)
+        * Select the most recent time "Release Notes Generator" has been run.
+        * Download the `release-notes` artifact attached to the generator.
+        * Unzip the file, and copy/pate contents into release notes draft.
+        * Re-word issue titles to indicate that the problems have been fixed.
+      - This list can also be copied from the list on the preview release, but review closed issuses in the milestone
+    - [ ] Verify the list above matches all changes since the most recent bug-fix release
 
 ## Release tasks
 
