@@ -28,7 +28,7 @@ Steps to create a MAJOR release
 - [ ] Tweet that a new release is out (assign to quicksketch / jenlampton / jimbirch)
 
 
-## Post-release tasks (after first bug-fix release or 14 days (whichever comes sooner)
+## Post-release tasks (after first bug-fix release or 14 days -- whichever comes sooner)
 
 - [ ] Push the major release to the [Pantheon repository](https://github.com/backdrop-ops/backdrop-pantheon) (assign to quicksketch / serundeputy)
 - [ ] Push the major release to the [Platform.sh Backdrop repository](https://github.com/platformsh/template-builder/blob/master/project/backdrop.py) (assign to serundeputy / jenlampton)

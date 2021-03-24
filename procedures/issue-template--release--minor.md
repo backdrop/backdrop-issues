@@ -39,13 +39,15 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 - [ ] Update the roadmap page on b.org (assign to stpaultim / klonos / jenlampton)
 - [ ] Create a new language template file for the translation server (assign to olaf - see https://github.com/backdrop-ops/localize.backdropcms.org/issues/27 until this is automated)
 
-## Post-release tasks
+## Immediate Post-release tasks
 
 ### Code tasks
 
 - [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/blob/master/procedures/update--tugboat.md) @bwpanda
+- [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/blob/master/procedures/update--platformsh-template.md) (assign to serundeputy / jenlampton)
 - [ ] Update Composer (assign to quicksketch / serundeputy / herbdool / bwpanda)
 - [ ] Update [Docker](https://github.com/backdrop/backdrop-issues/blob/master/procedures/update--docker-image.md) (assign to ??? -- volunteer neeed)
+
 - [ ] Update the Wikipedia articles (assign to stpaultim / klonos / jenlampton)
   - [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
   - [ ] https://en.wikipedia.org/wiki/List_of_content_management_systems
@@ -61,13 +63,29 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
   - [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
   - [ ] https://en.wikipedia.org/wiki/List_of_content_management_systems
 
-## 2 weeks Post-release tasks
+### Backdrop Website updates
+
+- [ ] api.backdropcms.org (assign to @jenlampton / @bwpanda / ??)
+- [ ] events.backdropcms.org (assign to @jenlampton / @bwpanda / ??)
+- [ ] forum.backdropcms.org (assign to @jenlampton / @bwpanda / ??)
+
+## 2-week Post-release tasks
+
+These should be done after the first bug-fix release or 14 days -- whichever
+comes sooner.
+
+### Code tasks
 
 - [ ] Update [Pantheon](https://github.com/backdrop/backdrop-issues/blob/master/procedures/update--pantheon-upstream.md) (assign to herbdool / serundeputy / quicksketch)
-- [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/blob/master/procedures/update--platformsh-template.md) (assign to serundeputy / jenlampton)
-- [ ] Send a newsletter to subscribers (assign to facetinteractive / stpaultim / tomgrandy / jenlampton)
-- [ ] update backdropcms.org to latest version @jenlampton
-- [ ] update forum.backdropcms.org to latest version @jenlampton
+
+### Publicity tasks
+
+- [ ] Send a newsletter to subscribers (assign to bwpanda / stpaultim / jenlampton)
+
+### Backdrop Website updates
+
+- [ ] backdropcms.org (assign to @jenlampton / @bwpanda / ??)
+
 
 See Also
 ---------
