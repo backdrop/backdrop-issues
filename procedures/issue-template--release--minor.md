@@ -24,7 +24,8 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
         * or "It will be necessary to run the update script (located at /update.php) for this release."
     - [ ] Include changelog since last version:
       - Before the milestone has been closed:
-        * clean up issue titles for fixed issues.
+        * Clean up issue titles for fixed issues.
+        * Check that each issue has accurate labels.
       - Once the milestone has been closed:
         * Navigate to [Actions](https://github.com/backdrop/backdrop-issues/actions)
         * Select the most recent time "Release Notes Generator" has been run.
