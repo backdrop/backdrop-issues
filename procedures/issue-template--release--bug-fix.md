@@ -13,10 +13,11 @@ Release scheduled for MM DD, 20xx 10am - 4pm PT
 - [ ] Merge commits (assign to quicksketch / serundeputy / herbdool / bwpanda)
 - [ ] Create the next bugfix milestone (assign to klonos / jenlampton / herbdool / serundeputy / quicksketch)
 - [ ] Move all unfinished issues to the next bugfix release milestone (assign to klonos / jenlampton / herbdool / serundeputy / quicksketch)
-- [ ] Review all closed issues in milestone:.
+- [ ] Review all closed issues in milestone: (assign to klonos / jenlampton / stpaultim )
       - Issue titles sould be in complete sentences, ending with a period.
       - Bug fixe issue titles should start with "Fix" and include a complete, but very brief summary of the problem.
       - Each issue should have accurate labels, especially the "type - " labels.
+- [ ] Close the milestone (assign to quicksketch / serundeputy / herbdool / bwpanda)
 - [ ] Draft Release notes (assign to jenlampton / herbdool / serundeputy / quicksketch)
       - [ ] Include a short, descriptive summary of the release, for example:
             * "Maintenance release for Backdrop CMS. This update contains bug fixes and usability improvements only."

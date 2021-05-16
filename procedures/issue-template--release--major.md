@@ -8,6 +8,11 @@ Steps to create a MAJOR release
 - [ ] Create a new minor release (assign to quicksketch / serundeputy)
 - [ ] Create the next minor milestone (assign to quicksketch / serundeputy / jenlampton)
 - [ ] Move all unfinished issues to the next major release milestone (assign to quicksketch / serundeputy / jenlampton)
+- [ ] Review all closed issues in milestone: (assign to klonos / jenlampton / stpaultim )
+      - Issue titles sould be in complete sentences, ending with a period.
+      - Bug fixe issue titles should start with "Fix" and include a complete, but very brief summary of the problem.
+      - Each issue should have accurate labels, especially the "type - " labels.
+- [ ] Close the milestone (assign to quicksketch / serundeputy / herbdool / bwpanda)
 - [ ] Draft Release notes (assign to serundeputy / quicksketch / jenlampton)
   - [ ] Short, descriptive summary of the release
   - [ ] Note if any changes were made to files outside the `core` directory
