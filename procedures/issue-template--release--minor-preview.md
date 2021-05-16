@@ -1,4 +1,4 @@
-gDRAFT Steps to create a MINOR PREVIEW release
+DRAFT Steps to create a MINOR PREVIEW release
 =====================================
 
 (assignments below are in order of preference from left to right)

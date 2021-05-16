@@ -71,7 +71,7 @@ If this release does NOT accompany a minor release:
 
 <!-- If this release does NOT accompany a minor release: -->
 - [ ] backdropcms.org (assign to @jenlampton / @bwpanda / ??)
-- [ ] api.backdropcms.org (assign to @jenlampton / @bwpanda / ??)
+- [ ] docs.backdropcms.org (assign to @jenlampton / @bwpanda / ??)
 - [ ] events.backdropcms.org (assign to @jenlampton / @bwpanda / ??)
 - [ ] forum.backdropcms.org (assign to @jenlampton / @bwpanda / ??)
 - [ ] localize.backdropcms.org (assign to @jenlampton / @bwpanda / ??)

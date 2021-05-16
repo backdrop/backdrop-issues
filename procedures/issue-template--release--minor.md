@@ -61,7 +61,7 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 - [ ] Update the Wikipedia articles (assign to stpaultim / klonos / jenlampton)
   - [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
   - [ ] https://en.wikipedia.org/wiki/List_of_content_management_systems
-- [ ] update api.backdropcms.org to latest version @jenlampton
+- [ ] update docs.backdropcms.org to latest version @jenlampton
 
 ### Publicity tasks
 
@@ -75,7 +75,7 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 
 ### Backdrop Website updates
 
-- [ ] api.backdropcms.org (assign to @jenlampton / @bwpanda / ??)
+- [ ] docs.backdropcms.org (assign to @jenlampton / @bwpanda / ??)
 - [ ] events.backdropcms.org (assign to @jenlampton / @bwpanda / ??)
 - [ ] forum.backdropcms.org (assign to @jenlampton / @bwpanda / ??)
 
