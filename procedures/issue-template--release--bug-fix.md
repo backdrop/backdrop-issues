@@ -13,26 +13,26 @@ Release scheduled for MM DD, 20xx 10am - 4pm PT
 - [ ] Merge commits (assign to quicksketch / serundeputy / herbdool / bwpanda)
 - [ ] Create the next bugfix milestone (assign to klonos / jenlampton / herbdool / serundeputy / quicksketch)
 - [ ] Move all unfinished issues to the next bugfix release milestone (assign to klonos / jenlampton / herbdool / serundeputy / quicksketch)
+- [ ] Review all closed issues in milestone:.
+      - Issue titles sould be in complete sentences, ending with a period.
+      - Bug fixe issue titles should start with "Fix" and include a complete, but very brief summary of the problem.
+      - Each issue should have accurate labels, especially the "type - " labels.
 - [ ] Draft Release notes (assign to jenlampton / herbdool / serundeputy / quicksketch)
-  - [ ] Include a short, descriptive summary of the release, for example:
-    - "Maintenance release for Backdrop CMS. This update contains bug fixes and usability improvements only."
-    - or, "Security release for Backdrop CMS. This release fixes 1 security vulnerability:"
-  - [ ] Include a section containing **Notes for updating**
-    - [ ] Note if any changes were made to files outside the `core` directory, for example:
-      * No changes have been made to the `.htaccess`, `robots.txt` or default `settings.php` files in this release. Updating customized versions of those files is not necessary.
-    - [ ] Note if updates (update.php) needs to be run, for example:
-      * Use the text "The database update script does **not** need to be run."
-      * or "It will be necessary to run the update script (located at /update.php) for this release."
-  - [ ] Include changelog since last version:
-    - Before the milestone has been closed:
-      * Clean up issue titles for fixed issues.
-      * Check that each issue has accurate labels.
-    - Once the milestone has been closed:
-      * Navigate to [Actions](https://github.com/backdrop/backdrop-issues/actions)
-      * Select the most recent time "Release Notes Generator" has been run.
-      * Download the `release-notes` artifact attached to the generator.
-      * Unzip the file, and copy/pate contents into release notes draft.
-      * Re-word issue titles to indicate that the problems have been fixed.
+      - [ ] Include a short, descriptive summary of the release, for example:
+            * "Maintenance release for Backdrop CMS. This update contains bug fixes and usability improvements only."
+            * or, "Security release for Backdrop CMS. This release fixes 1 security vulnerability:"
+      - [ ] Include a section containing **Notes for updating**
+            - [ ] Note if any changes were made to files outside the `core` directory, for example:
+              * No changes have been made to the `.htaccess`, `robots.txt` or default `settings.php` files in this release. Updating customized versions of those files is not necessary.
+            - [ ] Note if updates (update.php) needs to be run, for example:
+              * Use the text "The database update script does **not** need to be run."
+              * or "It will be necessary to run the update script (located at /update.php) for this release."
+      - [ ] Include changelog since last version:
+            * Navigate to [Actions](https://github.com/backdrop/backdrop-issues/actions)
+            * Select the most recent time "Release Notes Generator" has been run.
+            * Download the `release-notes` artifact attached to the generator.
+            * Unzip the file, and copy/pate contents into release notes draft.
+            * Remove any square bracets in the titles, and move those issues to their own section.
 <!-- If this is a security release: -->
 - [ ] Draft Security Advisories (assign to stpaultim / klonos / jenlampton / serundeputy / herbdool / quicksketch)
 
@@ -45,7 +45,7 @@ Release scheduled for MM DD, 20xx 10am - 4pm PT
 - [ ] Update the front page download link on b.org (assign to stpaultim / klonos / jenlampton / serundeputy / herbdool / quicksketch)
 - [ ] Tweet that a new release is out (assign to stpaultim / jimbirch / jenlampton / quicksketch)
   - Use text like "There is a bug-fix release out for #BackdropCMS today, version 1.17.1: https://backdropcms.org."
-<!-- If this is a security release: -->
+  <!-- If this is a security release: -->
   - Use text like "There is a security release out for #BackdropCMS today, please update when you can. Backdrop core - Critical - Third-party libraries - BACKDROP-SA-CORE-2021-001"
 <!-- If this is a security release: -->
 - [ ] Publish Security Advisories on b.org (assign to stpaultim / klonos / jenlampton / herbdool / serundeputy / quicksketch)
