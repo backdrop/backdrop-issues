@@ -15,10 +15,11 @@ Scheduled for January/May/September 1st, 20xx 10am - 4pm PT
 - [ ] Create a new minor release milestone (assign to klonos / jenlampton / herbdool / serundeputy / quicksketch)
 - [ ] Move all unfinished issues to the next minor release milestone (assign to klonos / jenlampton / herbdool / serundeputy / quicksketch)
 - [ ] Review all closed issues in milestone: (assign to klonos / jenlampton / stpaultim )
+      - Issue titles should include a complete, but very brief summary of the problem.
       - Issue titles sould be in complete sentences, ending with a period.
-      - Bug fixe issue titles should start with "Fix" and include a complete, but very brief summary of the problem.
+      - Bug issue titles should start with `Fix` or `Fixed`,
+      - New fearure issue titles should start with `Add` or `Added`.
       - Each issue should have accurate labels, especially the "type - " labels.
-- [ ] Close the milestone (assign to quicksketch / serundeputy / herbdool / bwpanda)
 - [ ] Draft Release notes (assign to jenlampton / herbdool / serundeputy / quicksketch)
   - [ ] Include a short, descriptive summary of the release, for example:
     - This is the preview release of Backdrop 1.16.0. Please use this version if you would like to help us test the features in the new version of Backdrop prior to the official release on January/May/September 15th, 20xx.
@@ -39,9 +40,10 @@ Scheduled for January/May/September 1st, 20xx 10am - 4pm PT
 ## Pre-release Publicity + documentation tasks
 
 - [ ] Review issues for new features (assign to @jenlampton / @klonos / @cellear)
-  - [ ] Update the issue title (Bugs should start with `Fixed`, new fearures with `Added`)
   - [ ] Add a conclusion suitable for blog post + release notes
   - [ ] Add `Documentation` label if the feature needs to be documented (or needs docs to be updated)
+  - [ ] Add `Needs change record` label if the the issue contains an API change.
+  - [ ] Add `Needs translation` label if the the issue contains string translations.
 - [ ] Draft blog post for release on the 15th (assign to stpaultim / tomgrandy / klonos / jenlampton)
 - [ ] Draft roadmap updates for backdropcms.org (assign to stpaultim / klonos / jenlampton)
 - [ ] Create new forum topic for feedback on the release @stpaultim
@@ -59,7 +61,7 @@ Scheduled for January/May/September 1st, 20xx 10am - 4pm PT
 
 ## Post-release Publicity + documentation tasks
 
-- [ ] Tweet that a new release is out (assign to stpaultim / jimbirch / jenlampton / quicksketch)
+- [ ] Tweet that a preview release is out (assign to stpaultim / jimbirch / jenlampton / quicksketch)
 - [ ] Publish roadmap updates for backdropcms.org (assign to stpaultim / klonos / jenlampton)
 
 

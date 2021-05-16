@@ -13,8 +13,10 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 - [ ] Merge minor release commits (assign to quicksketch / serundeputy / herbdool / bwpanda)
 - [ ] Move all unfinished issues to the next bug-fix release milestone (assign to klonos / jenlampton / herbdool / serundeputy / quicksketch)
 - [ ] Review all closed issues in milestone: (assign to klonos / jenlampton / stpaultim )
+      - Issue titles should include a complete, but very brief summary of the problem.
       - Issue titles sould be in complete sentences, ending with a period.
-      - Bug fixe issue titles should start with "Fix" and include a complete, but very brief summary of the problem.
+      - Bug issue titles should start with `Fix` or `Fixed`,
+      - New fearure issue titles should start with `Add` or `Added`.
       - Each issue should have accurate labels, especially the "type - " labels.
 - [ ] Close the milestone (assign to quicksketch / serundeputy / herbdool / bwpanda)
 - [ ] Draft Release notes (assign to jenlampton / herbdool / serundeputy / quicksketch)
