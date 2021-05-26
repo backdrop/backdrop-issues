@@ -7,7 +7,11 @@ How to update the custom CKEditor build we use for Backdrop CMS
    the plugins that are desired.
 1) Save/expand the downloaded archive.
 1) Remove the following files/directories from the expanded archive
-   - samples
-   - ckeditor/skins/moono-lisa/readme.md
-   - ckeditor/styles.js
+   - 'README.md',
+   - 'adapters',
+   - 'config.js',
+   - 'contents.css',
+   - 'samples',
+   - 'skins/moono-lisa/readme.md',
+   - 'styles.js',
 1) Copy the new files into core/misc/ckeditor/*.
