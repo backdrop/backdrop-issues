@@ -15,3 +15,7 @@ How to update the custom CKEditor build we use for Backdrop CMS
    - 'skins/moono-lisa/readme.md',
    - 'styles.js',
 1) Copy the new files into core/misc/ckeditor/*.
+1) Double check that the `build-config.js` file retains 2 sections of code
+   that are specific to Backdrop:
+   - Docblock at the very top of the file
+   - Around line 60, list of files that need to be removed from the build
