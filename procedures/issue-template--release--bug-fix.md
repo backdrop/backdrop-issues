@@ -48,24 +48,21 @@ Release scheduled for MM DD, 20xx 10am - 4pm PT
 <!-- If this is a security release: start -->
 - [ ] Publish Security Advisories on b.org (assign to stpaultim / klonos / jenlampton / herbdool / serundeputy / quicksketch)
 - [ ] Mark the release node on b.org as a security release (assign to stpaultim / klonos / jenlampton / herbdool / serundeputy / quicksketch)
-- [ ] We should [Request a CVE](https://github.com/backdrop/backdrop-issues/blob/master/procedures/security--request-cve.md) - (assign to jenlampton / quicksketch)
+- [ ] [Request a CVE](https://github.com/backdrop/backdrop-issues/blob/master/procedures/security--request-cve.md) - (assign to jenlampton / quicksketch)
 <!-- If this is a security release: end -->
 - [ ] Update the front page download link on b.org (assign to stpaultim / klonos / jenlampton / serundeputy / herbdool / quicksketch)
 - [ ] Tweet that a new release is out (assign to stpaultim / jimbirch / jenlampton / quicksketch)
-  - Use text like "There is a bug-fix release out for #BackdropCMS today, version 1.17.1: https://backdropcms.org."
-  <!-- If this is a security release: -->
-  - Use text like "Security release out today - please update when you can: https://backdropcms.org Backdrop core - Moderately critical - Cross Site Scripting - BACKDROP-SA-CORE-2021-003 #BackdropCMS"
-
-
+  - Use text like "There is a bug-fix release out for #BackdropCMS today, version 1.17.1: https://backdropcms.org." or
+  - Use text like "There is a security release out for #BackdropCMS today, please update when you can. Backdrop core - Critical - Third-party libraries - BACKDROP-SA-CORE-2021-001"
 
 ## Immediate Post-release tasks
 
 If this release does NOT accompany a minor release:
-- [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/blob/master/procedures/update--tugboat.md) @bwpanda
-- [ ] Update [Pantheon](https://github.com/backdrop/backdrop-issues/blob/master/procedures/update--pantheon-upstream.md) (assign to herbdool / serundeputy / quicksketch)
-- [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/blob/master/procedures/update--platformsh-template.md) (assign to serundeputy / jenlampton)
-- [ ] Update Composer (assign to quicksketch / serundeputy / herbdool / bwpanda)
-- [ ] Update [Docker](https://github.com/backdrop/backdrop-issues/blob/master/procedures/update--docker-image.md) (assign to ??? -- volunteer neeed)
+- [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--tugboat.md) @bwpanda
+- [ ] Update [Pantheon](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--pantheon-upstream.md) (assign to herbdool / serundeputy / quicksketch)
+- [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--platformsh-template.md) (assign to serundeputy / jenlampton)
+- [ ] Update Composer (assign to quicksketch / serundeputy / herbdool)
+- [ ] Update [Docker](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--docker-image.md) (assign to ??? -- volunteer neeed)
 - [ ] Update the Wikipedia articles (assign to stpaultim / klonos / jenlampton)
   - [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
   - [ ] https://en.wikipedia.org/wiki/List_of_content_management_systems

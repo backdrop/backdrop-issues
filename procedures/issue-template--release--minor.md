@@ -55,10 +55,10 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 
 ### Code tasks
 
-- [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/blob/master/procedures/update--tugboat.md) @bwpanda
-- [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/blob/master/procedures/update--platformsh-template.md) (assign to serundeputy / jenlampton)
-- [ ] Update Composer (assign to quicksketch / serundeputy / herbdool / bwpanda)
-- [ ] Update [Docker](https://github.com/backdrop/backdrop-issues/blob/master/procedures/update--docker-image.md) (assign to ??? -- volunteer neeed)
+- [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--tugboat.md) @bwpanda
+- [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--platformsh-template.md) (assign to serundeputy / jenlampton)
+- [ ] Update Composer (assign to quicksketch / serundeputy / herbdool)
+- [ ] Update [Docker](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--docker-image.md) (assign to ??? -- volunteer neeed)
 
 - [ ] Update the Wikipedia articles (assign to stpaultim / klonos / jenlampton)
   - [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
@@ -88,11 +88,11 @@ comes sooner.
 
 ### Code tasks
 
-- [ ] Update [Pantheon](https://github.com/backdrop/backdrop-issues/blob/master/procedures/update--pantheon-upstream.md) (assign to herbdool / serundeputy / quicksketch)
+- [ ] Update [Pantheon](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--pantheon-upstream.md) (assign to herbdool / serundeputy / quicksketch)
 
 ### Publicity tasks
 
-- [ ] Send a newsletter to subscribers (assign to bwpanda / stpaultim / jenlampton)
+- [ ] Send a newsletter to subscribers (assign to @bwpanda / stpaultim / jenlampton)
 
 ### Backdrop Website updates
 

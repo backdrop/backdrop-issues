@@ -40,11 +40,7 @@ Steps to create a MAJOR release
 - [ ] Push the major release to the [Pantheon repository](https://github.com/backdrop-ops/backdrop-pantheon) (assign to quicksketch / serundeputy)
 - [ ] Push the major release to the [Platform.sh Backdrop repository](https://github.com/platformsh/template-builder/blob/master/project/backdrop.py) (assign to serundeputy / jenlampton)
 - [ ] Push the major release to the [Docker repository](https://github.com/docker-library/official-images/blob/master/library/backdrop) (@jenlampton)
-- [ ] Update the [Tugboat repository's](https://github.com/backdrop-ops/tugboat-demos) `config.yml` file to link to the new core release @bwpanda
-  - [ ] Make new matching tag for Tugboat repo @bwpanda
-  - [ ] Build new [Tugboat preview](https://dashboard.tugboat.qa/5fa46514c62ba02c640d3a67) (with no base) from new tag (then make it a base preview) @bwpanda
-  - [ ] Unset all base previews except the new one, and delete all previews from two releases ago (i.e. keep last two versions only) @bwpanda
-  - [ ] Update [backdropcms.org](https://backdropcms.org/admin/config/services/tugboat) to use the new Tugboat tag @bwpanda
+- [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--tugboat.md) @bwpanda
 - [ ] Push the major release to the [Backdrop Composer repository](https://github.com/backdrop-ops/backdrop-composer) (assign to quicksketch / serundeputy / herbdool)
 - [ ] Publish blog post (assign to tomgrandy / klonos / jenlampton / quicksketch)
 - [ ] Send a newsletter via MailChimp (assign to facetinteractive / tomgrandy / jenlampton)
