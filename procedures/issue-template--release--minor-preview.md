@@ -15,11 +15,11 @@ Scheduled for January/May/September 1st, 20xx 10am - 4pm PT
 - [ ] Create a new minor release milestone (assign to klonos / jenlampton / herbdool / serundeputy / quicksketch)
 - [ ] Move all unfinished issues to the next minor release milestone (assign to klonos / jenlampton / herbdool / serundeputy / quicksketch)
 - [ ] Review all closed issues in milestone: (assign to klonos / jenlampton / stpaultim )
-      - Issue titles should include a complete, but very brief summary of the problem.
-      - Issue titles sould be in complete sentences, ending with a period.
-      - Bug issue titles should start with `Fix` or `Fixed`,
-      - New fearure issue titles should start with `Add` or `Added`.
-      - Each issue should have accurate labels, especially the "type - " labels.
+  * Issue titles should include a complete, but very brief summary of the problem.
+  * Issue titles sould be in complete sentences, ending with a period.
+  * Bug issue titles should start with `Fix` or `Fixed`,
+  * New fearure issue titles should start with `Add` or `Added`.
+  * Each issue should have accurate labels, especially the "type - " labels.
 - [ ] Draft Release notes (assign to jenlampton / herbdool / serundeputy / quicksketch)
   - [ ] Include a short, descriptive summary of the release, for example:
     - This is the preview release of Backdrop 1.16.0. Please use this version if you would like to help us test the features in the new version of Backdrop prior to the official release on January/May/September 15th, 20xx.
