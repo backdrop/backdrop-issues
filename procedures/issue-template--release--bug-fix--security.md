@@ -22,7 +22,8 @@ Release scheduled for MM DD, 20xx 10am - 4pm PT
 - [ ] Close the milestone (assign to quicksketch / serundeputy / herbdool / bwpanda)
 - [ ] Draft Release notes (assign to jenlampton / herbdool / serundeputy / quicksketch)
   - [ ] Include a short, descriptive summary of the release, for example:
-      * "Maintenance release for Backdrop CMS. This update contains bug fixes and usability improvements only."
+      * "Security release for Backdrop CMS. This release fixes 1 security vulnerability:"
+      * Include a list of SA's for commits to this release
   - [ ] Include a section containing **Notes for updating**
     - [ ] Note if any changes were made to files outside the `core` directory, for example:
       * No changes have been made to the `.htaccess`, `robots.txt` or default `settings.php` files in this release. Updating customized versions of those files is not necessary.
@@ -35,6 +36,7 @@ Release scheduled for MM DD, 20xx 10am - 4pm PT
     * Download the `release-notes` artifact attached to the generator.
     * Unzip the file, and copy/pate contents into release notes draft.
     * Remove any square bracets in the titles, and move those issues to their own section.
+- [ ] Draft Security Advisories (assign to stpaultim / klonos / jenlampton / serundeputy / herbdool / quicksketch)
 
 ## Release tasks
 
@@ -42,9 +44,12 @@ Release scheduled for MM DD, 20xx 10am - 4pm PT
 - [ ] Tag for release, and push tag to GitHub (assign to quicksketch / serundeputy / herbdool / bwpanda)
 - [ ] Revert version number back (assign to quicksketch / serundeputy / herbdool / bwpanda)
 - [ ] Create release notes on GitHub, and publish release (assign to jenlampton / herbdool / serundeputy / quicksketch)
+- [ ] Publish Security Advisories on b.org (assign to stpaultim / klonos / jenlampton / herbdool / serundeputy / quicksketch)
+- [ ] Mark the release node on b.org as a security release (assign to stpaultim / klonos / jenlampton / herbdool / serundeputy / quicksketch)
+- [ ] [Request a CVE](https://github.com/backdrop/backdrop-issues/blob/master/procedures/security--request-cve.md) - (assign to jenlampton / quicksketch)
 - [ ] Update the front page download link on b.org (assign to stpaultim / klonos / jenlampton / serundeputy / herbdool / quicksketch)
 - [ ] Tweet that a new release is out (assign to stpaultim / jimbirch / jenlampton / quicksketch)
-  - Use text like "There is a bug-fix release out for #BackdropCMS today, version 1.17.1: https://backdropcms.org." or
+  - Use text like "There is a security release out for #BackdropCMS today, please update when you can. Backdrop core - Critical - Third-party libraries - BACKDROP-SA-CORE-2021-001"
 
 ## Immediate Post-release tasks
 
@@ -57,10 +62,10 @@ If this release does NOT accompany a minor release:
 - [ ] Update the Wikipedia articles (assign to stpaultim / klonos / jenlampton)
   - [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
   - [ ] https://en.wikipedia.org/wiki/List_of_content_management_systems
+- [ ] Update the Security Advisory with CVE (assign to jenlampton / quicksketch)
 
 ## Backdrop Website updates
 
-<!-- If this release does NOT accompany a minor release: -->
 - [ ] backdropcms.org (assign to @jenlampton / @bwpanda / ??)
 - [ ] docs.backdropcms.org (assign to @jenlampton / @bwpanda / ??)
 - [ ] events.backdropcms.org (assign to @jenlampton / @bwpanda / ??)
@@ -71,8 +76,3 @@ If this release does NOT accompany a minor release:
 ## See Also
 
 - [Checklist for 1.xx.x release]()
-<!-- If this release DOES accompany a minor release: -->
-- [Minor Release Checklist]()
-<!-- If this is a security release: -->
-- [Checklist for previous minor version]()
-
