@@ -11,6 +11,7 @@ Scheduled for January/May/September 1st, 20xx 10am - 4pm PT
 
 ## Pre-release tasks
 
+- [ ] If this is the Jan 1 pre-release, then make sure to update the end year in the "All Backdrop code is Copyright..." section towards the bottom of the README.md file.
 - [ ] Merge commits (assign to quicksketch / serundeputy / herbdool / bwpanda)
 - [ ] Create a new minor release milestone (assign to klonos / jenlampton / herbdool / serundeputy / quicksketch)
 - [ ] Move all unfinished issues to the next minor release milestone (assign to klonos / jenlampton / herbdool / serundeputy / quicksketch)
