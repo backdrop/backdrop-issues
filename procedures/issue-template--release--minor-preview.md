@@ -57,7 +57,7 @@ Scheduled for January/May/September 1st, 20xx 10am - 4pm PT
 - [ ] Branch for new minor number (e.g. `1.10.x-preview`) and push to GitHub (assign to quicksketch / serundeputy / herbdool / bwpanda)
 - [ ] Revert version number back on 1.x branch with minor number increased (e.g. `1.11.x-dev`) (assign to quicksketch / serundeputy / herbdool / bwpanda)
 - [ ] Revert version number back on new minor number branch (e.g. `1.10.x-dev`) (assign to quicksketch / serundeputy / herbdool / bwpanda)
-- [ ] Create release notes on GitHub (assign to jenlampton / herbdool / serundeputy / quicksketch)
+- [ ] Create release notes on GitHub **Important: Check "This is a pre-release" checkbox when creating release** (assign to jenlampton / herbdool / serundeputy / quicksketch)
 
 
 ## Post-release Publicity + documentation tasks
