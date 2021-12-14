@@ -54,7 +54,7 @@ If this release does NOT accompany a minor release:
 - [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--platformsh-template.md) (assign to serundeputy / jenlampton)
 - [ ] Update Composer (assign to quicksketch / serundeputy / herbdool)
 - [ ] Update [Docker](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--docker-image.md) (assign to ??? -- volunteer neeed)
-- [ ] Update the Wikipedia articles (assign to stpaultim / klonos / jenlampton)
+- [ ] Update the Wikipedia articles (assign to stpaultim / klonos)
   - [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
   - [ ] https://en.wikipedia.org/wiki/List_of_content_management_systems
 
