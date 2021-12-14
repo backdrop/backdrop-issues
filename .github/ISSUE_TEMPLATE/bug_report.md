@@ -7,12 +7,12 @@ assignees: ''
 
 ---
 
-**Description of the bug**
+## Description of the bug
 
 A short description of what the problem is.
 
 
-**Steps To Reproduce**
+## Steps To Reproduce
 
 To reproduce the behavior:
 1. Go to '...'
@@ -20,19 +20,19 @@ To reproduce the behavior:
 3. Scroll down to '....'
 
 
-**Actual behavior**
+## Actual behavior
 
 Describe what was the result of following the steps above. Add screenshots if
 you think they would help.
 
 
-**Expected behavior**
+## Expected behavior
 
 Describe what you expected to happen instead.
 Add mockup screenshots if possible.
 
 
-**Additional information**
+## Additional information
 
 Add any other information that could help, such as:
 - Backdrop CMS version:

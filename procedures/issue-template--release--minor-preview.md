@@ -11,6 +11,7 @@ Scheduled for January/May/September 1st, 20xx 10am - 4pm PT
 
 ## Pre-release tasks
 
+- [ ] If this is the Jan 1 pre-release, then make sure to update the end year in the "All Backdrop code is Copyright..." section towards the bottom of the README.md file.
 - [ ] Merge commits (assign to quicksketch / serundeputy / herbdool / bwpanda)
 - [ ] Create a new minor release milestone (assign to klonos / jenlampton / herbdool / serundeputy / quicksketch)
 - [ ] Move all unfinished issues to the next minor release milestone (assign to klonos / jenlampton / herbdool / serundeputy / quicksketch)
@@ -51,12 +52,11 @@ Scheduled for January/May/September 1st, 20xx 10am - 4pm PT
 
 ## Release tasks
 
-- [ ] Update bootstrap.inc with version number (assign to quicksketch / serundeputy / herbdool / bwpanda)
+- [ ] Update bootstrap.inc with version number (e.g. `1.10.0-preview`) (assign to quicksketch / serundeputy / herbdool / bwpanda)
 - [ ] Tag for release, and push tag to GitHub (assign to quicksketch / serundeputy / herbdool / bwpanda)
-- [ ] Branch for new minor number (e.g. `1.10.x-preview`) and push to GitHub (assign to quicksketch / serundeputy / herbdool / bwpanda)
-- [ ] Revert version number back on 1.x branch with minor number increased (e.g. `1.11.x-dev`) (assign to quicksketch / serundeputy / herbdool / bwpanda)
-- [ ] Revert version number back on new minor number branch (e.g. `1.10.x-dev`) (assign to quicksketch / serundeputy / herbdool / bwpanda)
-- [ ] Create release notes on GitHub (assign to jenlampton / herbdool / serundeputy / quicksketch)
+- [ ] Note: New incremented branch for development is usually created on release day
+- [ ] Revert version number back on 1.x branch with the same minor number (e.g. `1.10.x-dev`) (assign to quicksketch / serundeputy / herbdool / bwpanda)
+- [ ] Create release notes on GitHub **Important: Check "This is a pre-release" checkbox when creating release** (assign to jenlampton / herbdool / serundeputy / quicksketch)
 
 
 ## Post-release Publicity + documentation tasks
