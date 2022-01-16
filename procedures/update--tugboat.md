@@ -5,9 +5,8 @@
 - From the `Actions` dropdown, click `Rebuild...`
   - Tick the `Yes, rebuild this preview` checkbox
   - Click the `Rebuild` button
-- Once the base preview has finished rebuilding, go to the
-  `backdrop-ops/tugboat-demos` page:
-  https://dashboard.tugboat.qa/5fa46514c62ba02c640d3a67
+- While the base preview is rebuilding, go to the `backdrop-ops/tugboat-demos`
+  page: https://dashboard.tugboat.qa/5fa46514c62ba02c640d3a67
 - For each regular preview, click Actions > Delete..., then Yes.
 
 NOTE: When the base preview is rebuilt, the other previews all expand to
