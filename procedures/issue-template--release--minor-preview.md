@@ -24,13 +24,15 @@ Scheduled for January/May/September 1st, 20xx 10am - 4pm PT
 - [ ] Draft Release notes (assign to jenlampton / herbdool / serundeputy / quicksketch)
   - [ ] Include a short, descriptive summary of the release, for example:
     - This is the preview release of Backdrop 1.16.0. Please use this version if you would like to help us test the features in the new version of Backdrop prior to the official release on January/May/September 15th, 20xx.
-  - [ ] Include a section containing **Notes for updating**
+  - [ ] Include a section heading `**Notes for updating**`
     - [ ] Note if any changes were made to files outside the `core` directory, for example:
       * No changes have been made to the `.htaccess`, `robots.txt` or default `settings.php` files in this release. Updating customized versions of those files is not necessary.
+      * See [this example](https://github.com/backdrop/backdrop/releases/tag/1.18.0) for updates to `.htaccess`
+      * See [this example](https://github.com/backdrop/backdrop/releases/tag/1.16.0) or [this example](https://github.com/backdrop/backdrop/releases/tag/1.14.0) for updates to `settings.php`
     - [ ] Note if updates (update.php) needs to be run, for example:
-      * Use the text "The database update script does **not** need to be run."
-      * or "It will be necessary to run the update script (located at /core/update.php) for this release."
-  - [ ] Include changelog since last version:
+      * Use the text `The database update script does **not** need to be run.`
+      * or `**It will be necessary to run the update script** (located at /update.php) for this release.`
+  - [ ] Include a section heading `**Changes since version 1.xx.x** are listed below.`
       * navigate to [Actions](https://github.com/backdrop/backdrop-issues/actions)
       * Select the most recent time "Release Notes Generator" has been run.
       * Download the `release-notes` artifact attached to the generator.
