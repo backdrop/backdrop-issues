@@ -15,11 +15,21 @@ Steps to create a MAJOR release
   * New fearure issue titles should start with `Add` or `Added`.
   * Each issue should have accurate labels, especially the "type - " labels.
 - [ ] Close the milestone (assign to quicksketch / serundeputy / herbdool / bwpanda)
-- [ ] Draft Release notes (assign to serundeputy / quicksketch / jenlampton)
-  - [ ] Short, descriptive summary of the release
-  - [ ] Note if any changes were made to files outside the `core` directory
-  - [ ] Note if updates (update.php) needs to be run
-  - [ ] Include changelog since last version
+- [ ] Draft Release notes (assign to jenlampton / herbdool / serundeputy / quicksketch)
+  - [ ] Include a short, descriptive summary of the release, for example:
+    * This is the preview release of Backdrop 1.16.0. Please use this version if you would like to help us test the features in the new version of Backdrop prior to the official release on January/May/September 15th, 20xx.
+  - [ ] Include a section containing **Notes for updating**
+    - [ ] Note if any changes were made to files outside the `core` directory, for example:
+      * No changes have been made to the `.htaccess`, `robots.txt` or default `settings.php` files in this release. Updating customized versions of those files is not necessary.
+    - [ ] Note if updates (update.php) needs to be run, for example:
+      * Use the text "The database update script does **not** need to be run."
+      * or "It will be necessary to run the update script (located at /core/update.php) for this release."
+  - [ ] Include changelog since last version:
+      * navigate to [Actions](https://github.com/backdrop/backdrop-issues/actions)
+      * Select the most recent time "Release Notes Generator" has been run.
+      * Download the `release-notes` artifact attached to the generator.
+      * Unzip the file, and copy/pate contents into release notes draft.
+      * Re-word issue titles to indicate that the problems have been fixed.
 - [ ] Draft blog post (assign to tomgrandy / klonos / jenlampton / quicksketch)
 - [ ] Draft a newsletter via MailChimp (assign to facetinteractive / tomgrandy / jenlampton)
 
