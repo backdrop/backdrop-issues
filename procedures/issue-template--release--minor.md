@@ -23,13 +23,13 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 - [ ] Draft Release notes (assign to jenlampton / herbdool / serundeputy / quicksketch)
   - [ ] Copy Preview release release notes, update as follows
     - [ ] Include a short, descriptive summary of the release, for example:
-      - The Backdrop community is proud to release version 1.xx of Backdrop CMS, following our 4-month release cycle.
+      * The Backdrop community is proud to release version 1.xx of Backdrop CMS, following our 4-month release cycle.
     - [ ] Include a section containing **Notes for updating**
       - [ ] Note if any changes were made to files outside the `core` directory, for example:
         * No changes have been made to the `.htaccess`, `robots.txt` or default `settings.php` files in this release. Updating customized versions of those files is not necessary.
       - [ ] Note if updates (update.php) needs to be run, for example:
         * Use the text "The database update script does **not** need to be run."
-        * or "It will be necessary to run the update script (located at /update.php) for this release."
+        * or "It will be necessary to run the update script (located at /core/update.php) for this release."
     - [ ] Include changelog since last version:
       * Navigate to [Actions](https://github.com/backdrop/backdrop-issues/actions)
       * Select the most recent time "Release Notes Generator" has been run.
@@ -79,9 +79,8 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 
 ### Backdrop Website updates
 
-- [ ] docs.backdropcms.org (assign to @jenlampton / @bwpanda / ??)
-- [ ] events.backdropcms.org (assign to @jenlampton / @bwpanda / ??)
-- [ ] forum.backdropcms.org (assign to @jenlampton / @bwpanda / ??)
+- [ ] docs.backdropcms.org (assign to @jenlampton / @bwpanda / @bugfolder)
+- [ ] events.backdropcms.org (assign to @jenlampton / @bwpanda / @bugfolder)
 
 ## 2-week Post-release tasks
 
@@ -98,7 +97,8 @@ comes sooner.
 
 ### Backdrop Website updates
 
-- [ ] backdropcms.org (assign to @jenlampton / @bwpanda / ??)
+- [ ] backdropcms.org (assign to @jenlampton / @bwpanda / @bugfolder)
+- [ ] forum.backdropcms.org (assign to @jenlampton / @bwpanda / @bugfolder)
 
 
 See Also
