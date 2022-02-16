@@ -29,7 +29,7 @@ Release scheduled for MM DD, 20xx 10am - 4pm PT
       * No changes have been made to the `.htaccess`, `robots.txt` or default `settings.php` files in this release. Updating customized versions of those files is not necessary.
     - [ ] Note if updates (update.php) needs to be run, for example:
       * Use the text "The database update script does **not** need to be run."
-      * or "It will be necessary to run the update script (located at /update.php) for this release."
+      * or "It will be necessary to run the update script (located at /core/update.php) for this release."
   - [ ] Include changelog since last version:
     * Navigate to [Actions](https://github.com/backdrop/backdrop-issues/actions)
     * Select the most recent time "Release Notes Generator" has been run.
@@ -64,13 +64,13 @@ If this release does NOT accompany a minor release:
   - [ ] https://en.wikipedia.org/wiki/List_of_content_management_systems
 - [ ] Update the Security Advisory with CVE (assign to jenlampton / quicksketch)
 
-## Backdrop Website updates
+## Backdrop's Website updates
 
-- [ ] backdropcms.org (assign to @jenlampton / @bwpanda / ??)
-- [ ] docs.backdropcms.org (assign to @jenlampton / @bwpanda / ??)
-- [ ] events.backdropcms.org (assign to @jenlampton / @bwpanda / ??)
-- [ ] forum.backdropcms.org (assign to @jenlampton / @bwpanda / ??)
-- [ ] localize.backdropcms.org (assign to @jenlampton / @bwpanda / ??)
+- [ ] backdropcms.org (assign to @jenlampton / @bwpanda / @bugfolder)
+- [ ] docs.backdropcms.org (assign to @jenlampton / @bwpanda / @bugfolder)
+- [ ] events.backdropcms.org (assign to @jenlampton / @bwpanda / @bugfolder)
+- [ ] forum.backdropcms.org (assign to @jenlampton / @bwpanda / @bugfolder)
+- [ ] localize.backdropcms.org (assign to @jenlampton / @bwpanda / @bugfolder)
 
 
 ## See Also
