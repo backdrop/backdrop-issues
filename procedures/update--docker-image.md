@@ -1,10 +1,10 @@
 
 ## Update Official Backdrop CMS Docker Image
 
-**Two Steps** (see below)
+**Two Steps** (details for each step below)
 
-- Update the [Backdrop Docker repository](https://github.com/backdrop-ops/backdrop-docker) 
-- Create a PR to update the [Docker repository](https://github.com/docker-library/official-images/blob/master/library/backdrop) 
+1. Update the [Backdrop Docker repository](https://github.com/backdrop-ops/backdrop-docker) 
+2. Create a PR to update the [Docker repository](https://github.com/docker-library/official-images/blob/master/library/backdrop) 
 
 ### 1. Update the backdrop-ops/docker image https://github.com/backdrop-ops/backdrop-docker
 
