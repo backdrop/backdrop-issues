@@ -13,9 +13,9 @@
 You will need 2 things:
 1. The release tag of the [latest stable Backdrop version](https://github.com/backdrop/backdrop/releases/latest) (which is usually the same as the Backdrop version).
 2. The md5 hash of the [latest stable Backdrop release](https://github.com/backdrop/backdrop/releases/latest):
-  2.1 Download the "Source code" .tar.gz file - NOT the .zip file (it is usually the last item in the list of links bellow the "Assets" section).
-  2.1 Run `md5 {filename}.tar.gz`
-  2.2 Make and note of the generated md5 hash
+   - 2.1 Download the "Source code" .tar.gz file - NOT the .zip file (it is usually the last item in the list of links bellow the "Assets" section).
+   - 2.1 Run `md5 {filename}.tar.gz` or `md5sum {filename}.tar.gz` depending on your operating system
+   - 2.2 Make a note of the generated md5 hash
 
 * [ ] Update the 2 dockerfiles:
   * [ ] Update `1/apache/Dockerfile`:
