@@ -64,6 +64,7 @@ If this release does NOT accompany a minor release:
 <!-- If this release does NOT accompany a minor release: -->
 
 - [ ] backdropcms.org (assign to @jenlampton / @bwpanda / @bugfolder)
+- [ ] beta.backdropcms.org (assign to @jenlampton / @bwpanda / @bugfolder)
 - [ ] docs.backdropcms.org (assign to @jenlampton / @bwpanda / @bugfolder)
 - [ ] events.backdropcms.org (assign to @jenlampton / @bwpanda / @bugfolder)
 - [ ] forum.backdropcms.org (assign to @jenlampton / @bwpanda / @bugfolder)
