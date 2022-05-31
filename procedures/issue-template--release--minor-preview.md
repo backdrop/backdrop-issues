@@ -61,6 +61,10 @@ Scheduled for January/May/September 1st, 20xx 10am - 4pm PT
 - [ ] Create release notes on GitHub **Important: Check "This is a pre-release" checkbox when creating release** (assign to jenlampton / herbdool / serundeputy / quicksketch)
 
 
+## Website updates
+- [ ] beta.backdropcms.org (assign to @jenlampton / @bwpanda / @bugfolder)
+
+
 ## Post-release Publicity + documentation tasks
 
 - [ ] Tweet that a preview release is out (assign to stpaultim / jimbirch / jenlampton / quicksketch)
