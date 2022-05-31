@@ -81,6 +81,7 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 
 ### Backdrop Website updates
 
+- [ ] beta.backdropcms.org -- if not done with preview (assign to @jenlampton / @bwpanda / @bugfolder)
 - [ ] docs.backdropcms.org (assign to @jenlampton / @bwpanda / @bugfolder)
 - [ ] events.backdropcms.org (assign to @jenlampton / @bwpanda / @bugfolder)
 
