@@ -69,6 +69,7 @@ If this release does NOT accompany a minor release:
 ## Backdrop's Website updates
 
 - [ ] backdropcms.org (assign to @jenlampton / @bwpanda / @bugfolder)
+- [ ] beta.backdropcms.org (assign to @jenlampton / @bwpanda / @bugfolder)
 - [ ] docs.backdropcms.org (assign to @jenlampton / @bwpanda / @bugfolder)
 - [ ] events.backdropcms.org (assign to @jenlampton / @bwpanda / @bugfolder)
 - [ ] forum.backdropcms.org (assign to @jenlampton / @bwpanda / @bugfolder)
