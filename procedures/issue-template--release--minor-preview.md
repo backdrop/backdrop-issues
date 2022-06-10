@@ -48,6 +48,7 @@ Scheduled for January/May/September 1st, 20xx 10am - 4pm PT
   - [ ] Add `Needs change record` label if the the issue contains an API change.
   - [ ] Add `Needs translation` label if the the issue contains string translations.
 - [ ] Draft blog post for release on the 15th (assign to stpaultim / tomgrandy / klonos / jenlampton)
+- [ ] Update list of modules included in backdrop core (assign to bugfolder / klonos / jenlampton)
 - [ ] Draft roadmap updates for backdropcms.org (assign to stpaultim / klonos / jenlampton)
 - [ ] Create new forum topic for feedback on the release @stpaultim
 
