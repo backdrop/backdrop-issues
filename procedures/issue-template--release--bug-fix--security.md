@@ -55,7 +55,7 @@ Release scheduled for MM DD, 20xx 10am - 4pm PT
 
 ## Immediate Post-release tasks
 
-If this release does NOT accompany a minor release:
+- [ ] Update the Security Advisory with CVE (assign to jenlampton / quicksketch)
 - [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--tugboat.md) @bwpanda
 - [ ] Update [Pantheon](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--pantheon-upstream.md) (assign to herbdool / serundeputy / quicksketch)
 - [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--platformsh-template.md) (assign to serundeputy / jenlampton)
@@ -64,7 +64,6 @@ If this release does NOT accompany a minor release:
 - [ ] Update the Wikipedia articles (assign to stpaultim / klonos)
   - [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
   - [ ] https://en.wikipedia.org/wiki/List_of_content_management_systems
-- [ ] Update the Security Advisory with CVE (assign to jenlampton / quicksketch)
 
 ## Backdrop's Website updates
 
