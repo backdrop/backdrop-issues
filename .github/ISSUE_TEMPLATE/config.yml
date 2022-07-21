@@ -1,0 +1,14 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Support & feedback
+    url: https://forum.backdropcms.org/
+    about: Get help with your projects, and provide feedback about all things Backdrop.
+  - name: Report security issue
+    url: https://backdropcms.org/security
+    about: Contact us privately about potential security issues.
+  - name: Live chat
+    url: https://backdrop.zulipchat.com/
+    about: Drop in and say hi!
+  - name: Community discussions
+    url: https://github.com/backdrop-ops/backdrop-community/issues
+    about: Discuss anything related to Backdrop or the community in general.
