@@ -12,21 +12,21 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 
 - [ ] If this is the Jan 15 release, ensure that the end year in the "All Backdrop code is Copyright..." section towards the bottom of the README.md file has been updated to reflect the new/current year.
 - [ ] Merge minor release commits (assign to quicksketch / serundeputy / herbdool / bwpanda)
-- [ ] Move all unfinished issues to the next bug-fix release milestone (assign to klonos / jenlampton / herbdool / serundeputy / quicksketch)
+- [ ] Move all unfinished issues to the next bug-fix release milestone (assign to klonos / jenlampton / herbdool / quicksketch)
 - [ ] Review all closed issues in milestone: (assign to klonos / jenlampton / stpaultim )
   * Issue titles should include a complete, but very brief summary of the problem.
   * Issue titles sould be in complete sentences, ending with a period.
   * Bug issue titles should start with `Fix` or `Fixed`,
   * New fearure issue titles should start with `Add` or `Added`.
   * Each issue should have accurate labels, especially the "type - " labels.
-- [ ] Close the milestone (assign to quicksketch / serundeputy / herbdool / bwpanda)
-- [ ] Draft Release notes (assign to jenlampton / herbdool / serundeputy / quicksketch)
+- [ ] Close the milestone (assign to quicksketch / herbdool / bwpanda)
+- [ ] Draft Release notes (assign to jenlampton / herbdool / quicksketch)
   - [ ] Copy Preview release release notes, update as follows
     - [ ] Include a short, descriptive summary of the release, for example:
       * The Backdrop community is proud to release version 1.xx of Backdrop CMS, following our 4-month release cycle.
     - [ ] Include a section heading `**Notes for updating**`
       - [ ] Note if any changes were made to files outside the `core` directory, for example:
-        * No changes have been made to the `.htaccess`, `robots.txt` or default `settings.php` files in this release. Updating customized versions of those files is not necessary.
+        * ``- No changes have been made to the `.htaccess`, `robots.txt` or default `settings.php` files in this release. Updating customized versions of those files is not necessary.``
         * See [this example](https://github.com/backdrop/backdrop/releases/tag/1.18.0) for updates to `.htaccess`
         * See [this example](https://github.com/backdrop/backdrop/releases/tag/1.16.0) or [this example](https://github.com/backdrop/backdrop/releases/tag/1.14.0) for updates to `settings.php`
       - [ ] Note if updates (update.php) needs to be run, for example:
@@ -48,8 +48,8 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 - [ ] Branch for new minor number (e.g. `1.10.x`) and push to GitHub (assign to quicksketch / serundeputy / herbdool / bwpanda)
 - [ ] Revert version number back on 1.x branch with minor number increased (e.g. `1.11.x-dev`) (assign to quicksketch / serundeputy / herbdool / bwpanda)
 - [ ] Revert version number back on new minor number branch (e.g. `1.10.x-dev`) (assign to quicksketch / serundeputy / herbdool / bwpanda)
-- [ ] Create release notes on GitHub, and publish release (assign to jenlampton / herbdool / serundeputy / quicksketch)
-- [ ] Unpublish preview release on backdropcms.org (assign to stpaultim / klonos / jenlampton / serundeputy / herbdool / quicksketch)
+- [ ] Create release notes on GitHub, and publish release (assign to jenlampton / herbdool / quicksketch)
+- [ ] Unpublish preview release on backdropcms.org (assign to stpaultim / klonos / jenlampton / herbdool / quicksketch)
 - [ ] Update the front page download link on b.org (assign to stpaultim / klonos / jenlampton)
 - [ ] Update the roadmap page on b.org (assign to stpaultim / klonos / jenlampton)
 - [ ] Create a new language template file for the translation server (assign to olaf - see https://github.com/backdrop-ops/localize.backdropcms.org/issues/27 until this is automated)
@@ -60,8 +60,8 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 
 - [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--tugboat.md) @bwpanda
 - [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--platformsh-template.md) (assign to serundeputy / jenlampton)
-- [ ] Update Composer (assign to quicksketch / serundeputy / herbdool)
-- [ ] Update [Docker](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--docker-image.md) (assign to ??? -- volunteer neeed)
+- [ ] Update [Composer](https://github.com/backdrop-ops/backdrop-composer) @herbdool (or quicksketch)
+- [ ] Update [Docker](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--docker-image.md) @wylbur
 
 - [ ] Update the Wikipedia articles (assign to stpaultim / klonos / jenlampton)
   * [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
@@ -93,7 +93,11 @@ comes sooner.
 
 ### Code tasks
 
-- [ ] Update [Pantheon](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--pantheon-upstream.md) (assign to herbdool / serundeputy / quicksketch)
+- [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--tugboat.md) @bwpanda
+- [ ] Update [Pantheon](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--pantheon-upstream.md) @herbdool
+- [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--platformsh-template.md) (assign to herbdool / jenlampton)
+- [ ] Update [Composer](https://github.com/backdrop-ops/backdrop-composer) @herbdool (or quicksketch)
+- [ ] Update [Docker](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--docker-image.md) @wylbur
 
 ### Publicity tasks
 
@@ -101,8 +105,8 @@ comes sooner.
 
 ### Backdrop Website updates
 
-- [ ] backdropcms.org (assign to @jenlampton / @bwpanda / @bugfolder)
-- [ ] forum.backdropcms.org (assign to @jenlampton / @bwpanda / @bugfolder)
+- [ ] backdropcms.org @jenlampton (or bwpanda / bugfolder)
+- [ ] forum.backdropcms.org @jenlampton (or bwpanda / bugfolder)
 
 
 See Also
