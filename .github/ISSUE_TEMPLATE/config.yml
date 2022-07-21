@@ -1,29 +1,14 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Help!
-    url: https://forum.backdropcms.org/forum/how-and-troubleshooting
-    about: Help with getting things done and fixing problems.
-  - name: Feedback
-    url: https://forum.backdropcms.org/forum/requests-and-feedback
-    about: Tell us what you think about Backdrop and how we can improve.
+  - name: Support & feedback
+    url: https://forum.backdropcms.org/
+    about: Get help with your projects, and provide feedback about all things Backdrop.
   - name: Report security issue
     url: https://backdropcms.org/security
     about: Contact us privately about potential security issues.
   - name: Live chat
     url: https://backdrop.zulipchat.com/
     about: Drop in and say hi!
-  - name: Contrib
-    url: https://github.com/backdrop-ops/contrib/issues
-    about: All things contrib (maintainership, request ports, etc.)
-  - name: BackdropCMS.org
-    url: https://github.com/backdrop-ops/backdropcms.org/issues
-    about: Report issues with our website, or request new features.
-  - name: Backdrop documentation
-    url: https://github.com/backdrop-ops/docs.backdropcms.org/issues
-    about: Report issues with our documentation/API site.
-  - name: Backdrop forum
-    url: https://github.com/backdrop-ops/forum.backdropcms.org/issues
-    about: Report issues with our forum site.
-  - name: Backdrop events
-    url: https://github.com/backdrop-ops/events.backdropcms.org/issues
-    about: Report issues with our events site.
+  - name: Community discussions
+    url: https://github.com/backdrop-ops/backdrop-community/issues
+    about: Discuss anything related to Backdrop or the community in general.
