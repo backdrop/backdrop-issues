@@ -51,56 +51,45 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 - [ ] Create release notes on GitHub, and publish release (assign to jenlampton / herbdool / quicksketch)
 - [ ] Unpublish preview release on backdropcms.org (assign to stpaultim / klonos / jenlampton / herbdool / quicksketch)
 - [ ] Update the front page download link on b.org (assign to stpaultim / klonos / jenlampton)
-- [ ] Update the roadmap page on b.org (assign to stpaultim / klonos / jenlampton)
 - [ ] Create a new language template file for the translation server (assign to olaf - see https://github.com/backdrop-ops/localize.backdropcms.org/issues/27 until this is automated)
 
 ## Immediate Post-release tasks
 
-### Code tasks
-
-- [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--tugboat.md) @bwpanda
-- [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--platformsh-template.md) (assign to serundeputy / jenlampton)
-- [ ] Update [Composer](https://github.com/backdrop-ops/backdrop-composer) @herbdool (or quicksketch)
-- [ ] Update [Docker](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--docker-image.md) @wylbur
-
-- [ ] Update the Wikipedia articles (assign to stpaultim / klonos / jenlampton)
-  * [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
-  * [ ] https://en.wikipedia.org/wiki/List_of_content_management_systems
-- [ ] update docs.backdropcms.org to latest version @jenlampton
-
 ### Publicity tasks
 
-- [ ] Add a notification to the dashboard (assign to stpaultim / klonos / jenlampton)
 - [ ] Tweet that a new release is out (assign to stpaultim / jimbirch / jenlampton / quicksketch)
   * Use text like "We're thrilled to announce Backdrop version 1.18.0. This is the 19th new feature release of #BackdropCMS. https://backdropcms.org"
 - [ ] Publish blog post (assign to stpaultim / tomgrandy / klonos / jenlampton)
+- [ ] email katie@phpweekly.com for a note in the PHP Weekly Newsletter (assign to stpaultim / klonos / jenlampton)
+- [ ] Update the roadmap page on b.org (assign to stpaultim / klonos / jenlampton)
 - [ ] Update list of modules included in backdrop core (assign to bugfolder / klonos / jenlampton)
-- [ ] email katie@phpweekly.com for a note in the PHP Weekly Newsletter (assign to stpaultim / tomgrandy / klonos / jenlampton)
-- [ ] Update the Wikipedia articles (assign to stpaultim / klonos)
-  - [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
-  - [ ] https://en.wikipedia.org/wiki/List_of_content_management_systems
+- [ ] Update the Wikipedia articles (assign to stpaultim / klonos / jenlampton)
+  * [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
+  * [ ] https://en.wikipedia.org/wiki/List_of_content_management_systems
+
+### Code tasks
+
+- [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--tugboat.md) @bwpanda
+- [ ] Update [Pantheon](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--pantheon-upstream.md) @herbdool
+- [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--platformsh-template.md) @herbdool
+- [ ] Update [Composer](https://github.com/backdrop-ops/backdrop-composer) @herbdool
+- [ ] Update [Docker](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--docker-image.md) @wylbur
 
 ### Backdrop Website updates
 
-- [ ] beta.backdropcms.org -- if not done with preview (assign to @jenlampton / @bwpanda / @bugfolder)
-- [ ] docs.backdropcms.org (assign to @jenlampton / @bwpanda / @bugfolder)
-- [ ] events.backdropcms.org (assign to @jenlampton / @bwpanda / @bugfolder)
+- [ ] beta.backdropcms.org -- if not done with preview (assign to bugfolder / jenlampton / bwpanda)
+- [ ] docs.backdropcms.org (assign to jenlampton / bwpanda / bugfolder)
+- [ ] events.backdropcms.org (assign to jenlampton / bwpanda / bugfolder)
 
 ## 2-week Post-release tasks
 
 These should be done after the first bug-fix release or 14 days -- whichever
 comes sooner.
 
-### Code tasks
-
-- [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--tugboat.md) @bwpanda
-- [ ] Update [Pantheon](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--pantheon-upstream.md) @herbdool
-- [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--platformsh-template.md) (assign to herbdool / jenlampton)
-- [ ] Update [Composer](https://github.com/backdrop-ops/backdrop-composer) @herbdool (or quicksketch)
-- [ ] Update [Docker](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--docker-image.md) @wylbur
 
 ### Publicity tasks
 
+- [ ] Add a notification to the dashboard (assign to stpaultim / klonos / jenlampton)
 - [ ] Send a newsletter to subscribers (assign to @bwpanda / stpaultim / jenlampton)
 
 ### Backdrop Website updates
