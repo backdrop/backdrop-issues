@@ -23,7 +23,7 @@ Scheduled for January/May/September 1st, 20xx 10am - 4pm PT
   * Each issue should have accurate labels, especially the "type - " labels.
 - [ ] Draft Release notes (assign to jenlampton / herbdool / quicksketch)
   - [ ] Include a short, descriptive summary of the release, for example:
-    - This is the preview release of Backdrop 1.16.0. Please use this version if you would like to help us test the features in the new version of Backdrop prior to the official release on January/May/September 15th, 20xx.
+    * This is the preview release of Backdrop 1.16.0. Please use this version if you would like to help us test the features in the new version of Backdrop prior to the official release on January/May/September 15th, 20xx.
   - [ ] Include a section heading `**Notes for updating**`
     - [ ] Note if any changes were made to files outside the `core` directory, for example:
       * ``- No changes have been made to the `.htaccess`, `robots.txt` or default `settings.php` files in this release. Updating customized versions of those files is not necessary.``
@@ -48,8 +48,9 @@ Scheduled for January/May/September 1st, 20xx 10am - 4pm PT
   - [ ] Add `Needs change record` label if the the issue contains an API change.
   - [ ] Add `Needs translation` label if the the issue contains string translations.
 - [ ] Draft blog post for release on the 15th (assign to stpaultim / tomgrandy / klonos / jenlampton)
-- [ ] Update list of modules included in backdrop core (assign to bugfolder / klonos / jenlampton)
 - [ ] Draft roadmap updates for backdropcms.org (assign to stpaultim / klonos / jenlampton)
+- [ ] Update list of modules included in backdrop core (assign to bugfolder / klonos / jenlampton)
+- [ ] Update list of modules included in backdrop_upgrade_status module (assign to jenlampton)
 - [ ] Create new forum topic for feedback on the release @stpaultim
 
 
