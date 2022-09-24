@@ -22,7 +22,7 @@ Release scheduled for MM DD, 20xx 10am - 4pm PT
 - [ ] Close the milestone (assign to quicksketch / herbdool / bwpanda)
 - [ ] Draft Release notes (assign to jenlampton / herbdool / quicksketch)
   - [ ] Include a short, descriptive summary of the release, for example:
-      * "Maintenance release for Backdrop CMS. This update contains bug fixes and usability improvements only."
+    * "Maintenance release for Backdrop CMS. This update contains bug fixes and usability improvements only."
   - [ ] Include a section heading `**Notes for updating**`
     - [ ] Note if any changes were made to files outside the `core` directory, for example:
       * ``- No changes have been made to the `.htaccess`, `robots.txt` or default `settings.php` files in this release. Updating customized versions of those files is not necessary.``
