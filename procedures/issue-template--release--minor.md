@@ -63,6 +63,7 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 - [ ] email katie@phpweekly.com for a note in the PHP Weekly Newsletter (assign to stpaultim / klonos / jenlampton)
 - [ ] Update the roadmap page on b.org (assign to stpaultim / klonos / jenlampton)
 - [ ] Update list of modules included in backdrop core (assign to bugfolder / klonos / jenlampton)
+- [ ] Update list of modules included in backdrop_upgrade_status module (assign to jenlampton)
 - [ ] Update the Wikipedia articles (assign to stpaultim / klonos / jenlampton)
   * [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
   * [ ] https://en.wikipedia.org/wiki/List_of_content_management_systems
