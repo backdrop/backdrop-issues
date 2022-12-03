@@ -61,8 +61,10 @@ Release scheduled for MM DD, 20xx 10am - 4pm PT
 - [ ] Update [Composer](https://github.com/backdrop-ops/backdrop-composer) @herbdool (or quicksketch)
 - [ ] Update [Docker](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--docker-image.md) @wylbur
 - [ ] Update the Wikipedia articles (assign to stpaultim / klonos)
-  - [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
-  - [ ] https://en.wikipedia.org/wiki/List_of_content_management_systems
+  - [ ] https://en.wikipedia.org/w/index.php?title=Template:BackdropCMS_version&action=edit - 
+    * Auto applied to:
+      * https://en.wikipedia.org/wiki/Backdrop_CMS
+      * https://en.wikipedia.org/wiki/List_of_content_management_systems
 
 ## Backdrop's Website updates
 
