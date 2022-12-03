@@ -67,8 +67,8 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 - [ ] Update the Wikipedia articles (assign to stpaultim / klonos / jenlampton)
   - [ ] https://en.wikipedia.org/w/index.php?title=Template:BackdropCMS_version&action=edit - 
     * Auto applied to:
-    * https://en.wikipedia.org/wiki/Backdrop_CMS
-    * https://en.wikipedia.org/wiki/List_of_content_management_systemshttps://en.wikipedia.org/wiki/List_of_content_management_systems
+      * https://en.wikipedia.org/wiki/Backdrop_CMS
+      * https://en.wikipedia.org/wiki/List_of_content_management_systemshttps://en.wikipedia.org/wiki/List_of_content_management_systems
 
 ### Code tasks
 
