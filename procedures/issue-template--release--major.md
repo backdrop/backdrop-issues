@@ -61,8 +61,10 @@ Steps to create a MAJOR release
 - [ ] Send a newsletter via MailChimp (assign to facetinteractive / tomgrandy / jenlampton)
 - [ ] email katie@phpweekly.com for a note in the PHP Weekly Newsletter (assign to tomgrandy / klonos / jenlampton)
 - [ ] Update the Wikipedia articles (assign to klonos / jenlampton)
-  - [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
-  - [ ] https://en.wikipedia.org/wiki/List_of_content_management_systems
+  - [ ] https://en.wikipedia.org/w/index.php?title=Template:BackdropCMS_version&action=edit - 
+    * Auto applied to:
+      * https://en.wikipedia.org/wiki/Backdrop_CMS
+      * https://en.wikipedia.org/wiki/List_of_content_management_systems
 
 
 See the Accompanying Bug-Fix Release Checklist
