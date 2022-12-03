@@ -59,8 +59,8 @@ If this release does NOT accompany a minor release:
 - [ ] Update the Wikipedia articles (assign to stpaultim / klonos)
   - [ ] https://en.wikipedia.org/w/index.php?title=Template:BackdropCMS_version&action=edit - 
     * Auto applied to:
-    * https://en.wikipedia.org/wiki/Backdrop_CMS
-    * https://en.wikipedia.org/wiki/List_of_content_management_systems
+      * https://en.wikipedia.org/wiki/Backdrop_CMS
+      * https://en.wikipedia.org/wiki/List_of_content_management_systems
 
 ## Backdrop's Website updates
 <!-- If this release does NOT accompany a minor release: -->
