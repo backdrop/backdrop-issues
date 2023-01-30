@@ -68,11 +68,11 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
   - [ ] https://en.wikipedia.org/w/index.php?title=Template:BackdropCMS_version&action=edit - 
     * Auto applied to:
       * https://en.wikipedia.org/wiki/Backdrop_CMS
-      * https://en.wikipedia.org/wiki/List_of_content_management_systemshttps://en.wikipedia.org/wiki/List_of_content_management_systems
+      * https://en.wikipedia.org/wiki/List_of_content_management_systems
 
 ### Code tasks
 
-- [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--tugboat.md) @bwpanda
+- [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--tugboat.md) @bwpanda | @klonos
 - [ ] Update [Pantheon](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--pantheon-upstream.md) @herbdool
 - [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--platformsh-template.md) @herbdool
 - [ ] Update [Composer](https://github.com/backdrop-ops/backdrop-composer) @herbdool
