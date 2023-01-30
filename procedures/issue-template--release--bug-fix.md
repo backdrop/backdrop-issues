@@ -51,7 +51,7 @@ Release scheduled for MM DD, 20xx 10am - 4pm PT
 ## Immediate Post-release tasks
 
 If this release does NOT accompany a minor release:
-- [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--tugboat.md) @bwpanda
+- [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--tugboat.md) @bwpanda | @klonos
 - [ ] Update [Pantheon](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--pantheon-upstream.md) @herbdool
 - [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--platformsh-template.md) (assign to herbdool, jenlampton)
 - [ ] Update [Composer](https://github.com/backdrop-ops/backdrop-composer) @herbdool (or quicksketch)
