@@ -37,5 +37,7 @@ Add mockup screenshots if possible.
 Add any other information that could help, such as:
 - Backdrop CMS version:
 - Web server and its version:
+- PHP version: 
+- Database sever (MySQL or MariaDB?) and its version:
 - Operating System and its version:
 - Browser(s) and their versions:
