@@ -72,11 +72,11 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 
 ### Code tasks
 
-- [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--tugboat.md) @bwpanda | @klonos
-- [ ] Update [Pantheon](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--pantheon-upstream.md) @herbdool
-- [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--platformsh-template.md) @herbdool
+- [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/wiki/Update:-Tugboat) @bwpanda | @klonos
+- [ ] Update [Pantheon](https://github.com/backdrop/backdrop-issues/wiki/Update:-Pantheon-Upstream) @herbdool
+- [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/wiki/Update:-Platform.sh-Template) @herbdool
 - [ ] Update [Composer](https://github.com/backdrop-ops/backdrop-composer) @herbdool
-- [ ] Update [Docker](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--docker-image.md) @wylbur
+- [ ] Update [Docker](https://github.com/backdrop/backdrop-issues/wiki/Update:-Docker-Image) @wylbur
 
 ### Backdrop Website updates
 
