@@ -55,11 +55,11 @@ Release scheduled for MM DD, 20xx 10am - 4pm PT
 
 ## Immediate Post-release tasks
 
-- [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--tugboat.md) @bwpanda | @klonos
-- [ ] Update [Pantheon](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--pantheon-upstream.md) @herbdool
-- [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--platformsh-template.md) (assign to herbdool / jenlampton)
+- [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/wiki/Update:-Tugboat) @bwpanda | @klonos
+- [ ] Update [Pantheon](https://github.com/backdrop/backdrop-issues/wiki/Update:-Pantheon-Upstream) @herbdool
+- [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/wiki/Update:-Platform.sh-Template) (assign to herbdool / jenlampton)
 - [ ] Update [Composer](https://github.com/backdrop-ops/backdrop-composer) @herbdool (or quicksketch)
-- [ ] Update [Docker](https://github.com/backdrop/backdrop-issues/blob/main/procedures/update--docker-image.md) @wylbur
+- [ ] Update [Docker](https://github.com/backdrop/backdrop-issues/wiki/Update:-Docker-Image) @wylbur
 - [ ] Update the Wikipedia articles (assign to stpaultim / klonos)
   - [ ] https://en.wikipedia.org/w/index.php?title=Template:BackdropCMS_version&action=edit - 
     * Auto applied to:
