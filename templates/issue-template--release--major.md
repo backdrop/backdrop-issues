@@ -1,20 +1,20 @@
 Steps to create a MAJOR release
 =================================
-
+(assignments below are in order of preference from left to right)
 
 ## Pre-release tasks
 
-- [ ] Merge commits (assign to quicksketch / serundeputy / herbdool / bwpanda)
-- [ ] Create a new minor release ((assign to quicksketch / serundeputy / herbdool / bwpanda)
+- [ ] Merge commits (assign to quicksketch / herbdool / laryn / hosef)
+- [ ] Create a new minor release ((assign to quicksketch / serundeputy / herbdool)
 - [ ] Create the next minor milestone (assign to quicksketch / jenlampton)
 - [ ] Move all unfinished issues to the next major release milestone (assign to quicksketch / jenlampton)
 - [ ] Review all closed issues in milestone: (assign to klonos / jenlampton / stpaultim )
   * Issue titles should include a complete, but very brief summary of the problem.
-  * Issue titles sould be in complete sentences, ending with a period.
+  * Issue titles should be in complete sentences, ending with a period.
   * Bug issue titles should start with `Fix` or `Fixed`,
-  * New fearure issue titles should start with `Add` or `Added`.
+  * New feature issue titles should start with `Add` or `Added`.
   * Each issue should have accurate labels, especially the "type - " labels.
-- [ ] Close the milestone (assign to quicksketch / herbdool / bwpanda)
+- [ ] Close the milestone (assign to quicksketch / herbdool)
 - [ ] Draft Release notes (assign to jenlampton / herbdool / quicksketch)
   - [ ] Include a short, descriptive summary of the release, for example:
     * This is the preview release of Backdrop 1.16.0. Please use this version if you would like to help us test the features in the new version of Backdrop prior to the official release on January/May/September 15th, 20xx.
@@ -35,21 +35,19 @@ Steps to create a MAJOR release
 - [ ] Draft blog post (assign to tomgrandy / klonos / jenlampton / quicksketch)
 - [ ] Draft a newsletter via MailChimp (assign to facetinteractive / tomgrandy / jenlampton)
 
-
 ## Release tasks
 
-- [ ] Update bootstrap.inc with version number (assign to quicksketch / serundeputy / herbdool / bwpanda)
-- [ ] Tag for release, and push tag to GitHub (assign to quicksketch / serundeputy / herbdool / bwpanda)
-- [ ] Revert version number back (assign to quicksketch / serundeputy / herbdool / bwpanda)
-- [ ] Create release notes on GitHub (assign to serundeputy / quicksketch / jenlampton)
-- [ ] Unpublish preview release on backdropcms.org (assign to serundeputy / quicksketch / jenlampton)
+- [ ] Update bootstrap.inc with version number (assign to quicksketch / herbdool / laryn / hosef)
+- [ ] Tag for release, and push tag to GitHub (assign to quicksketch / herbdool / laryn / hosef)
+- [ ] Revert version number back (assign to quicksketch / herbdool / laryn / hosef)
+- [ ] Create release notes on GitHub (assign to quicksketch / jenlampton)
+- [ ] Unpublish preview release on backdropcms.org (assign to quicksketch / jenlampton)
 - [ ] Update the front page download link on b.org (assign to serundeputy / quicksketch / jenlampton / klonos)
 - [ ] Tweet that a new release is out (assign to quicksketch / jenlampton / jimbirch)
 
-
 ## Post-release tasks (after first bug-fix release or 14 days -- whichever comes sooner)
 
-- [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/wiki/Update:-Tugboat) @bwpanda | @klonos
+- [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/wiki/Update:-Tugboat) @klonos
 - [ ] Update [Pantheon](https://github.com/backdrop/backdrop-issues/wiki/Update:-Pantheon-Upstream) @herbdool
 - [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/wiki/Update:-Platform.sh-Template) (assign to herbdool / jenlampton)
 - [ ] Update [Composer](https://github.com/backdrop-ops/backdrop-composer) @herbdool (or quicksketch)
@@ -66,6 +64,9 @@ Steps to create a MAJOR release
       * https://en.wikipedia.org/wiki/Backdrop_CMS
       * https://en.wikipedia.org/wiki/List_of_content_management_systems
 
+## See Also
 
-See the Accompanying Bug-Fix Release Checklist
-----------------------------------------------
+<!-- If this release DOES accompany a minor release: -->
+- [Minor Release Checklist]()
+<!-- If this is a security release: -->
+- [Checklist for previous minor version]()

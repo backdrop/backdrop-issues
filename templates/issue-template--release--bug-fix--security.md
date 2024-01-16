@@ -1,28 +1,29 @@
-Steps to create a BUG-FIX release
-==================================
+Steps to create a SECURITY (BUG-FIX) release
+=============================================
 (assignments below are in order of preference from left to right)
 
 ---
 Issue Title:   Backdrop 1.x.x Release checklist
 ---
 
-Release scheduled for MM DD, 20xx 10am - 4pm PT
+Release scheduled for [Month] DD, 20xx 10am - 4pm PT
 
 ## Pre-release tasks
 
-- [ ] Merge commits (assign to quicksketch / serundeputy / herbdool / bwpanda)
+- [ ] Merge commits (assign to quicksketch / herbdool / laryn / hosef)
 - [ ] Create the next bugfix milestone (assign to klonos / jenlampton / herbdool / quicksketch)
 - [ ] Move all unfinished issues to the next bugfix release milestone (assign to klonos / jenlampton / herbdool / quicksketch)
 - [ ] Review all closed issues in milestone: (assign to klonos / jenlampton / stpaultim )
   * Issue titles should include a complete, but very brief summary of the problem.
-  * Issue titles sould be in complete sentences, ending with a period.
+  * Issue titles should be in complete sentences, ending with a period.
   * Bug issue titles should start with `Fix` or `Fixed`,
-  * New fearure issue titles should start with `Add` or `Added`.
+  * New feature issue titles should start with `Add` or `Added`.
   * Each issue should have accurate labels, especially the "type - " labels.
-- [ ] Close the milestone (assign to quicksketch / herbdool / bwpanda)
+- [ ] Close the milestone (assign to quicksketch / herbdool)
 - [ ] Draft Release notes (assign to jenlampton / herbdool / quicksketch)
   - [ ] Include a short, descriptive summary of the release, for example:
-    * "Maintenance release for Backdrop CMS. This update contains bug fixes and usability improvements only."
+    * "Security release for Backdrop CMS. This release fixes 1 security vulnerability:"
+    * Include a list of SA's for commits to this release
   - [ ] Include a section heading `**Notes for updating**`
     - [ ] Note if any changes were made to files outside the `core` directory, for example:
       * ``- No changes have been made to the `.htaccess`, `robots.txt` or default `settings.php` files in this release. Updating customized versions of those files is not necessary.``
@@ -36,24 +37,29 @@ Release scheduled for MM DD, 20xx 10am - 4pm PT
     * Select the most recent time "Release Notes Generator" has been run.
     * Download the `release-notes` artifact attached to the generator.
     * Unzip the file, and copy/pate contents into release notes draft.
-    * Remove any square bracets in the titles, and move those issues to their own section.
+    * Remove any square brackets in the titles, and move those issues to their own section.
+- [ ] Draft Security Advisories (assign to stpaultim / klonos / jenlampton  herbdool / quicksketch)
 
 ## Release tasks
 
-- [ ] Update bootstrap.inc with version number (assign to quicksketch / serundeputy / herbdool / bwpanda)
-- [ ] Tag for release, and push tag to GitHub (assign to quicksketch / herbdool / bwpanda)
-- [ ] Revert version number back (assign to quicksketch / herbdool / bwpanda)
+Assigned to quicksketch / herbdool / laryn / hosef
+
+- [ ] Update bootstrap.inc with version number (assign to quicksketch / herbdool / laryn / hosef)
+- [ ] Tag for release, and push tag to GitHub (assign to quicksketch / herbdool / laryn / hosef)
+- [ ] Revert version number back (assign to quicksketch / herbdool / laryn / hosef)
 - [ ] Create release notes on GitHub, and publish release (assign to jenlampton / herbdool / quicksketch)
+- [ ] Publish Security Advisories on b.org (assign to stpaultim / klonos / jenlampton / herbdool / quicksketch)
+- [ ] Mark the release node on b.org as a security release (assign to stpaultim / klonos / jenlampton / herbdool / quicksketch)
+- [ ] [Request a CVE](https://github.com/backdrop/backdrop-issues/blob/master/procedures/security--request-cve.md) - (assign to jenlampton / quicksketch)
 - [ ] Update the front page download link on b.org (assign to stpaultim / klonos / jenlampton / herbdool / quicksketch)
-- [ ] Tweet that a new release is out (assign to stpaultim / jimbirch / jenlampton / quicksketch)
-  - Use text like "There is a bug-fix release out for #BackdropCMS today, version 1.17.1: https://backdropcms.org." or
+- [ ] Tweet that a new release is out (assign to stpaultim / jenlampton)
+  - Use text like "There is a security release out for #BackdropCMS today, please update when you can. Backdrop core - Critical - Third-party libraries - BACKDROP-SA-CORE-2021-001"
 
 ## Immediate Post-release tasks
 
-If this release does NOT accompany a minor release:
-- [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/wiki/Update:-Tugboat) @bwpanda | @klonos
+- [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/wiki/Update:-Tugboat) @klonos
 - [ ] Update [Pantheon](https://github.com/backdrop/backdrop-issues/wiki/Update:-Pantheon-Upstream) @herbdool
-- [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/wiki/Update:-Platform.sh-Template) (assign to herbdool, jenlampton)
+- [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/wiki/Update:-Platform.sh-Template) (assign to herbdool / jenlampton)
 - [ ] Update [Composer](https://github.com/backdrop-ops/backdrop-composer) @herbdool (or quicksketch)
 - [ ] Update [Docker](https://github.com/backdrop/backdrop-issues/wiki/Update:-Docker-Image) @wylbur
 - [ ] Update the Wikipedia articles (assign to stpaultim / klonos)
@@ -63,21 +69,14 @@ If this release does NOT accompany a minor release:
       * https://en.wikipedia.org/wiki/List_of_content_management_systems
 
 ## Backdrop's Website updates
-<!-- If this release does NOT accompany a minor release: -->
 
-- [ ] backdropcms.org @jenlampton (or bwpanda / bugfolder)
-- [ ] beta.backdropcms.org @jenlampton (or bwpanda / bugfolder)
-- [ ] docs.backdropcms.org @jenlampton (or bwpanda / bugfolder)
-- [ ] events.backdropcms.org @jenlampton (or bwpanda / bugfolder)
-- [ ] forum.backdropcms.org @jenlampton (or bwpanda / bugfolder)
-- [ ] localize.backdropcms.org @jenlampton (or bwpanda / bugfolder)
-
+- [ ] backdropcms.org @jenlampton (or bugfolder)
+- [ ] beta.backdropcms.org @jenlampton (or bugfolder)
+- [ ] docs.backdropcms.org @jenlampton (or bugfolder)
+- [ ] events.backdropcms.org @jenlampton (or bugfolder)
+- [ ] forum.backdropcms.org @jenlampton (or bugfolder)
+- [ ] localize.backdropcms.org @jenlampton (or bugfolder)
 
 ## See Also
 
 - [Checklist for 1.xx.x release]()
-<!-- If this release DOES accompany a minor release: -->
-- [Minor Release Checklist]()
-<!-- If this is a security release: -->
-- [Checklist for previous minor version]()
-

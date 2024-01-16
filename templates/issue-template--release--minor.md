@@ -11,13 +11,13 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 ## Pre-release tasks
 
 - [ ] If this is the Jan 15 release, ensure that the end year in the "All Backdrop code is Copyright..." section towards the bottom of the README.md file has been updated to reflect the new/current year.
-- [ ] Merge minor release commits (assign to quicksketch / serundeputy / herbdool / bwpanda)
+- [ ] Merge commits (assign to quicksketch / herbdool / laryn / hosef)
 - [ ] Move all unfinished issues to the next bug-fix release milestone (assign to klonos / jenlampton / herbdool / quicksketch)
 - [ ] Review all closed issues in milestone: (assign to klonos / jenlampton / stpaultim )
   * Issue titles should include a complete, but very brief summary of the problem.
-  * Issue titles sould be in complete sentences, ending with a period.
+  * Issue titles should be in complete sentences, ending with a period.
   * Bug issue titles should start with `Fix` or `Fixed`,
-  * New fearure issue titles should start with `Add` or `Added`.
+  * New feature issue titles should start with `Add` or `Added`.
   * Each issue should have accurate labels, especially the "type - " labels.
 - [ ] Close the milestone (assign to quicksketch / herbdool / bwpanda)
 - [ ] Draft Release notes (assign to jenlampton / herbdool / quicksketch)
@@ -43,11 +43,11 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 
 ## Release tasks
 
-- [ ] Update bootstrap.inc with version number (assign to quicksketch / serundeputy / herbdool / bwpanda)
-- [ ] Tag for release, and push tag to GitHub (assign to quicksketch / serundeputy / herbdool / bwpanda)
-- [ ] Branch for new minor number (e.g. `1.10.x`) and push to GitHub (assign to quicksketch / serundeputy / herbdool / bwpanda)
-- [ ] Revert version number back on 1.x branch with minor number increased (e.g. `1.11.x-dev`) (assign to quicksketch / serundeputy / herbdool / bwpanda)
-- [ ] Revert version number back on new minor number branch (e.g. `1.10.x-dev`) (assign to quicksketch / serundeputy / herbdool / bwpanda)
+- [ ] Update bootstrap.inc with version number (assign to quicksketch / herbdool / laryn / hosef)
+- [ ] Tag for release, and push tag to GitHub (assign to quicksketch / herbdool / laryn / hosef)
+- [ ] Branch for new minor number (e.g. `1.10.x`) and push to GitHub (assign to quicksketch / herbdool / laryn / hosef)
+- [ ] Revert version number back on 1.x branch with minor number increased (e.g. `1.11.x-dev`) (assign to quicksketch / herbdool / laryn / hosef)
+- [ ] Revert version number back on new minor number branch (e.g. `1.10.x-dev`) (assign to quicksketch / herbdool / laryn / hosef)
 - [ ] Create release notes on GitHub, and publish release (assign to jenlampton / herbdool / quicksketch)
 - [ ] Unpublish preview release on backdropcms.org (assign to stpaultim / klonos / jenlampton / herbdool / quicksketch)
 - [ ] Update the front page download link on b.org (assign to stpaultim / klonos / jenlampton)
@@ -80,9 +80,12 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 
 ### Backdrop Website updates
 
-- [ ] beta.backdropcms.org -- if not done with preview (assign to bugfolder / jenlampton / bwpanda)
-- [ ] docs.backdropcms.org (assign to jenlampton / bwpanda / bugfolder)
-- [ ] events.backdropcms.org (assign to jenlampton / bwpanda / bugfolder)
+- [ ] backdropcms.org @jenlampton (or bugfolder)
+- [ ] beta.backdropcms.org @jenlampton (or bugfolder)
+- [ ] docs.backdropcms.org @jenlampton (or bugfolder)
+- [ ] events.backdropcms.org @jenlampton (or bugfolder)
+- [ ] forum.backdropcms.org @jenlampton (or bugfolder)
+- [ ] localize.backdropcms.org @jenlampton (or bugfolder)
 
 ## 2-week Post-release tasks
 
@@ -97,9 +100,11 @@ comes sooner.
 
 ### Backdrop Website updates
 
-- [ ] backdropcms.org @jenlampton (or bwpanda / bugfolder)
-- [ ] forum.backdropcms.org @jenlampton (or bwpanda / bugfolder)
-
+- [ ] backdropcms.org @jenlampton (or bugfolder)
+- [ ] docs.backdropcms.org @jenlampton (or bugfolder)
+- [ ] events.backdropcms.org @jenlampton (or bugfolder)
+- [ ] forum.backdropcms.org @jenlampton (or bugfolder)
+- [ ] localize.backdropcms.org @jenlampton (or bugfolder)
 
 See Also
 ---------

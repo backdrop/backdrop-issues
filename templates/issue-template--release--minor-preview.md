@@ -1,6 +1,5 @@
 DRAFT Steps to create a MINOR PREVIEW release
 =====================================
-
 (assignments below are in order of preference from left to right)
 
 ---
@@ -12,14 +11,14 @@ Scheduled for January/May/September 1st, 20xx 10am - 4pm PT
 ## Pre-release tasks
 
 - [ ] If this is the Jan 1 pre-release, then make sure to update the end year in the "All Backdrop code is Copyright..." section towards the bottom of the README.md file.
-- [ ] Merge commits (assign to quicksketch / serundeputy / herbdool / bwpanda)
+- [ ] Merge commits (assign to quicksketch / herbdool / laryn / hosef)
 - [ ] Create a new minor release milestone (assign to klonos / jenlampton / herbdool / quicksketch)
 - [ ] Move all unfinished issues to the next minor release milestone (assign to klonos / jenlampton / herbdool / quicksketch)
 - [ ] Review all closed issues in milestone: (assign to klonos / jenlampton / stpaultim )
   * Issue titles should include a complete, but very brief summary of the problem.
-  * Issue titles sould be in complete sentences, ending with a period.
+  * Issue titles should be in complete sentences, ending with a period.
   * Bug issue titles should start with `Fix` or `Fixed`,
-  * New fearure issue titles should start with `Add` or `Added`.
+  * New feature issue titles should start with `Add` or `Added`.
   * Each issue should have accurate labels, especially the "type - " labels.
 - [ ] Draft Release notes (assign to jenlampton / herbdool / quicksketch)
   - [ ] Include a short, descriptive summary of the release, for example:
@@ -39,7 +38,6 @@ Scheduled for January/May/September 1st, 20xx 10am - 4pm PT
       * Unzip the file, and copy/pate contents into release notes draft.
       * Re-word issue titles to indicate that the problems have been fixed.
 
-
 ## Pre-release Publicity + documentation tasks
 
 - [ ] Review issues for new features (assign to @jenlampton / @klonos / @cellear)
@@ -53,25 +51,26 @@ Scheduled for January/May/September 1st, 20xx 10am - 4pm PT
 - [ ] Update list of modules included in backdrop_upgrade_status module (assign to jenlampton)
 - [ ] Create new forum topic for feedback on the release @stpaultim
 
-
 ## Release tasks
 
-- [ ] Update bootstrap.inc with version number (e.g. `1.10.0-preview`) (assign to quicksketch / serundeputy / herbdool / bwpanda)
-- [ ] Tag for release, and push tag to GitHub (assign to quicksketch / serundeputy / herbdool / bwpanda)
+- [ ] Update bootstrap.inc with version number (e.g. `1.10.0-preview`) (assign to quicksketch / herbdool / laryn / hosef)
+- [ ] Tag for release, and push tag to GitHub (assign to quicksketch / herbdool / laryn / hosef)
 - [ ] Note: New incremented branch for development is usually created on release day
-- [ ] Revert version number back on 1.x branch with the same minor number (e.g. `1.10.x-dev`) (assign to quicksketch / serundeputy / herbdool / bwpanda)
+- [ ] Revert version number back on 1.x branch with the same minor number (e.g. `1.10.x-dev`) (assign to quicksketch / herbdool / laryn / hosef)
 - [ ] Create release notes on GitHub **Important: Check "This is a pre-release" checkbox when creating release** (assign to jenlampton / herbdool / quicksketch)
 
-
 ## Website updates
-- [ ] beta.backdropcms.org (assign to @jenlampton / @bwpanda / @bugfolder)
 
+- [ ] beta.backdropcms.org @jenlampton (or bugfolder)
+- [ ] docs.backdropcms.org @jenlampton (or bugfolder)
+- [ ] events.backdropcms.org @jenlampton (or bugfolder)
+- [ ] forum.backdropcms.org @jenlampton (or bugfolder)
+- [ ] localize.backdropcms.org @jenlampton (or bugfolder)
 
 ## Post-release Publicity + documentation tasks
 
 - [ ] Tweet that a preview release is out (assign to stpaultim / jimbirch / jenlampton / quicksketch)
 - [ ] Publish roadmap updates for backdropcms.org (assign to stpaultim / klonos / jenlampton)
-
 
 See Also
 ---------

@@ -1,5 +1,3 @@
-[![Open Source Helpers](https://www.codetriage.com/backdrop/backdrop-issues/badges/users.svg)](https://www.codetriage.com/backdrop/backdrop-issues)
-
 Backdrop Issue Tracker
 ======================
 
@@ -55,5 +53,6 @@ experience by providing answers of your own. Come join the community!
 Procedures
 ----------
 
-We have a library of internal procedures stored in a [sub-directory within this
-repository](https://github.com/backdrop/backdrop-issues/tree/master/procedures).
+We have a library of internal procedures stored in a [this repository's wiki](https://github.com/backdrop/backdrop-issues/wiki/).
+
+And a set of templates for creating issues is within the [templates directory](https://github.com/backdrop/backdrop-issues/tree/main/procedures).
