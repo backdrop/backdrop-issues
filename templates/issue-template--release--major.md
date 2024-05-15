@@ -25,7 +25,7 @@ Steps to create a MAJOR release
       * See [this example](https://github.com/backdrop/backdrop/releases/tag/1.16.0) or [this example](https://github.com/backdrop/backdrop/releases/tag/1.14.0) for updates to `settings.php`
     - [ ] Note if updates (update.php) needs to be run, for example:
       * Use the text `The database update script does **not** need to be run.`
-      * or `**It will be necessary to run the update script** (located at /update.php) for this release.`
+      * or `**It will be necessary to run the update script** (located at /core/update.php) for this release.`
   - [ ] Include a section heading `**Changes since version 1.xx.x** are listed below.`
       * navigate to [Actions](https://github.com/backdrop/backdrop-issues/actions)
       * Select the most recent time "Release Notes Generator" has been run.

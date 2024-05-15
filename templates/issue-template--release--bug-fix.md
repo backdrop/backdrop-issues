@@ -30,7 +30,7 @@ Release scheduled for [Month] DD, 20xx 10am - 4pm PT
       * See [this example](https://github.com/backdrop/backdrop/releases/tag/1.16.0) or [this example](https://github.com/backdrop/backdrop/releases/tag/1.14.0) for updates to `settings.php`
     - [ ] Note if updates (update.php) needs to be run, for example:
       * Use the text `The database update script does **not** need to be run.`
-      * or `**It will be necessary to run the update script** (located at /update.php) for this release.`
+      * or `**It will be necessary to run the update script** (located at /core/update.php) for this release.`
   - [ ] Include a section heading `**Changes since version 1.xx.x** are listed below.`
     * Navigate to [Actions](https://github.com/backdrop/backdrop-issues/actions)
     * Select the most recent time "Release Notes Generator" has been run.
@@ -46,7 +46,7 @@ Release scheduled for [Month] DD, 20xx 10am - 4pm PT
 - [ ] Create release notes on GitHub, and publish release (assign to jenlampton / herbdool / quicksketch)
 - [ ] Update the front page download link on b.org (assign to stpaultim / klonos / jenlampton / herbdool / quicksketch)
 - [ ] Tweet that a new release is out (assign to stpaultim / jimbirch / jenlampton / quicksketch)
-  - Use text like "There is a bug-fix release out for #BackdropCMS today, version 1.17.1: https://backdropcms.org." or
+  - Use text like "There is a bug-fix release out for #BackdropCMS today, version 1.27.2: https://backdropcms.org."
 
 ## Immediate Post-release tasks
 
@@ -74,9 +74,8 @@ If this release does NOT accompany a minor release:
 
 ## See Also
 
-- [Checklist for 1.xx.x release]()
 <!-- If this release DOES accompany a minor release: -->
-- [Minor Release Checklist]()
+- [Checklist for 1.xx.x release]()
 <!-- If this is a security release: -->
 - [Checklist for previous minor version]()
 

@@ -31,7 +31,7 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
         * See [this example](https://github.com/backdrop/backdrop/releases/tag/1.16.0) or [this example](https://github.com/backdrop/backdrop/releases/tag/1.14.0) for updates to `settings.php`
       - [ ] Note if updates (update.php) needs to be run, for example:
         * Use the text `The database update script does **not** need to be run.`
-        * or `**It will be necessary to run the update script** (located at /update.php) for this release.`
+        * or `**It will be necessary to run the update script** (located at /core/update.php) for this release.`
     - [ ] Include a section heading `**Changes since version 1.xx.x** are listed below.`
       * Navigate to [Actions](https://github.com/backdrop/backdrop-issues/actions)
       * Select the most recent time "Release Notes Generator" has been run.
@@ -51,7 +51,8 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 - [ ] Create release notes on GitHub, and publish release (assign to jenlampton / herbdool / quicksketch)
 - [ ] Unpublish preview release on backdropcms.org (assign to stpaultim / klonos / jenlampton / herbdool / quicksketch)
 - [ ] Update the front page download link on b.org (assign to stpaultim / klonos / jenlampton)
-- [ ] Create a new language template file for the translation server (assign to olaf - see https://github.com/backdrop-ops/localize.backdropcms.org/issues/27 until this is automated)
+- [ ] Create a new language template file for the translation server @olaf
+<!-- automate this https://github.com/backdrop-ops/localize.backdropcms.org/issues/27 -->
 
 ## Immediate Post-release tasks
 
@@ -63,7 +64,7 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 - [ ] email katie@phpweekly.com for a note in the PHP Weekly Newsletter (assign to stpaultim / klonos / jenlampton)
 - [ ] Update the roadmap page on b.org (assign to stpaultim / klonos / jenlampton)
 - [ ] Update list of modules included in backdrop core (assign to bugfolder / klonos / jenlampton)
-- [ ] Update list of modules included in backdrop_upgrade_status module (assign to jenlampton)
+- [ ] Update list of modules included in backdrop_upgrade_status module @jenlampton
 - [ ] Update the Wikipedia articles (assign to stpaultim / klonos / jenlampton)
   - [ ] https://en.wikipedia.org/w/index.php?title=Template:BackdropCMS_version&action=edit - 
     * Auto applied to:
@@ -77,20 +78,20 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 - [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/wiki/Update:-Platform.sh-Template) @herbdool
 - [ ] Update [Composer](https://github.com/backdrop-ops/backdrop-composer) @herbdool
 - [ ] Update [Docker](https://github.com/backdrop/backdrop-issues/wiki/Update:-Docker-Image) @wylbur
+- [ ] Update [Amezmo](https://github.com/sdubois/backdrop-amezmo) @jenlampton
 
 ### Backdrop Website updates
 
-- [ ] backdropcms.org @jenlampton (or bugfolder)
 - [ ] beta.backdropcms.org @jenlampton (or bugfolder)
 - [ ] docs.backdropcms.org @jenlampton (or bugfolder)
 - [ ] events.backdropcms.org @jenlampton (or bugfolder)
-- [ ] forum.backdropcms.org @jenlampton (or bugfolder)
 - [ ] localize.backdropcms.org @jenlampton (or bugfolder)
 
 ## 2-week Post-release tasks
+<!-- These should be done after the first bug-fix release or 14 days -- whichever comes sooner. -->
 
-These should be done after the first bug-fix release or 14 days -- whichever
-comes sooner.
+- [ ] backdropcms.org @jenlampton
+- [ ] forum.backdropcms.org @jenlampton
 
 
 ### Publicity tasks
@@ -98,13 +99,6 @@ comes sooner.
 - [ ] Add a notification to the dashboard (assign to stpaultim / klonos / jenlampton)
 - [ ] Send a newsletter to subscribers (assign to @bwpanda / stpaultim / jenlampton)
 
-### Backdrop Website updates
-
-- [ ] backdropcms.org @jenlampton (or bugfolder)
-- [ ] docs.backdropcms.org @jenlampton (or bugfolder)
-- [ ] events.backdropcms.org @jenlampton (or bugfolder)
-- [ ] forum.backdropcms.org @jenlampton (or bugfolder)
-- [ ] localize.backdropcms.org @jenlampton (or bugfolder)
 
 See Also
 ---------

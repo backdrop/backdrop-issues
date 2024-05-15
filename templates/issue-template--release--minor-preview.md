@@ -30,7 +30,7 @@ Scheduled for January/May/September 1st, 20xx 10am - 4pm PT
       * See [this example](https://github.com/backdrop/backdrop/releases/tag/1.16.0) or [this example](https://github.com/backdrop/backdrop/releases/tag/1.14.0) for updates to `settings.php`
     - [ ] Note if updates (update.php) needs to be run, for example:
       * Use the text `The database update script does **not** need to be run.`
-      * or `**It will be necessary to run the update script** (located at /update.php) for this release.`
+      * or `**It will be necessary to run the update script** (located at /core/update.php) for this release.`
   - [ ] Include a section heading `**Changes since version 1.xx.x** are listed below.`
       * navigate to [Actions](https://github.com/backdrop/backdrop-issues/actions)
       * Select the most recent time "Release Notes Generator" has been run.
@@ -47,8 +47,8 @@ Scheduled for January/May/September 1st, 20xx 10am - 4pm PT
   - [ ] Add `Needs translation` label if the the issue contains string translations.
 - [ ] Draft blog post for release on the 15th (assign to stpaultim / tomgrandy / klonos / jenlampton)
 - [ ] Draft roadmap updates for backdropcms.org (assign to stpaultim / klonos / jenlampton)
-- [ ] Update list of modules included in backdrop core (assign to bugfolder / klonos / jenlampton)
-- [ ] Update list of modules included in backdrop_upgrade_status module (assign to jenlampton)
+- [ ] Update list of [modules included in backdrop core](https://docs.backdropcms.org/documentation/features-added-to-core) (assign to bugfolder / klonos / jenlampton)
+- [ ] Update list of modules included in backdrop_upgrade_status module @ jenlampton
 - [ ] Create new forum topic for feedback on the release @stpaultim
 
 ## Release tasks
