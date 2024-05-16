@@ -19,7 +19,7 @@ Release scheduled for [Month] DD, 20xx 10am - 4pm PT
   * Bug issue titles should start with `Fix` or `Fixed`,
   * New feature issue titles should start with `Add` or `Added`.
   * Each issue should have accurate labels, especially the "type - " labels.
-- [ ] Close the milestone (assign to quicksketch / herbdool)
+- [ ] Close the milestone (assign to quicksketch / herbdool / jenlampton)
 - [ ] Draft Release notes (assign to jenlampton / herbdool / quicksketch)
   - [ ] Include a short, descriptive summary of the release, for example:
     * "Maintenance release for Backdrop CMS. This update contains bug fixes and usability improvements only."

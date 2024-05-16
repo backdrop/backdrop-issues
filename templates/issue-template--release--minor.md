@@ -19,7 +19,7 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
   * Bug issue titles should start with `Fix` or `Fixed`,
   * New feature issue titles should start with `Add` or `Added`.
   * Each issue should have accurate labels, especially the "type - " labels.
-- [ ] Close the milestone (assign to quicksketch / herbdool / bwpanda)
+- [ ] Close the milestone (assign to quicksketch / herbdool / jenlampton)
 - [ ] Draft Release notes (assign to jenlampton / herbdool / quicksketch)
   - [ ] Copy Preview release release notes, update as follows
     - [ ] Include a short, descriptive summary of the release, for example:
@@ -73,7 +73,7 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 
 ### Code tasks
 
-- [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/wiki/Update:-Tugboat) @bwpanda | @klonos
+- [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/wiki/Update:-Tugboat) @klonos
 - [ ] Update [Pantheon](https://github.com/backdrop/backdrop-issues/wiki/Update:-Pantheon-Upstream) @herbdool
 - [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/wiki/Update:-Platform.sh-Template) @herbdool
 - [ ] Update [Composer](https://github.com/backdrop-ops/backdrop-composer) @herbdool
@@ -97,7 +97,7 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 ### Publicity tasks
 
 - [ ] Add a notification to the dashboard (assign to stpaultim / klonos / jenlampton)
-- [ ] Send a newsletter to subscribers (assign to @bwpanda / stpaultim / jenlampton)
+- [ ] Send a newsletter to subscribers (assign to stpaultim / jenlampton)
 
 
 See Also
