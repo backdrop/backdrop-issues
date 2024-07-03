@@ -59,13 +59,9 @@ Scheduled for January/May/September 1st, 20xx 10am - 4pm PT
 - [ ] Revert version number back on 1.x branch with the same minor number (e.g. `1.10.x-dev`) (assign to quicksketch / herbdool / laryn / hosef)
 - [ ] Create release notes on GitHub **Important: Check "This is a pre-release" checkbox when creating release** (assign to jenlampton / herbdool / quicksketch)
 
-## Website updates
+## Website updates (optional)
 
-- [ ] beta.backdropcms.org @jenlampton (or bugfolder)
-- [ ] docs.backdropcms.org @jenlampton (or bugfolder)
-- [ ] events.backdropcms.org @jenlampton (or bugfolder)
-- [ ] forum.backdropcms.org @jenlampton (or bugfolder)
-- [ ] localize.backdropcms.org @jenlampton (or bugfolder)
+- [ ] beta.backdropcms.org @bugfolder (or jenlampton)
 
 ## Post-release Publicity + documentation tasks
 

@@ -47,22 +47,22 @@ Steps to create a MAJOR release
 
 ## Post-release tasks (after first bug-fix release or 14 days -- whichever comes sooner)
 
+## Immediate Post-release tasks
+
 - [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/wiki/Update:-Tugboat) @klonos
 - [ ] Update [Pantheon](https://github.com/backdrop/backdrop-issues/wiki/Update:-Pantheon-Upstream) @herbdool
-- [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/wiki/Update:-Platform.sh-Template) (assign to herbdool / jenlampton)
-- [ ] Update [Composer](https://github.com/backdrop-ops/backdrop-composer) @herbdool (or quicksketch)
+- [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/wiki/Update:-Platform.sh-Template) @herbdool
+- [ ] Update [Composer](https://github.com/backdrop-ops/backdrop-composer) @herbdool
 - [ ] Update [Docker](https://github.com/backdrop/backdrop-issues/wiki/Update:-Docker-Image) @wylbur
-- [ ] Update the Wikipedia articles (assign to stpaultim / klonos)
-  - [ ] https://en.wikipedia.org/wiki/Backdrop_CMS
-  - [ ] https://en.wikipedia.org/wiki/List_of_content_management_systems
-- [ ] Publish blog post (assign to tomgrandy / klonos / jenlampton / quicksketch)
-- [ ] Send a newsletter via MailChimp (assign to facetinteractive / tomgrandy / jenlampton)
-- [ ] email katie@phpweekly.com for a note in the PHP Weekly Newsletter (assign to tomgrandy / klonos / jenlampton)
-- [ ] Update the Wikipedia articles (assign to klonos / jenlampton)
-  - [ ] https://en.wikipedia.org/w/index.php?title=Template:BackdropCMS_version&action=edit - 
+- [ ] Update the Wikipedia articles @klonos
+  - [ ] https://en.wikipedia.org/w/index.php?title=Template:BackdropCMS_version&action=edit -
     * Auto applied to:
       * https://en.wikipedia.org/wiki/Backdrop_CMS
       * https://en.wikipedia.org/wiki/List_of_content_management_systems
+- [ ] Publish blog post (assign to tomgrandy / klonos / jenlampton / quicksketch)
+- [ ] Send a newsletter via MailChimp (assign to stpaultim / bugfolder / jenlampton)
+- [ ] email katie@phpweekly.com for a note in the PHP Weekly Newsletter (assign to tomgrandy / klonos / jenlampton)
+
 
 ## See Also
 

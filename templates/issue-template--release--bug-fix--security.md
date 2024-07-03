@@ -60,6 +60,7 @@ Release scheduled for [Month] DD, 20xx 10am - 4pm PT
 - [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/wiki/Update:-Platform.sh-Template) @herbdool
 - [ ] Update [Composer](https://github.com/backdrop-ops/backdrop-composer) @herbdool
 - [ ] Update [Docker](https://github.com/backdrop/backdrop-issues/wiki/Update:-Docker-Image) @wylbur
+- [ ] Update [Amezmo](https://github.com/sdubois/backdrop-amezmo) @jenlampton
 - [ ] Update the Wikipedia articles @klonos
   - [ ] https://en.wikipedia.org/w/index.php?title=Template:BackdropCMS_version&action=edit - 
     * Auto applied to:
