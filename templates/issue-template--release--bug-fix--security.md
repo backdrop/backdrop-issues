@@ -42,15 +42,13 @@ Release scheduled for [Month] DD, 20xx 10am - 4pm PT
 
 ## Release tasks
 
-Assigned to quicksketch / herbdool / laryn / hosef
-
 - [ ] Update bootstrap.inc with version number (assign to quicksketch / herbdool / laryn / hosef)
 - [ ] Tag for release, and push tag to GitHub (assign to quicksketch / herbdool / laryn / hosef)
 - [ ] Revert version number back (assign to quicksketch / herbdool / laryn / hosef)
 - [ ] Create release notes on GitHub, and publish release (assign to jenlampton / herbdool / quicksketch)
 - [ ] Publish Security Advisories on b.org (assign to stpaultim / klonos / jenlampton / herbdool / quicksketch)
 - [ ] Mark the release node on b.org as a security release (assign to stpaultim / klonos / jenlampton / herbdool / quicksketch)
-- [ ] [Request a CVE](https://github.com/backdrop/backdrop-issues/blob/master/procedures/security--request-cve.md) - (assign to jenlampton / quicksketch)
+- [ ] [Request a CVE](https://github.com/backdrop/backdrop-issues/wiki/Security:-Request-CVE) - (assign to jenlampton / quicksketch)
 - [ ] Update the front page download link on b.org (assign to stpaultim / klonos / jenlampton / herbdool / quicksketch)
 - [ ] Tweet that a new release is out (assign to stpaultim / jenlampton)
   - Use text like "There is a security release out for #BackdropCMS today, please update when you can. Backdrop core - Critical - Third-party libraries - BACKDROP-SA-CORE-2021-001"
@@ -59,10 +57,10 @@ Assigned to quicksketch / herbdool / laryn / hosef
 
 - [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/wiki/Update:-Tugboat) @klonos
 - [ ] Update [Pantheon](https://github.com/backdrop/backdrop-issues/wiki/Update:-Pantheon-Upstream) @herbdool
-- [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/wiki/Update:-Platform.sh-Template) (assign to herbdool / jenlampton)
-- [ ] Update [Composer](https://github.com/backdrop-ops/backdrop-composer) @herbdool (or quicksketch)
+- [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/wiki/Update:-Platform.sh-Template) @herbdool
+- [ ] Update [Composer](https://github.com/backdrop-ops/backdrop-composer) @herbdool
 - [ ] Update [Docker](https://github.com/backdrop/backdrop-issues/wiki/Update:-Docker-Image) @wylbur
-- [ ] Update the Wikipedia articles (assign to stpaultim / klonos)
+- [ ] Update the Wikipedia articles @klonos
   - [ ] https://en.wikipedia.org/w/index.php?title=Template:BackdropCMS_version&action=edit - 
     * Auto applied to:
       * https://en.wikipedia.org/wiki/Backdrop_CMS
@@ -71,7 +69,7 @@ Assigned to quicksketch / herbdool / laryn / hosef
 ## Backdrop's Website updates
 
 - [ ] backdropcms.org @jenlampton (or bugfolder)
-- [ ] beta.backdropcms.org @jenlampton (or bugfolder)
+- [ ] beta.backdropcms.org @bugfolder (or jenlampton)
 - [ ] docs.backdropcms.org @jenlampton (or bugfolder)
 - [ ] events.backdropcms.org @jenlampton (or bugfolder)
 - [ ] forum.backdropcms.org @jenlampton (or bugfolder)
