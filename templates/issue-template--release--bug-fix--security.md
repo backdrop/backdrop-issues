@@ -56,11 +56,12 @@ Release scheduled for [Month] DD, 20xx 10am - 4pm PT
 ## Immediate Post-release tasks
 
 - [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/wiki/Update:-Tugboat) @klonos
+- [ ] Update [Composer](https://github.com/backdrop/backdrop-issues/wiki/Update:-Composer) @herbdool
+- [ ] Update [Docker](https://github.com/backdrop/backdrop-issues/wiki/Update:-Docker-Image) @wylbur
 - [ ] Update [Pantheon](https://github.com/backdrop/backdrop-issues/wiki/Update:-Pantheon-Upstream) @herbdool
 - [ ] Update [Platform.sh](https://github.com/backdrop/backdrop-issues/wiki/Update:-Platform.sh-Template) @herbdool
-- [ ] Update [Composer](https://github.com/backdrop-ops/backdrop-composer) @herbdool
-- [ ] Update [Docker](https://github.com/backdrop/backdrop-issues/wiki/Update:-Docker-Image) @wylbur
-- [ ] Update [Amezmo](https://github.com/sdubois/backdrop-amezmo) @jenlampton
+- [ ] Update [Amezmo](https://github.com/backdrop/backdrop-issues/wiki/Update:-Amezmo) @jenlampton
+- [ ] Update [DrupalForge](https://github.com/backdrop/backdrop-issues/wiki/Update:-Drupal-Forge-(devpanel)-Template) @izmeez
 - [ ] Update the Wikipedia articles @klonos
   - [ ] https://en.wikipedia.org/w/index.php?title=Template:BackdropCMS_version&action=edit - 
     * Auto applied to:
