@@ -60,6 +60,9 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 
 - [ ] Tweet that a new release is out @stpaultim
   * Use text like "We're thrilled to announce Backdrop version 1.18.0. This is the 19th new feature release of #BackdropCMS. https://backdropcms.org"
+- [ ] Post to Mastodon @stpaultim
+- [ ] Post to Facebook @stpaultim or @cellear
+- [ ] Post to LinkedIn @yorkshirepudding
 - [ ] Publish blog post (assign to stpaultim / tomgrandy / klonos / jenlampton)
 - [ ] email katie@phpweekly.com for a note in the PHP Weekly Newsletter (assign to stpaultim / klonos / jenlampton)
 - [ ] Update the roadmap page on b.org (assign to stpaultim / klonos / jenlampton)
