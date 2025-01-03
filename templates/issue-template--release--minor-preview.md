@@ -16,7 +16,6 @@ Scheduled for January/May/September 1st, 20xx 10am - 4pm PT
 - [ ] Move all unfinished issues to the next minor release milestone (assign to klonos / jenlampton / herbdool / quicksketch)
 - [ ] Review all closed issues in milestone: (assign to klonos / jenlampton / stpaultim )
   * Issue titles should include a complete, but very brief summary of the problem.
-  * Issue titles should be in complete sentences, ending with a period.
   * Bug issue titles should start with `Fix` or `Fixed`,
   * New feature issue titles should start with `Add` or `Added`.
   * Each issue should have accurate labels, especially the "type - " labels.
@@ -46,7 +45,6 @@ Scheduled for January/May/September 1st, 20xx 10am - 4pm PT
   - [ ] Add a conclusion suitable for blog post + release notes
   - [ ] Add `Documentation` label if the feature needs to be documented (or needs docs to be updated)
   - [ ] Add `Needs change record` label if the the issue contains an API change.
-  - [ ] Add `Needs translation` label if the the issue contains string translations.
 - [ ] Draft blog post for release on the 15th (assign to stpaultim / tomgrandy / klonos / jenlampton)
 - [ ] Draft roadmap updates for backdropcms.org (assign to stpaultim / klonos / jenlampton)
 - [ ] Update list of [modules included in backdrop core](https://docs.backdropcms.org/documentation/features-added-to-core) (assign to bugfolder / klonos / jenlampton)

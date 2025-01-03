@@ -15,7 +15,6 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 - [ ] Move all unfinished issues to the next bug-fix release milestone (assign to klonos / jenlampton / herbdool / quicksketch)
 - [ ] Review all closed issues in milestone: (assign to klonos / jenlampton / stpaultim )
   * Issue titles should include a complete, but very brief summary of the problem.
-  * Issue titles should be in complete sentences, ending with a period.
   * Bug issue titles should start with `Fix` or `Fixed`,
   * New feature issue titles should start with `Add` or `Added`.
   * Each issue should have accurate labels, especially the "type - " labels.
