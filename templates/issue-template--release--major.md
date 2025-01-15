@@ -44,7 +44,14 @@ Steps to create a MAJOR release
 - [ ] Create release notes on GitHub (assign to quicksketch / jenlampton)
 - [ ] Unpublish preview release on backdropcms.org (assign to quicksketch / jenlampton)
 - [ ] Update the front page download link on b.org (assign to serundeputy / quicksketch / jenlampton / klonos)
-- [ ] Tweet that a new release is out (assign to quicksketch / jenlampton / jimbirch)
+- [ ] Social Media: Post/Tweet/Toot/Skeet that a new version is out (assignments below)
+  * Use text like "We're thrilled to announce Backdrop version 1.x. This is the 2nd major release of #BackdropCMS. https://backdropcms.org"
+  - [ ] Post to Bluesky @stpaultim
+  - [ ] Post to Mastodon @stpaultim
+  - [ ] Post to Twitter @stpaultim
+  - [ ] Post to Facebook @stpaultim or @cellear
+  - [ ] Post to LinkedIn @yorkshirepudding
+- [ ] Publish blog post (assign to stpaultim / klonos / jenlampton)
 
 ## Post-release tasks (after first bug-fix release or 14 days -- whichever comes sooner)
 

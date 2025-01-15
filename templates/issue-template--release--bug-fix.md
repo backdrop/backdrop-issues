@@ -46,8 +46,11 @@ Release scheduled for [Month] DD, 20xx 10am - 4pm PT
 - [ ] Revert version number back (assign to quicksketch / herbdool / laryn / hosef)
 - [ ] Create release notes on GitHub, and publish release (assign to jenlampton / herbdool / quicksketch)
 - [ ] Update the front page download link on b.org (assign to stpaultim / klonos / jenlampton / herbdool / quicksketch)
-- [ ] Tweet that a new release is out (assign to stpaultim / jimbirch / jenlampton / quicksketch)
-  - Use text like "There is a bug-fix release out for #BackdropCMS today, version 1.27.2: https://backdropcms.org."
+- [ ] Post/Tweet/Toot/Skeet that a new release is out (assignments below)
+  * Use text like "There is a bug-fix release out for #BackdropCMS today, version 1.27.2: https://backdropcms.org."
+  - [ ] Post to Bluesky @stpaultim
+  - [ ] Post to Mastodon @stpaultim
+  - [ ] Post to Twitter @stpaultim
 
 ## Immediate Post-release tasks
 
