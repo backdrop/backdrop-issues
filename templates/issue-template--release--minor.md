@@ -52,7 +52,7 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 - [ ] Create release notes on GitHub, and publish release (assign to jenlampton / herbdool / quicksketch)
 - [ ] Unpublish preview release on backdropcms.org (assign to stpaultim / klonos / jenlampton / herbdool / quicksketch)
 - [ ] Update the front page download link on b.org (assign to stpaultim / klonos / jenlampton)
-- [ ] Create a new language template file for the translation server @olaf
+- [ ] Create a new language template file for the translation server @olafgrabienski
 <!-- automate this https://github.com/backdrop-ops/localize.backdropcms.org/issues/27 -->
 
 ## Immediate Post-release tasks
