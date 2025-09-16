@@ -43,7 +43,6 @@ Steps to create a MAJOR release
 - [ ] Revert version number back (assign to quicksketch / herbdool / laryn / hosef)
 - [ ] Create release notes on GitHub (assign to quicksketch / jenlampton)
 - [ ] Unpublish preview release on backdropcms.org (assign to quicksketch / jenlampton)
-- [ ] Update the front page download link on b.org (assign to serundeputy / quicksketch / jenlampton / klonos)
 - [ ] Social Media: Post/Tweet/Toot/Skeet that a new version is out (assignments below)
   * Use text like "We're thrilled to announce Backdrop version 1.x. This is the 2nd major release of #BackdropCMS. https://backdropcms.org"
   - [ ] Post to Bluesky @stpaultim

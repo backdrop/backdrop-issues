@@ -50,7 +50,6 @@ Release scheduled for [Month] DD, 20xx 10am - 4pm PT
 - [ ] Publish Security Advisories on b.org (assign to stpaultim / klonos / jenlampton / herbdool / quicksketch)
 - [ ] Mark the release node on b.org as a security release (assign to stpaultim / klonos / jenlampton / herbdool / quicksketch)
 - [ ] [Request a CVE](https://github.com/backdrop/backdrop-issues/wiki/Security:-Request-CVE) - (assign to jenlampton / quicksketch)
-- [ ] Update the front page download link on b.org (assign to stpaultim / klonos / jenlampton / herbdool / quicksketch)
 - [ ] Post/Tweet/Toot/Skeet that a new release is out (assignments below)
   - Use text like "There is a security release out for #BackdropCMS today, please update when you can. Backdrop core - Critical - Third-party libraries - BACKDROP-SA-CORE-2021-001"
   - [ ] Post to Bluesky @stpaultim

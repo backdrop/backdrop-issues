@@ -51,7 +51,6 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 - [ ] Revert version number back on new minor number branch (e.g. `1.10.x-dev`) (assign to quicksketch / herbdool / laryn / hosef)
 - [ ] Create release notes on GitHub, and publish release (assign to jenlampton / herbdool / quicksketch)
 - [ ] Unpublish preview release on backdropcms.org (assign to stpaultim / klonos / jenlampton / herbdool / quicksketch)
-- [ ] Update the front page download link on b.org (assign to stpaultim / klonos / jenlampton)
 - [ ] Create a new language template file for the translation server @olafgrabienski
 <!-- automate this https://github.com/backdrop-ops/localize.backdropcms.org/issues/27 -->
 
@@ -68,7 +67,8 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
   - [ ] Post to LinkedIn @yorkshirepudding
 - [ ] Publish blog post (assign to stpaultim / klonos / jenlampton)
 - [ ] email katie@phpweekly.com for a note in the PHP Weekly Newsletter (assign to stpaultim / klonos / jenlampton)
-- [ ] Update the roadmap page on b.org (assign to stpaultim / klonos / jenlampton)
+- [ ] Update the [Project history page](https://backdropcms.org/roadmap/project-history) on b.org (assign to stpaultim / klonos / jenlampton)
+- [ ] Update the [roadmap page](https://backdropcms.org/roadmap) on b.org (assign to stpaultim / klonos / jenlampton)
 - [ ] Update list of modules included in backdrop core (assign to bugfolder / klonos / jenlampton)
 - [ ] Update list of modules included in backdrop_upgrade_status module @jenlampton
 - [ ] Update the Wikipedia articles (assign to stpaultim / klonos / jenlampton)
