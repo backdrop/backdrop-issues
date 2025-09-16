@@ -69,7 +69,6 @@ Scheduled for January/May/September 1st, 20xx 10am - 4pm PT
   - [ ] Post to Bluesky @stpaultim
   - [ ] Post to Mastodon @stpaultim
   - [ ] Post to Twitter @stpaultim
-- [ ] Publish roadmap updates for backdropcms.org (assign to stpaultim / klonos / jenlampton)
 
 See Also
 ---------

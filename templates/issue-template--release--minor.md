@@ -67,7 +67,7 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
   - [ ] Post to LinkedIn @yorkshirepudding
 - [ ] Publish blog post (assign to stpaultim / klonos / jenlampton)
 - [ ] email katie@phpweekly.com for a note in the PHP Weekly Newsletter (assign to stpaultim / klonos / jenlampton)
-- [ ] Update the [Project history page](https://backdropcms.org/roadmap/project-history) on b.org (assign to stpaultim / klonos / jenlampton)
+- [ ] Update the [project history page](https://backdropcms.org/roadmap/project-history) on b.org (assign to stpaultim / klonos / jenlampton)
 - [ ] Update the [roadmap page](https://backdropcms.org/roadmap) on b.org (assign to stpaultim / klonos / jenlampton)
 - [ ] Update list of modules included in backdrop core (assign to bugfolder / klonos / jenlampton)
 - [ ] Update list of modules included in backdrop_upgrade_status module @jenlampton
