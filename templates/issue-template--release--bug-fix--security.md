@@ -23,7 +23,7 @@ Release scheduled for [Month] DD, 20xx 10am - 4pm PT
   - [ ] Include a short, descriptive summary of the release, for example:
     * "Security release for Backdrop CMS. This release fixes 1 security vulnerability:"
     * Include a list of SA's for commits to this release
-  - [ ] Include a section heading `**Notes for updating**`
+  - [ ] Include a section heading `## Notes for updating*`
     - [ ] Note if any changes were made to files outside the `core` directory, for example:
       * ``- No changes have been made to the `.htaccess`, `robots.txt` or default `settings.php` files in this release. Updating customized versions of those files is not necessary.``
       * See [this example](https://github.com/backdrop/backdrop/releases/tag/1.18.0) for updates to `.htaccess`
@@ -33,11 +33,12 @@ Release scheduled for [Month] DD, 20xx 10am - 4pm PT
       * or `**It will be necessary to run the update script** (located at /core/update.php) for this release.`
       * Note: you can use this command to see if any install files were changed:
       `ls -1 core/modules/*/*.install | while read filename; do echo "$(git log -1 --pretty="format:%ad %f" --date=format:"%F %R" -- $filename)" $filename; done|sort`
-  - [ ] Include a section heading `**Changes since version 1.xx.x** are listed below.`
+  - [ ] Include a section heading `## Changes since version 1.xx.x are listed below.`
     * Navigate to [Actions](https://github.com/backdrop/backdrop-issues/actions)
     * Select the most recent time "Release Notes Generator" has been run.
     * Download the `release-notes` artifact attached to the generator.
     * Unzip the file, and copy/pate contents into release notes draft.
+      - Move the headings to H3, add another `#` before the `##` to get `###`.
     * Remove any square brackets in the titles, and move those issues to their own section.
 - [ ] Draft Security Advisories (assign to stpaultim / klonos / jenlampton  herbdool / quicksketch)
 
