@@ -31,7 +31,7 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
       - [ ] Note if updates (update.php) needs to be run, for example:
         * Use the text `The database update script does **not** need to be run.`
         * or `**It will be necessary to run the update script** (located at /core/update.php) for this release.`
-    - [ ] Include a section heading `## Changes since version 1.xx.x are listed below.`
+    - [ ] Include a section heading `## Changes since version 1.xx.x`
         * Note: you can use this command to see if any install files were changed:
         `ls -1 core/modules/*/*.install | while read filename; do echo "$(git log -1 --pretty="format:%ad %f" --date=format:"%F %R" -- $filename)" $filename; done|sort`
       * Navigate to [Actions](https://github.com/backdrop/backdrop-issues/actions)
