@@ -66,7 +66,10 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
   - [ ] Post to Twitter @stpaultim
   - [ ] Post to Facebook @stpaultim or @cellear
   - [ ] Post to LinkedIn @yorkshirepudding
-- [ ] Publish blog post (assign to stpaultim / klonos / jenlampton)
+- [ ] Generate an unpublished/draft blog post with AI tools (@wylbur)
+  - [ ] Review blog post and provide feedback (@izmeez, @stpaultim and anyone else)
+  - [ ] Publish blog post (assign to @stpaultim / @jenlampton / @yorkshirepudding)
+  - [ ] Publish a Public Notification on BackdropCMS.org about the blog post / release.
 - [ ] email katie@phpweekly.com for a note in the PHP Weekly Newsletter (assign to stpaultim / klonos / jenlampton)
 - [ ] Update the [project history page](https://backdropcms.org/roadmap/project-history) on b.org (assign to stpaultim / klonos / jenlampton)
 - [ ] Update the [roadmap page](https://backdropcms.org/roadmap) on b.org (assign to stpaultim / klonos / jenlampton)
