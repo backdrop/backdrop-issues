@@ -46,7 +46,8 @@ Scheduled for January/May/September 1st, 20xx 10am - 4pm PT
   - [ ] Add a conclusion suitable for blog post + release notes
   - [ ] Add `Documentation` label if the feature needs to be documented (or needs docs to be updated)
   - [ ] Add `Needs change record` label if the the issue contains an API change.
-- [ ] Draft blog post for release on the 15th (assign to stpaultim / tomgrandy / klonos / jenlampton)
+- [ ] Generate an unpublished/draft blog post (and rewrite if it was created with AI tools) @wylbur
+  - [ ] Review blog post and provide feedback @izmeez, @stpaultim and anyone else
 - [ ] Draft roadmap updates for backdropcms.org (assign to stpaultim / klonos / jenlampton)
 - [ ] Update list of [modules included in backdrop core](https://docs.backdropcms.org/documentation/features-added-to-core) (assign to bugfolder / klonos / jenlampton)
 - [ ] Update list of modules included in backdrop_upgrade_status module @ jenlampton

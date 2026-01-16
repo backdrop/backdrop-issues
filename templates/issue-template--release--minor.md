@@ -57,7 +57,7 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 
 ## Immediate Post-release tasks
 
-### Publicity tasks
+### Publicity tasks (Immediate - see also "2-week Post-release tasks" below)
 
 - [ ] Social Media: Post/Tweet/Toot/Skeet that a new version is out (assignments below)
   * Use text like "We're thrilled to announce Backdrop version 1.18. This is the 19th new feature release of #BackdropCMS. https://backdropcms.org"
@@ -66,10 +66,7 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
   - [ ] Post to Twitter @stpaultim
   - [ ] Post to Facebook @stpaultim or @cellear
   - [ ] Post to LinkedIn @yorkshirepudding
-- [ ] Generate an unpublished/draft blog post with AI tools (@wylbur)
-  - [ ] Review blog post and provide feedback (@izmeez, @stpaultim and anyone else)
-  - [ ] Publish blog post (assign to @stpaultim / @jenlampton / @yorkshirepudding)
-  - [ ] Publish a Public Notification on BackdropCMS.org about the blog post / release.
+- [ ] Publish blog post created with Preview release (assign to stpaultim / jenlampton / yorkshirepudding)
 - [ ] email katie@phpweekly.com for a note in the PHP Weekly Newsletter (assign to stpaultim / klonos / jenlampton)
 - [ ] Update the [project history page](https://backdropcms.org/roadmap/project-history) on b.org (assign to stpaultim / klonos / jenlampton)
 - [ ] Update the [roadmap page](https://backdropcms.org/roadmap) on b.org (assign to stpaultim / klonos / jenlampton)
@@ -81,7 +78,7 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
       * https://en.wikipedia.org/wiki/Backdrop_CMS
       * https://en.wikipedia.org/wiki/List_of_content_management_systems
 
-### Code tasks
+### Code tasks (Immediate)
 
 - [ ] Update [Tugboat](https://github.com/backdrop/backdrop-issues/wiki/Update:-Tugboat) @klonos
 - [ ] Update [Composer](https://github.com/backdrop/backdrop-issues/wiki/Update:-Composer) @herbdool
@@ -101,13 +98,14 @@ Scheduled for January/September/May 15, 20xx 10am - 4pm PT
 ## 2-week Post-release tasks
 <!-- These should be done after the first bug-fix release or 14 days -- whichever comes sooner. -->
 
+### Backdrop Website updates (2-week Post-release)
 - [ ] backdropcms.org @jenlampton
 - [ ] forum.backdropcms.org @jenlampton
 
 
-### Publicity tasks
+### Publicity tasks (2-week Post-release)
 
-- [ ] Add a notification to the dashboard (assign to stpaultim / klonos / jenlampton)
+- [ ] Add a Public Notification on BackdropCMS.org and link to the blog post (assign to stpaultim / klonos / jenlampton)
 - [ ] Send a newsletter to subscribers (assign to stpaultim / jenlampton)
 
 
