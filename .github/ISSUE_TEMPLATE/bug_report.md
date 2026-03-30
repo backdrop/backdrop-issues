@@ -2,7 +2,8 @@
 name: Bug report
 about: Noticed something not working as expected?
 title: ''
-labels: type - bug report
+labels: ''
+type: Bug
 assignees: ''
 
 ---
