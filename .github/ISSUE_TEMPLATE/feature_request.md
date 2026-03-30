@@ -2,7 +2,8 @@
 name: Feature request
 about: Suggest an idea on how to improve Backdrop
 title: ''
-labels: type - feature request
+labels: ''
+type: Feature
 assignees: ''
 
 ---
