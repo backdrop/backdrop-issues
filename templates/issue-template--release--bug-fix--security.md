@@ -11,9 +11,9 @@ Release scheduled for [Month] DD, 20xx 10am - 4pm PT
 ## Pre-release tasks
 
 - [ ] Merge commits (assign to quicksketch / herbdool / laryn / hosef)
-- [ ] Create the next bugfix milestone (assign to klonos / jenlampton / herbdool / quicksketch)
-- [ ] Move all unfinished issues to the next bugfix release milestone (assign to klonos / jenlampton / herbdool / quicksketch)
-- [ ] Review all closed issues in milestone: (assign to klonos / jenlampton / stpaultim )
+- [ ] Create the next bugfix milestone (assign to jenlampton / herbdool / quicksketch)
+- [ ] Move all unfinished issues to the next bugfix release milestone (assign to jenlampton / herbdool / quicksketch)
+- [ ] Review all closed issues in milestone: (assign to jenlampton / stpaultim )
   * Issue titles should include a complete, but very brief summary of the problem.
   * Bug issue titles should start with `Fix` or `Fixed`,
   * New feature issue titles should start with `Add` or `Added`.
@@ -40,7 +40,7 @@ Release scheduled for [Month] DD, 20xx 10am - 4pm PT
     * Unzip the file, and copy/pate contents into release notes draft.
       - Move the headings to H3, add another `#` before the `##` to get `###`.
     * Remove any square brackets in the titles, and move those issues to their own section.
-- [ ] Draft Security Advisories (assign to stpaultim / klonos / jenlampton  herbdool / quicksketch)
+- [ ] Draft Security Advisories (assign to stpaultim / jenlampton  herbdool / quicksketch)
 
 ## Release tasks
 
@@ -48,8 +48,8 @@ Release scheduled for [Month] DD, 20xx 10am - 4pm PT
 - [ ] Tag for release, and push tag to GitHub (assign to quicksketch / herbdool / laryn / hosef)
 - [ ] Revert version number back (assign to quicksketch / herbdool / laryn / hosef)
 - [ ] Create release notes on GitHub, and publish release (assign to jenlampton / herbdool / quicksketch)
-- [ ] Publish Security Advisories on b.org (assign to stpaultim / klonos / jenlampton / herbdool / quicksketch)
-- [ ] Mark the release node on b.org as a security release (assign to stpaultim / klonos / jenlampton / herbdool / quicksketch)
+- [ ] Publish Security Advisories on b.org (assign to stpaultim / jenlampton / herbdool / quicksketch)
+- [ ] Mark the release node on b.org as a security release (assign to stpaultim / jenlampton / herbdool / quicksketch)
 - [ ] [Request a CVE](https://github.com/backdrop/backdrop-issues/wiki/Security:-Request-CVE) - (assign to jenlampton / quicksketch)
 - [ ] Post/Tweet/Toot/Skeet that a new release is out (assignments below)
   - Use text like "There is a security release out for #BackdropCMS today, please update when you can. Backdrop core - Critical - Third-party libraries - BACKDROP-SA-CORE-2021-001"
